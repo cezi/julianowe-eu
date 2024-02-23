@@ -1,1 +1,1 @@
-julionowe.github.io
+Portfolio Julia Nowe
