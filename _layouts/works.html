@@ -43,7 +43,7 @@ layout: default
             <div class="works-item scrolla-element-anim-1 scroll-animate" data-animate="active">
               <div class="image">
                 <div class="img">
-                  <a href="{{ site.url }}{{ site.baseurl }}/{{ work.url }}">
+                  <a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">
                     <img decoding="async" src="{{ work.image | relative_url }}" alt="{{ work.title }}" >
                     <span class="overlay"></span>
                   </a>
@@ -57,7 +57,7 @@ layout: default
                 <div class="text">
                   <p>{{ work.short_description }}</p>
                 </div>
-                <a href="{{ site.url }}{{ site.baseurl }}/{{ work.url }}" class="lnk">{{ ui_text.see_project }}</a>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" class="lnk">{{ ui_text.see_project }}</a>
               </div>
               <div class="bg-img" style="background-image: url(/assets/images/pat-2.png);"></div>
             </div>
