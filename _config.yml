@@ -55,6 +55,11 @@ collections:
   works:
     output: true
     permalink: /:collection/:name
+defaults:
+  - scope:
+      path: "works/"
+    values:
+      layout: "works-single"
 
 
 # archives
