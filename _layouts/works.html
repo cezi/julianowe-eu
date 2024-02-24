@@ -43,7 +43,7 @@ layout: default
             <div class="works-item scrolla-element-anim-1 scroll-animate" data-animate="active">
               <div class="image">
                 <div class="img">
-                  <a href="{{ work.url }}">
+                  <a href="{{ work.url | relative_url }}">
                     <img decoding="async" src="{{ work.image | relative_url }}" alt="{{ work.title }}" >
                     <span class="overlay"></span>
                   </a>
