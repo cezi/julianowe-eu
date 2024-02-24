@@ -54,7 +54,7 @@ formspree_endpoint: "https://formspree.io/f/your_endpoint" # sign up on https://
 collections:
   works:
     output: true
-    permalink: /julianowe-eu/:collection/:name
+    permalink: /:collection/:name
 
 
 # archives
