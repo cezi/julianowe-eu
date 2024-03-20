@@ -91,25 +91,25 @@ skills:
 resume:
   title: "Resume"
   subtitle: ""
-  bg_title: "History"
+  bg_title: ""
 
   education:
-    title: "Education gfnjgkf"
+    title: "Education"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "UXUI Academy"
+        subname: ""
+        period: "02/2023 - 09/2023"
+        text: " UXUI designer professional course."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "SWPS University"
+        subname: ""
+        period: "2016 - 2021"
+        text: "Master's degree in Psychology with specialization in Clinical Psychology."
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "High School in. United Europe"
+        subname: ""
+        period: "2013 - 2016"
+        text: "Study on the humanities profile with elements of film education."
 
   experience:
     title: "Experience"
