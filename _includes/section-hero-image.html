@@ -13,7 +13,7 @@
             <div class="lui-subtitle">
               <span>{{ content.before_title }}</span>
             </div>
-            <h1 class="title splitting-text-anim-1 scroll-animate" data-splitting="chars" data-animate="active">
+            <h1 class="title splitting-text-anim-1 scroll-animate" data-animate="active">
               <span>{{ content.title }}</span>
             </h1>
             <div class="label lui-subtitle">
@@ -24,6 +24,7 @@
             <div>
               <p>{{ content.description }}</p>
             </div>
+            <!---
             <div class="social-links">
               {% for link in social %}
         			{% assign link_url = link.url | absolute_url %}
@@ -32,6 +33,7 @@
               </a>
               {% endfor %}
             </div>
+          -->
           </div>
           <div class="bts">
             <a target="_blank" href="{{ content.button1.link }}" class="btn">
@@ -42,13 +44,13 @@
         </div>
         <div class="slide scrolla-element-anim-1 scroll-animate" data-animate="active">
           <img decoding="async" src="{{ content.image | relative_url }}" alt="{{ content.image_alt }}" />
-
+<!--
           <span class="circle circle-1"></span>
 
           <span class="circle img-1" style="background-image: url(assets/images/pat-1.png);"></span>
           <span class="circle img-2" style="background-image: url(assets/images/pat-2.png);"></span>
           <span class="circle img-3" style="background-image: url(assets/images/pat-2.png);"></span>
-
+        -->
           <div class="info-list">
             <ul>
               {% for item in content.info %}

@@ -5,25 +5,26 @@
 
 ### Hero [ hero-image ]
 hero:
-  image: "assets/img/profile2.png"
+  #image: "assets/img/julia-nowe-fot-web-portfolio.jpg"
+  image: "assets/img/julia-nowe-fot-web-portfolio.png"
   image_alt: "Julia Nowe"
-  title: "<b>Julia</b> Nowe"
-  before_title: "Hello, <b>my name is</b>"
-  after_title: "I am <strong>Web Developer</strong>"
-  description: "From France, Paris. I have rich experience in web design, also I am good at wordpress. I love to talk with you about our unique."
+  title: "Julia Nowe"
+  before_title: "Hello, my name is"
+  after_title: ""
+  description: "I am UX Designer and psychologist. My emphasis in design is minimalism, empathy and openess to creativity."
   button1:
-    label: "Download CV"
+    label: "My works"
     link: "https://drive.google.com/"
   button2:
-    label: "My Skills"
+    label: "My resume"
     link: "#skills-section"
-  bg_title: "Web Developer"
+  bg_title: ""
   info:
-    - num: "12 <strong>+</strong>"
-      value: "Years of <strong>Experience</strong>"
+    - num: ""
+      value: "Junior <strong>UX Designer</strong>"
 
-    - num: "330"
-      value: "Completed <strong>Projects</strong>"
+    - num: ""
+      value: "Gdansk, <strong>Poland</strong>"
 
 ### Services [ services ]
 services:
@@ -101,7 +102,7 @@ skills:
 ### Resume [ resume ]
 resume:
   title: "Resume"
-  subtitle: "my <b>Story</b>"
+  subtitle: ""
   bg_title: "History"
 
   education:
@@ -257,7 +258,7 @@ contacts:
   list:
     - label: "Address"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "Gdansk, Poland"
 
     - label: "Freelance"
       icon: "far fa-user"
@@ -265,11 +266,11 @@ contacts:
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "nowe.julka@gmail.com"
 
-    - label: "Phone"
+    - label: ""
       icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+      text: ""
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*

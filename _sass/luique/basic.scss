@@ -263,7 +263,7 @@ a.btn-lnk,
 	display: inline-block;
 	vertical-align: top;
 	font-size: 13px;
-	color: #000;
+	color: #383838;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 0.05em;
@@ -281,7 +281,7 @@ a.btn-lnk:before,
 	margin-top: -1px;
 	height: 2px;
 	width: 40px;
-	background: #000;
+	background: #383838;
 }
 
 a.btn,
@@ -296,7 +296,7 @@ input[type="submit"] {
 	display: inline-block;
 	vertical-align: top;
 	font-size: 13px;
-	color: #000;
+	color: #383838;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 0.05em;
@@ -341,7 +341,7 @@ input[type="submit"] {
 
 input[type="submit"] {
 	color: #FFF;
-	background: #29a587;
+	background: #383838;
 	outline: none;
 	cursor: pointer;
 }
@@ -355,7 +355,7 @@ button:before {
 	top: 50%;
 	width: 0%;
 	height: 0%;
-	background: #29a587;
+	background: #383838;
 	transition: all 0.6s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all 0.6s cubic-bezier(0.3, 0, 0.3, 1);
 	transform: translate(-50%, -50%);
@@ -2335,11 +2335,13 @@ hr {
 }
 
 .lui-subtitle {
-	font-size: 13px;
-	font-weight: 700;
+	font-family: "Khula";
+	font-size: 18px!important;
+	font-weight: 300;
 	color: #000;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	letter-spacing: 0.05em;
+	color:#262626;
 }
 
 .lui-subtitle strong,
@@ -2506,15 +2508,15 @@ hr {
 }
 
 .section.hero-started .title {
-	font-family: "Khula";
+	font-family: "Roboto Mono";
 	font-size: 90px;
 	line-height: 1.2;
-	color: #FFF;
-	font-weight: 700;
+	color: rgba(179,117,118,0.95);
+	font-weight: 300;
 	margin: 15px 0 0 0;
-	text-transform: uppercase;
-	letter-spacing: 0.05em;
-	text-shadow: 2px 2px #000, -2px 2px #000, 2px -2px #000, -2px -2px #000, 5px 5px 0px rgba(0, 0, 0, 0.2);
+	text-transform: none;
+	letter-spacing: 0px!important;
+	/*text-shadow: 2px 2px #000, -2px 2px #000, 2px -2px #000, -2px -2px #000, 5px 5px 0px rgba(0, 0, 0, 0.2);*/
 }
 
 .section.hero-started .lui-subtitle {
@@ -2537,6 +2539,7 @@ hr {
 	font-size: 18px;
 	max-width: 520px;
 	font-family: 'Khula';
+	font-weight: 300;
 }
 
 .section.hero-started .description p {
@@ -2621,7 +2624,7 @@ hr {
 .section.hero-started .subtitle b,
 .section.hero-started .title b,
 .section.hero-started .info-list ul li b {
-	color: #29a587;
+	color: #b37576;
 }
 
 /**
