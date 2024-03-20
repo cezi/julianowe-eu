@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: Gooir
-category: UI UX Design
+title: PocketBudget
+category: Bootcamp
 category_slug: ui-ux-design
 image: assets/img/works/work4.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
 
 # full details
 live_preview: https://bslthemes.com
