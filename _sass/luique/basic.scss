@@ -1030,7 +1030,7 @@ hr {
 	display: none;
 }
 
-.v-line-block {
+.v-line-block {/*
 	position: absolute;
 	left: -100px;
 	top: -70px;
@@ -1039,7 +1039,7 @@ hr {
 	background: #000;
 	z-index: 3;
 	pointer-events: none;
-}
+*/}
 
 .v-line-left .v-line-block {
 	left: -100px;
@@ -1061,10 +1061,10 @@ hr {
 	left: -168px;
 	width: 226px;
 	height: 226px;
-	background-image: url(../images/pat-1.png);
+	/*background-image: url(../images/pat-1.png);
 	background-repeat: no-repeat;
 	background-size: contain;
-	display: block;
+	display: block;*/
 }
 
 .v-line-right .v-line-block span {
@@ -1072,7 +1072,7 @@ hr {
 	right: -168px;
 }
 
-.v-line-block:before {
+.v-line-block:before {/*
 	content: '';
 	position: absolute;
 	left: -15px;
@@ -1084,9 +1084,9 @@ hr {
 	border-radius: 30px;
 	box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
 	z-index: 1;
-}
+*/}
 
-.v-line-block:after {
+.v-line-block:after {/*
 	content: '';
 	position: absolute;
 	left: -15px;
@@ -1098,7 +1098,7 @@ hr {
 	border-radius: 30px;
 	box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
 	z-index: 1;
-}
+*/}
 
 .v-line-top .v-line-block span {
 	bottom: auto;
