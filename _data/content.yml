@@ -115,17 +115,14 @@ resume:
     title: "Experience"
     items:
       - name: "UX Designer for Devseed"
-        subname: ""
         period: "2023 - Present<b>Present</b>"
         text: "Creating a website for a company offering local SEO services in the Tricity and working on the development of a mobile app."
 
       - name: "Teacher"
-        subname: ""
         period: "02/2022 - 10/2022"
         text: "Therapeutical work with children coming from difficult and dysfunctional environments at the Blessed P.J. Frassati Support Centre for Children and Adolescents of the Caritas."
 
       - name: "Barista"
-        subname: ""
         period: "2017"
         text: "Waitress at the local cafe. "
 
