@@ -66,8 +66,6 @@ services:
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
-  subtitle: ""
-  bg_title: ""
 
   column1:
     items:
@@ -90,24 +88,19 @@ skills:
 ### Resume [ resume ]
 resume:
   title: "Resume"
-  subtitle: ""
-  bg_title: ""
 
   education:
     title: "Education"
     items:
       - name: "UXUI Academy"
-        subname: ""
         period: "02/2023 - 09/2023"
         text: " UXUI designer professional course."
 
       - name: "SWPS University"
-        subname: ""
         period: "2016 - 2021"
         text: "Master's degree in Psychology with specialization in Clinical Psychology."
 
       - name: "High School in. United Europe"
-        subname: ""
         period: "2013 - 2016"
         text: "Study on the humanities profile with elements of film education."
 
@@ -237,8 +230,6 @@ blog:
 ### Contact [ contacts ]
 contacts:
   title: "Contact Me"
-  subtitle: "Let’s <b>Talk About Ideas</b>"
-  bg_title: "Contact Me"
 
   list:
     - label: "Address"
@@ -253,16 +244,10 @@ contacts:
       icon: "far fa-envelope"
       text: "nowe.julka@gmail.com"
 
-    - label: ""
-      icon: "far fa-address-book"
-      text: ""
-
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
 portfolio:
   title: "Portfolio"
-  subtitle: "my <b>Cases</b>"
-  bg_title: "Portfolio"
   button:
     link: "works/"
     label: "View More"
