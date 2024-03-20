@@ -41,14 +41,8 @@ footer:
 portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:
-    - name: "UI UX Design"
+    - name: "Bootcamp"
       slug: "ui-ux-design"
 
-    - name: "Photography"
+    - name: "Commercial"
       slug: "photography"
-
-    - name: "Development"
-      slug: "development"
-
-    - name: "Branding"
-      slug: "branding"
