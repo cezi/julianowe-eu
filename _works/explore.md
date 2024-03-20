@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: Explore
-category: Development
+title: Pinbot
+category: Commercial
 category_slug: development
 image: assets/img/works/work7.jpg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+short_description: Website offering local businesses in the Tri-City area help with their SEO and better visibility to potential customers.
 
 # full details
 live_preview: https://bslthemes.com
