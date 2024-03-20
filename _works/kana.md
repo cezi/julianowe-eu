@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: Kana
-category: Photography
+title: BookPlan
+category: Bootcamp
 category_slug: photography
 image: assets/img/works/work6.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+short_description: User-centric website aimed at streamlining the process of booking multiple flights and trips simultaneously while offering tailored and customized holiday packages.
 
 # full details
 live_preview: https://bslthemes.com
