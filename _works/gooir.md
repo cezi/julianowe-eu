@@ -45,4 +45,22 @@ video:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
+  title: Research
+  text: Handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management.
+
+From research and a review of direct and indirect competition, we concluded that these applications do not offer user support, which formed the basis of our hypothesis.
+
+Problem: Lack of external and personalized support from financial applications
+
+Hypotheses: People want to improve their money management skills and understand money management better.
+
+Goal: Build an app that helps meet goals and improve financial management process while educating the user.
+
+title: Ideation
+
+title: Testing
+
+title: Design
+
+
 ---
