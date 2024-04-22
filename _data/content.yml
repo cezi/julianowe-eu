@@ -70,19 +70,19 @@ skills:
   column1:
     items:
       - label: "Figma" #0-10 progress in dots
-        text: "Do zrobienia."
+        text: "Creation of system design, high-fidelity, responsive web and application prototypes."
         value: "80" #0-100 progress in %
 
   column2:
     items:
       - label: "ChatGPT" #0-10 progress in dots
-        text: "Do zrobienia."
+        text: "Assistance with the research process, clarification of new concepts, creation of prompts on the topic, generation of necessary content."
         value: "95" #0-100 progress in %
 
   column3:
     items:
       - label: "AdobeXD" #0-10 progress in dots
-        text: "Do zrobienia."
+        text: "Learning to create prototypes and components."
         value: "30" #0-100 progress in %
 
 ### Resume [ resume ]
@@ -94,7 +94,9 @@ resume:
     items:
       - name: "UXUI Academy"
         period: "02/2023 - 09/2023"
-        text: " UXUI designer professional course."
+        text: " UXUI designer professional course.
+        
+        I was part of a team who worked on a financial application and holiday website."
 
       - name: "SWPS University"
         period: "2016 - 2021"
