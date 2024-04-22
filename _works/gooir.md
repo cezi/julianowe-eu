@@ -8,20 +8,21 @@ image: assets/img/works/work4.jpeg
 short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
 
 # full details
-live_preview: https://bslthemes.com
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2022
+    value: 2023 (7 months)
 
-  - label: Technology
-    value: Figma, UI
+  - label: Tools
+    value: Figma
+
+  - label: Role
+    value: UX Designer in a team of three
 
 description1:
   show: yes
-  title: Project Goal
-  text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-  <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
+  title: About the product
+  text: "<p>A financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
 
 gallery:
   - assets/img/works/work5.jpeg
@@ -29,9 +30,16 @@ gallery:
   - assets/img/blog/blog6.jpg
 
 description2:
-  title: Project Result
-  text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-  <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
+  title: Design Proccess
+  text: "<p>Design process took place in four stages:
+
+01 Research: Questionnaires - User interviews - Persona -Empathy Map - User Journey Map
+
+02 Ideation: Competition analysis - Information Architecture - User Flow
+
+03 Testing: Wireframes - Ustability testing - Implementing feedback
+
+04 Design: Visual Design - Hi-fi Prototypes</p>"
 
 video:
   poster: assets/img/blog/blog9.jpg
