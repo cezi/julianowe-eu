@@ -47,7 +47,6 @@ video:
 
   title: Research
   text: Handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management.
-
 From research and a review of direct and indirect competition, we concluded that these applications do not offer user support, which formed the basis of our hypothesis.
 
 Problem: Lack of external and personalized support from financial applications
