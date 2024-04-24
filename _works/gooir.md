@@ -55,11 +55,9 @@ Hypotheses: People want to improve their money management skills and understand 
 
 Goal: Build an app that helps meet goals and improve financial management process while educating the user."
 
-title: Ideation
-
-title: Testing
-
-title: Design
+#title: Ideation
+#title: Testing
+#title: Design
 
 
 ---
