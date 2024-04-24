@@ -19,16 +19,17 @@ info:
   - label: Role
     value: UX Designer in a team of three
 
+# About the product
 description1:
   show: yes
   title: About the product
   text1: "<p>A financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
+  text2: "<p>2 kolumna. Wykasuj jeśli nie ma nic tu być - kasuj  cały cudzysłów, zostaje tylko to: text2: </p>"
 
-gallery:
-  - assets/img/works/work5.jpeg
-  - assets/img/blog/blog8.jpg
+gallery-about-one:
   - assets/img/blog/blog6.jpg
 
+# Design process
 description2:
   title: Design Proccess
   text1: "<p>Design process took place in four stages: <br />
@@ -43,20 +44,33 @@ Problem: Lack of external and personalized support from financial applications <
 Hypotheses: People want to improve their money management skills and understand money management better. <br />
 Goal: Build an app that helps meet goals and improve financial management process while educating the user.</p>"
 
-video:
-  poster: assets/img/blog/blog9.jpg
-  id: Gu6z6kIukgg
-
+# Research
 description3:
+  title: Research
+  text1: "<p>Kolumna 1 </p>"
+  text2: "<p>Kolumna 2 </p>"
+
+gallery-research-one:
+  - assets/img/blog/blog6.jpg
+
+description4:
+  title: Research
+  text1: "<p>Kolumna 1 </p>"
+  text2: "<p>Kolumna 2 </p>"
+  
+gallery-research-two:
+  - assets/img/blog/blog6.jpg
+
+description5:
   title: Ideation
   text: "<p>Text of the Ideation </p>"
 
-description4:
+description6:
   title: Testing
   text: "<p>Text of the Testing </p>"
 
-description5:
-  title: Design
-  text: "<p>Text of the Design </p>"
+video:
+  poster: assets/img/blog/blog9.jpg
+  id: Gu6z6kIukgg
   
 ---
