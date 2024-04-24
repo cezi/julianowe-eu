@@ -54,20 +54,35 @@ gallery-research-one:
   - assets/img/blog/blog6.jpg
 
 description4:
-  title: Research
+  title: Research2
   text1: "<p>Kolumna 1 </p>"
   text2: "<p>Kolumna 2 </p>"
   
 gallery-research-two:
   - assets/img/blog/blog6.jpg
 
+# Ideation
 description5:
   title: Ideation
-  text: "<p>Text of the Ideation </p>"
+  text1: "<p>Kolumna 1  </p>"
+  text2: "<p>Kolumna 2 </p>"
+
+gallery-ideation-one:
+  - assets/img/blog/blog6.jpg
 
 description6:
+  title: Ideation2
+  text1: "<p>Kolumna 1  </p>"
+  text2: "<p>Kolumna 2 </p>"
+
+gallery-ideation-two:
+  - assets/img/blog/blog6.jpg
+
+# Testing
+description7:
   title: Testing
-  text: "<p>Text of the Testing </p>"
+  text1: "<p>Kolumna 1 </p>"
+  text2: "<p>Kolumna 2 </p>"
 
 video:
   poster: assets/img/blog/blog9.jpg
