@@ -31,33 +31,33 @@ gallery:
 
 description2:
   title: Design Proccess
-  text: "<p>Design process took place in four stages:
-
-01 Research: Questionnaires - User interviews - Persona -Empathy Map - User Journey Map
-
-02 Ideation: Competition analysis - Information Architecture - User Flow
-
-03 Testing: Wireframes - Ustability testing - Implementing feedback
-
-04 Design: Visual Design - Hi-fi Prototypes</p>"
+  text: "<p>Design process took place in four stages: <br />
+01 Research: Questionnaires - User interviews - Persona -Empathy Map - User Journey Map <br />
+02 Ideation: Competition analysis - Information Architecture - User Flow <br />
+03 Testing: Wireframes - Ustability testing - Implementing feedback <br />
+04 Design: Visual Design - Hi-fi Prototypes </p>"
 
 video:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
-title: Research
-text: "Handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management.
-From research and a review of direct and indirect competition, we concluded that these applications do not offer user support, which formed the basis of our hypothesis.
+#title: Research
+text: "<p>Handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management. <br />
+From research and a review of direct and indirect competition, we concluded that these applications do not offer user support, which formed the basis of our hypothesis. <br />
+Problem: Lack of external and personalized support from financial applications <br />
+Hypotheses: People want to improve their money management skills and understand money management better. <br />
+Goal: Build an app that helps meet goals and improve financial management process while educating the user.</p>"
 
-Problem: Lack of external and personalized support from financial applications
+description3:
+  title: Ideation
+  text: "<p>Text of the Ideation </p>"
 
-Hypotheses: People want to improve their money management skills and understand money management better.
+description4:
+  title: Testing
+  text: "<p>Text of the Testing </p>"
 
-Goal: Build an app that helps meet goals and improve financial management process while educating the user."
-
-#title: Ideation
-#title: Testing
-#title: Design
-
-
+description5:
+  title: Design
+  text: "<p>Text of the Design </p>"
+  
 ---
