@@ -22,7 +22,7 @@ info:
 description1:
   show: yes
   title: About the product
-  text: "<p>A financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
+  text1: "<p>A financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
 
 gallery:
   - assets/img/works/work5.jpeg
@@ -41,7 +41,6 @@ video:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
-#title: Research
 text: "<p>Handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management. <br />
 From research and a review of direct and indirect competition, we concluded that these applications do not offer user support, which formed the basis of our hypothesis. <br />
 Problem: Lack of external and personalized support from financial applications <br />
