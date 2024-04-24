@@ -31,7 +31,7 @@ gallery:
 
 description2:
   title: Design Proccess
-  text: "<p>Design process took place in four stages: <br />
+  text1: "<p>Design process took place in four stages: <br />
 01 Research: Questionnaires - User interviews - Persona -Empathy Map - User Journey Map <br />
 02 Ideation: Competition analysis - Information Architecture - User Flow <br />
 03 Testing: Wireframes - Ustability testing - Implementing feedback <br />
