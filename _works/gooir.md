@@ -63,7 +63,7 @@ gallery-research-two:
 
 # Ideation
 description5:
-  title: Ideation
+  title: Ideation1
   text1: "<p>Kolumna 1  </p>"
   text2: "<p>Kolumna 2 </p>"
 
@@ -80,12 +80,20 @@ gallery-ideation-two:
 
 # Testing
 description7:
-  title: Testing
+  title: Testing1
   text1: "<p>Kolumna 1 </p>"
   text2: "<p>Kolumna 2 </p>"
 
-video:
+video-testing-one:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
+
+gallery-testing-one:
+  - assets/img/blog/blog6.jpg
+
+description8:
+  title: Testing2
+  text1: "<p>Kolumna 1 </p>"
+  text2: "<p>Kolumna 2 </p>"
   
 ---
