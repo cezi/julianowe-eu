@@ -476,6 +476,39 @@ layout: default
 </div>
 <!-- EOF Section - Gallery Testing One -->
 
+{% if page.description8.title != nil or page.description8.text1 != nil or page.description8.text2 != nil %}
+<!-- Section - Testing Two -->
+<section class="section section-inner">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+				<div class="post-content">
+					<h4>{{ page.description8.title }}</h4>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description8.text1 }}
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description8.text2 }}
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- EOL Section - Testing Two -->
+{% endif %}
 
 
 
