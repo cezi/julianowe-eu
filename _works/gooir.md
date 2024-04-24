@@ -90,10 +90,22 @@ video-testing-one:
 
 gallery-testing-one:
   - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
 
 description8:
   title: Testing2
   text1: "<p>Kolumna 1 </p>"
   text2: "<p>Kolumna 2 </p>"
+
+# Design
+description9:
+  title: Design1
+  text1: "<p>Kolumna 1 </p>"
+  text2: "<p>Kolumna 2 </p>"
+
+gallery-design-one:
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
   
 ---
