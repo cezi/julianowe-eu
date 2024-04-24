@@ -287,6 +287,123 @@ layout: default
 </div>
 <!-- EOF Section - Gallery Research Two-->
 
+{% if page.description5.title != nil or page.description5.text1 != nil or page.description5.text2 != nil %}
+<!-- Section - Ideation One -->
+<section class="section section-inner">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+				<div class="post-content">
+					<h4>{{ page.description5.title }}</h4>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description5.text1 }}
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description5.text2 }}
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- EOL Section - Ideation One -->
+{% endif %}
+
+<!-- Section - Gallery Ideation One -->
+<div class="section section-inner">
+	<div class="container">
+		<div class="m-gallery">
+			<div class="row">
+				{% for image in page.gallery-ideation-one %}
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="works-item">
+						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
+							<div class="img">
+								<a href="{{ image | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- EOF Section -Gallery Ideation One -->
+
+{% if page.description6.title != nil or page.description6.text1 != nil or page.description6.text2 != nil %}
+<!-- Section - Ideation Two -->
+<section class="section section-inner">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+				<div class="post-content">
+					<h4>{{ page.description6.title }}</h4>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description6.text1 }}
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description6.text2 }}
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- EOL Section - Ideation Two-->
+{% endif %}
+
+<!-- Section - Gallery Ideation Two -->
+<div class="section section-inner">
+	<div class="container">
+		<div class="m-gallery">
+			<div class="row">
+				{% for image in page.gallery-ideation-two %}
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="works-item">
+						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
+							<div class="img">
+								<a href="{{ image | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- EOF Section -Gallery Ideation Two -->
 
 
 
