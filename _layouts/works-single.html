@@ -115,7 +115,7 @@ layout: default
 	<div class="container">
 		<div class="m-gallery">
 			<div class="row">
-				{% for image in page.gallery-about %}
+				{% for image in page.gallery-about-one %}
 				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
@@ -170,7 +170,7 @@ layout: default
 {% endif %}
 
 {% if page.description3.title != nil or page.description3.text1 != nil or page.description3.text2 != nil %}
-<!-- Section - Research -->
+<!-- Section - Research One -->
 <section class="section section-inner">
 	<div class="container">
 
@@ -200,15 +200,15 @@ layout: default
 
 	</div>
 </section>
-<!-- EOL Section - Research -->
+<!-- EOL Section - Research One -->
 {% endif %}
 
-<!-- Section - Gallery Research -->
+<!-- Section - Gallery Research One -->
 <div class="section section-inner">
 	<div class="container">
 		<div class="m-gallery">
 			<div class="row">
-				{% for image in page.gallery-research %}
+				{% for image in page.gallery-research-one %}
 				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
@@ -226,10 +226,10 @@ layout: default
 
 	</div>
 </div>
-<!-- EOF Section - Gallery Research -->
+<!-- EOF Section - Gallery Research One -->
 
 {% if page.description4.title != nil or page.description4.text1 != nil or page.description4.text2 != nil %}
-<!-- Section - Research Results of interviews -->
+<!-- Section - Research Two -->
 <section class="section section-inner">
 	<div class="container">
 
@@ -259,7 +259,7 @@ layout: default
 
 	</div>
 </section>
-<!-- EOL Section - Research Results of interviews -->
+<!-- EOL Section - Research Two -->
 {% endif %}
 
 <!-- Section - Gallery Research Two -->
