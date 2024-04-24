@@ -77,7 +77,7 @@ layout: default
 {% endif %}
 
 {% if page.description1.title != nil or page.description1.text1 != nil or page.description1.text2 != nil %}
-<!-- Section - Description -->
+<!-- Section - About the product -->
 <section class="section section-inner">
 	<div class="container">
 
@@ -107,16 +107,15 @@ layout: default
 
 	</div>
 </section>
+<!-- EOL Section - About the product -->
 {% endif %}
 
-<!-- Section - Gallery -->
+<!-- Section - Gallery About the product -->
 <div class="section section-inner">
 	<div class="container">
-
-		<!-- Section Gallery -->
 		<div class="m-gallery">
 			<div class="row">
-				{% for image in page.gallery %}
+				{% for image in page.gallery-about %}
 				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
@@ -134,9 +133,10 @@ layout: default
 
 	</div>
 </div>
+<!-- EOL Section - Gallery About the product -->
 
 {% if page.description2.title != nil or page.description2.text1 != nil or page.description2.text2 != nil %}
-<!-- Section - Description -->
+<!-- Section - Design process -->
 <section class="section section-inner">
 	<div class="container">
 
@@ -166,7 +166,130 @@ layout: default
 
 	</div>
 </section>
+<!-- EOL Section - Design process -->
 {% endif %}
+
+{% if page.description3.title != nil or page.description3.text1 != nil or page.description3.text2 != nil %}
+<!-- Section - Research -->
+<section class="section section-inner">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+				<div class="post-content">
+					<h4>{{ page.description3.title }}</h4>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description3.text1 }}
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description3.text2 }}
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- EOL Section - Research -->
+{% endif %}
+
+<!-- Section - Gallery Research -->
+<div class="section section-inner">
+	<div class="container">
+		<div class="m-gallery">
+			<div class="row">
+				{% for image in page.gallery-research %}
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="works-item">
+						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
+							<div class="img">
+								<a href="{{ image | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- EOF Section - Gallery Research -->
+
+{% if page.description4.title != nil or page.description4.text1 != nil or page.description4.text2 != nil %}
+<!-- Section - Research Results of interviews -->
+<section class="section section-inner">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+				<div class="post-content">
+					<h4>{{ page.description4.title }}</h4>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description4.text1 }}
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description4.text2 }}
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- EOL Section - Research Results of interviews -->
+{% endif %}
+
+<!-- Section - Gallery Research Two -->
+<div class="section section-inner">
+	<div class="container">
+		<div class="m-gallery">
+			<div class="row">
+				{% for image in page.gallery-research-two %}
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="works-item">
+						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
+							<div class="img">
+								<a href="{{ image | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- EOF Section - Gallery Research Two-->
+
+
+
+
 
 {% if page.video.id != nil %}
 <!-- Section - Video -->
