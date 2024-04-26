@@ -26,14 +26,18 @@ description1:
   text1: "<p></p>"
   text2: "<p>Handling finances has become challenging due to inflation. </br>
   In this time-consuming work our team decided to help people organize their budget better. </br></br>
-  PocketBudget, a financial management application for customers who have difficulty controlling their budget and want to improve it. </p>"
+  <b>PocketBudget</b>, a financial management application <b>for customers who have difficulty controlling their budget and want to improve it.</b> </p>"
 
 gallery-about-one:
   - assets/img/blog/blog6.jpg
 
 # Design process
 description2:
-  title: First, the plan
+  title: First, the plan</br>
+  01 Dive in</br>
+  02 Ideas </br>
+  03 Tests </br>
+  04 Design </br>
   text1: "01 Dive in<br />
 02 Ideas<br />
 03 Tests<br />
