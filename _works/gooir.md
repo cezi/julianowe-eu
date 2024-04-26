@@ -39,16 +39,17 @@ description2:
 03 Tests<br />
 04 Design</p>"
 
-  text2: "<p>People find it difficult to manage their finances for various reasons. </br> Many of them arise from the fact that it’s a time-consuming process and pretty monotonous. </br> Not everyone wants to sit down quietly every month and write down all expenses and incomes in an Excel sheet table. </br>
-Problem: Lack of external and personalized support from financial applications <br />
-Hypotheses: People want to improve their money management skills and understand money management better. <br />
-Goal: Build an app that helps meet goals and improve financial management process while educating the user.</p>"
+  text2: "<p>People find it difficult to manage their finances for various reasons. </br> Many of them arise from the fact that it’s a time-consuming process and pretty monotonous. </br> Not everyone wants to sit down quietly every month and write down all expenses and incomes in an Excel sheet table. </br></p>"
 
 # Research
 description3:
-  title: Dive in
-  text1: "<p>Kolumna 1 </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: 01. Time is one thing, but understanding
+  text1: "<p>From our interviews and a review of money saving and tracking applications, we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances. </br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic.This led us to form the basis of our hypothesis.
+</p>"
+  text2: "<p> Problem: Lack of external and personalized support from financial applications</br></br>
+Hypotheses: People want to improve their money management skills and understand money management better.</br></br>
+Goal: Build an app that helps meet goals and improve the financial management process while educating the user.
+</p>"
 
 gallery-research-one:
   - assets/img/blog/blog6.jpg
