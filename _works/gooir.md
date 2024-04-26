@@ -33,11 +33,7 @@ gallery-about-one:
 
 # Design process
 description2:
-  title: First, the plan</br>
-  01 Dive in</br>
-  02 Ideas </br>
-  03 Tests </br>
-  04 Design </br>
+  title: First, the plan
   text1: "01 Dive in<br />
 02 Ideas<br />
 03 Tests<br />
@@ -59,9 +55,16 @@ gallery-research-one:
   - assets/img/blog/blog6.jpg
 
 description4:
-  title: Research2
-  text1: "<p>Kolumna 1 </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: Missed opportunities
+  text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, what influenced the daily choices and what would help us be more content with our budget.
+</p>"
+  text2: "<p>The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br>
+difficulty in planning the expenses</br>
+lack of knowledge of finances</br>
+problems with saving up for long term goals</br>
+unpredictability in expenses</br>
+guilty pleasures
+</p>"
   
 gallery-research-two:
   - assets/img/blog/blog6.jpg
