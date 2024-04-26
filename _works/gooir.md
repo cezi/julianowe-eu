@@ -25,7 +25,7 @@ description1:
   title: Save your time, save your money
   text1: "<p></p>"
   text2: "<p>Handling finances has become challenging due to inflation. </br>
-  In this time-consuming work our team decided to help people organize their budget better. </br>
+  In this time-consuming work our team decided to help people organize their budget better. </br></br>
   PocketBudget, a financial management application for customers who have difficulty controlling their budget and want to improve it. </p>"
 
 gallery-about-one:
