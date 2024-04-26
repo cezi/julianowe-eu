@@ -17,13 +17,13 @@ info:
     value: Figma
 
   - label: Role
-    value: UX Designer in a team of three
+    value: UX Designer w/ 2 UX Designers
 
 # About the product
 description1:
   show: yes
-  title: About the product
-  text1: "<p>A financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
+  title: Save your time, save your money
+  text1: "<p> PocketBudget, a financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
   text2: "<p>2 kolumna. Wykasuj jeśli nie ma nic tu być - kasuj  cały cudzysłów, zostaje tylko to: text2: </p>"
 
 gallery-about-one:
