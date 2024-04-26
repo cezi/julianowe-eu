@@ -127,6 +127,13 @@ I was responsible for preparing the last one.
 With the first test performed tested on 5 people many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
 </p>"
 
+# Design2
+description10:
+  title: A room for an improvement
+  text1: "<p></p>"
+  text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
+</p>"
+
 gallery-design-one:
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
