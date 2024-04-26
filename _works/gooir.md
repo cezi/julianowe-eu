@@ -84,7 +84,7 @@ gallery-ideation-one:
 description6:
   title: Predicting the next step
   text1: "<p></p>"
-  text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
+  text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
 
 gallery-ideation-two:
   - assets/img/blog/blog6.jpg
@@ -94,10 +94,10 @@ description7:
   title: Ideas
   text1: "<p>When we began to gather ideas over how might we help in having more control over finances we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application but also develop the educational and supportive side of it. </p>"
   text2: "<p> In help came competitor analysis. Our team researched seven applications whose main function was to control and analyze expenses.</br> We identified few the most important and useful ideas which help user stay on track such as: </br></br>
-Gamification</br>
-Setting targets for specific categories</br>
-Filtering reports by periods</br>
-Clear and easy to understand graphs of finances and timelines
+<b>Gamification</b></br>
+<b>Setting targets for specific categories</b></br>
+<b>Filtering reports by periods</b></br>
+<b>Clear and easy to understand graphs of finances and timelines</b>
 </p>"
 
 video-testing-one:
@@ -109,15 +109,23 @@ gallery-testing-one:
   - assets/img/blog/blog6.jpg
 
 description8:
-  title: Testing2
-  text1: "<p>Kolumna 1 </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: Three branches
+  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user. With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
+</p>"
+  text2: "<p><b>Browsing the learning tab,</b></br>
+<b>Arranging a consultation with a financial adviser</b></br>
+<b>Creating a goal</b></br>
+</p>"
 
 # Design
 description9:
-  title: Design1
-  text1: "<p>Kolumna 1 </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: Trying out
+  text1: "<p>To test out our idea each of us in the team created separate wireframes for the three main functionalities: browsing through education tab, making an appointment with financial consultant and creating a goal.</br></br>
+I was responsible for preparing the last one.
+</p>"
+  text2: "<p><b>The first test</b></br>
+With the first test performed tested on 5 people many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
+</p>"
 
 gallery-design-one:
   - assets/img/blog/blog6.jpg
