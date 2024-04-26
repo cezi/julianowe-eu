@@ -71,26 +71,34 @@ gallery-research-two:
 
 # Ideation
 description5:
-  title: Ideation1
-  text1: "<p>Kolumna 1  </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: Two approaches, one goal
+  text1: "<p> </p>"
+  text2: "<p>In the conducted eight interviews, we identified two main personas.</br></br>
+01. The first persona has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
+02. The second persona is a young person who has <b>recently started earning money and has little financial awareness or discipline</b>. However, they are willing to save money regularly.
+</p>"
 
 gallery-ideation-one:
   - assets/img/blog/blog6.jpg
 
 description6:
-  title: Ideation2
-  text1: "<p>Kolumna 1  </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: Predicting the next step
+  text1: "<p></p>"
+  text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
 
 gallery-ideation-two:
   - assets/img/blog/blog6.jpg
 
 # Testing
 description7:
-  title: Testing1
-  text1: "<p>Kolumna 1 </p>"
-  text2: "<p>Kolumna 2 </p>"
+  title: Ideas
+  text1: "<p>When we began to gather ideas over how might we help in having more control over finances we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application but also develop the educational and supportive side of it. </p>"
+  text2: "<p> In help came competitor analysis. Our team researched seven applications whose main function was to control and analyze expenses.</br> We identified few the most important and useful ideas which help user stay on track such as: </br></br>
+Gamification</br>
+Setting targets for specific categories</br>
+Filtering reports by periods</br>
+Clear and easy to understand graphs of finances and timelines
+</p>"
 
 video-testing-one:
   poster: assets/img/blog/blog9.jpg
