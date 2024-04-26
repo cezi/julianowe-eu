@@ -24,7 +24,7 @@ description1:
   show: yes
   title: Save your time, save your money
   text1: "<p> PocketBudget, a financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
-  text2: "<p>2 kolumna. Wykasuj jeśli nie ma nic tu być - kasuj  cały cudzysłów, zostaje tylko to: text2: </p>"
+  text2: "<p>2 kolumna. Myślę, czy nie zrobić tak że w pierwszej kolumnie będzie duży tytuł a w tej drugiej dam tekst, który jest aktualnie w pierwszej kolumnie: text2: </p>"
 
 gallery-about-one:
   - assets/img/blog/blog6.jpg
@@ -32,13 +32,12 @@ gallery-about-one:
 # Design process
 description2:
   title: Design Proccess
-  text1: "<p>Design process took place in four stages: <br />
-01 Research: Questionnaires - User interviews - Persona -Empathy Map - User Journey Map <br />
-02 Ideation: Competition analysis - Information Architecture - User Flow <br />
-03 Testing: Wireframes - Ustability testing - Implementing feedback <br />
-04 Design: Visual Design - Hi-fi Prototypes </p>"
+  text1: "01 Dive in<br />
+02 Ideas<br />
+03 Tests<br />
+04 Design</p>"
 
-  text2: "<p>Handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management. <br />
+  text2: "<p>Nowadays handling finances has become challenging due to inflation. To help people organize their finances better our team worked on application which can provide comprehensive solutions, personalized advice, and external support in their management. <br />
 From research and a review of direct and indirect competition, we concluded that these applications do not offer user support, which formed the basis of our hypothesis. <br />
 Problem: Lack of external and personalized support from financial applications <br />
 Hypotheses: People want to improve their money management skills and understand money management better. <br />
@@ -46,7 +45,7 @@ Goal: Build an app that helps meet goals and improve financial management proces
 
 # Research
 description3:
-  title: Research
+  title: Dive in
   text1: "<p>Kolumna 1 </p>"
   text2: "<p>Kolumna 2 </p>"
 
