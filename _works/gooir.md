@@ -17,14 +17,16 @@ info:
     value: Figma
 
   - label: Role
-    value: UX Designer w/ 2 UX Designers
+    value: UX Designer in a team of 3
 
 # About the product
 description1:
   show: yes
   title: Save your time, save your money
-  text1: "<p> PocketBudget, a financial management application for customers who have difficulty controlling their budget and want to improve it.</p>"
-  text2: "<p>2 kolumna. Myślę, czy nie zrobić tak że w pierwszej kolumnie będzie duży tytuł a w tej drugiej dam tekst, który jest aktualnie w pierwszej kolumnie: text2: </p>"
+  text1: "<p></p>"
+  text2: "<p>Handling finances has become challenging due to inflation. </br>
+  In this time-consuming work our team decided to help people organize their budget better. </br>
+  PocketBudget, a financial management application for customers who have difficulty controlling their budget and want to improve it. </p>"
 
 gallery-about-one:
   - assets/img/blog/blog6.jpg
