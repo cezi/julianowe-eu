@@ -43,13 +43,14 @@ description2:
 
 # Research
 description3:
-  title: Time is one thing, but understanding
-  text1: "<p>From our interviews and a review of money saving and tracking applications, we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances. </br></br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
-</p>"
-  text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications</br></br>
-<b>Hypothesis</b>: People want to improve their money management skills and understand money management better.</br></br>
-<b>Goal</b>: Build an app that helps meet goals and improve the financial management process while educating the user.
-</p>"
+  title: Taking off
+  text1: "<p>Interviews</br></br>
+Our initial step involved understanding our client's preferences, and to achieve this, we developed a screener accompanied by a scripted questionnaire.</br></br> The questionnaire contained: preferences in travel modes, past travel experiences, trip organization, assessments of travel agent services, and the overall experience of purchasing a tour.</br></br>
+We conducted face to face interviews with five individuals.</p>"
+  text2: "<p>Hypothesis</br></br> The interviews helped us conclude the most important problem and hypothesis.</br></br>
+Problem: Planning many trips is time consuming and troublesome.</br></br>
+Hypothesis: The process of booking a trip is too long and complicated.</br></br>
+Goal: Creating easy and personalized search engine for holiday booking.</p>"
 
 gallery-research-one:
   - assets/img/blog/blog6.jpg
