@@ -1,23 +1,23 @@
 ---
 # preview details
 layout: works-single
-title: Pinbot
-category: Commercial
+title: BookPlan
+category: Bootcamp
 category_slug: ui-ux-design
 image: assets/img/works/work4.jpeg
-short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
+short_description: Plan all your dream vacations in one place
 
 # full details
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2023 - ongoing
+    value: 2023 
 
   - label: Tools
-    value: Figma, ChatGPT
+    value: Figma
 
   - label: Role
-    value: UX Designer
+    value: UX Designer in a team of 3
 
 # About the product
 description1:
@@ -33,13 +33,13 @@ gallery-about-one:
 
 # Design process
 description2:
-  title: First, the plan
+  title: Every trip starts with a plan
   text1: "01 Dive in<br />
 02 Ideas<br />
 03 Tests<br />
 04 Design</p>"
 
-  text2: "<p>People find it difficult to manage their finances for various reasons. </br> Many of them arise from the fact that it’s a time-consuming process and pretty monotonous. </br> Not everyone wants to sit down quietly every month and write down all expenses and incomes in an Excel sheet table. </br></p>"
+  text2: "<p>The journey began a client, a middle-aged woman who is a frequent traveler for leisure and business and needed a tool to help her purchase multiple tours in one.</br></p>"
 
 # Research
 description3:
