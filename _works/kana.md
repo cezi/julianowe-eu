@@ -34,10 +34,10 @@ gallery-about-one:
 # Design process
 description2:
   title: Every trip starts with a plan
-  text1: "01 Dive in<br />
-02 Ideas<br />
-03 Tests<br />
-04 Design</p>"
+  text1: "01 Take off<br />
+02 On-board<br />
+03 The journey<br />
+04 Coming home</p>"
 
   text2: "<p></br></p>"
 
