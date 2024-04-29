@@ -41,7 +41,7 @@ description2:
 
   text2: "<p>People find it difficult to manage their finances for various reasons. </br> Many of them arise from the fact that it’s a time-consuming process and pretty monotonous. </br> Not everyone wants to sit down quietly every month and write down all expenses and incomes in an Excel sheet table. </br></p>"
 
-# Research
+# Time is one thing, but understanding
 description3:
   title: Time is one thing, but understanding
   text1: "<p>From our interviews and a review of money saving and tracking applications, we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances. </br></br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
@@ -69,7 +69,7 @@ guilty pleasures
 gallery-research-two:
   - assets/img/blog/blog6.jpg
 
-# Ideation
+# Two approaches, one goal
 description5:
   title: Two approaches, one goal
   text1: "<p> </p>"
@@ -89,7 +89,7 @@ description6:
 gallery-ideation-two:
   - assets/img/blog/blog6.jpg
 
-# Testing
+# Ideas
 description7:
   title: Ideas
   text1: "<p>When we began to gather ideas over how might we help in having more control over finances we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application but also develop the educational and supportive side of it. </p>"
@@ -117,7 +117,7 @@ description8:
 <b>Creating a goal</b></br>
 </p>"
 
-# Design
+# Trying out
 description9:
   title: Trying out
   text1: "<p>To test out our idea each of us in the team created separate wireframes for the three main functionalities: browsing through education tab, making an appointment with financial consultant and creating a goal.</br></br>
@@ -127,16 +127,43 @@ I was responsible for preparing the last one.
 With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br></br> 2. Browse the knowledge tab and take a quiz </br></br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
 </p>"
 
-# Design2
-description10:
-  title: A room for an improvement
-  text1: "<p></p>"
-  text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
-</p>"
+gallery-trying-out:
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
 
-gallery-design-one:
+# SectionX1
+description10:
+  title: SectionX1
+  text1: "<p>text1</p>"
+  text2: "<p>>text2.</p>"
+
+gallery-section-x1:
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
-  
+
+# SectionX2
+description11:
+  title: SectionX2
+  text1: "<p>text1</p>"
+  text2: "<p>>text2.</p>"
+
+gallery-section-x2:
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+
+# SectionX3
+description12:
+  title: SectionX3
+  text1: "<p>text1</p>"
+  text2: "<p>>text2.</p>"
+
+gallery-section-x3:
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+
+    
 ---
