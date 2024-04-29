@@ -39,18 +39,16 @@ description2:
 03 Tests<br />
 04 Design</p>"
 
-  text2: "<p>The journey began a client, a middle-aged woman who is a frequent traveler for leisure and business and needed a tool to help her purchase multiple tours in one.</br></p>"
+  text2: "<p></br></p>"
 
 # Research
 description3:
   title: Taking off
-  text1: "<p>Interviews</br></br>
-Our initial step involved understanding our client's preferences, and to achieve this, we developed a screener accompanied by a scripted questionnaire.</br></br> The questionnaire contained: preferences in travel modes, past travel experiences, trip organization, assessments of travel agent services, and the overall experience of purchasing a tour.</br></br>
-We conducted face to face interviews with five individuals.</p>"
-  text2: "<p>Hypothesis</br></br> The interviews helped us conclude the most important problem and hypothesis.</br></br>
-Problem: Planning many trips is time consuming and troublesome.</br></br>
-Hypothesis: The process of booking a trip is too long and complicated.</br></br>
-Goal: Creating easy and personalized search engine for holiday booking.</p>"
+  text1: "<p>IThere are many reasons for why people travel, most of them revolve around leisure and getting refreshed after long weeks of work or school. Good vacations should cater to our needs, so not a single worry occupies our minds.
+</br></br></p>"
+  text2: "<p>To get a good understanding of frequent travelers' needs our team developed a screener accompanied by a scripted questionnaire. The questions involved preferences in <b>travel modes, past travel experiences, trip organization, assessments of travel agent services, and the overall experience of purchasing a tour.</b></br></br>
+We conducted face to face interviews with five individuals.
+</p>"
 
 gallery-research-one:
   - assets/img/blog/blog6.jpg
