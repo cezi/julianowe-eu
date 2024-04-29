@@ -11,29 +11,28 @@ short_description: A financial management application for customers who have dif
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2023 - ongoing
+    value: 2023
 
   - label: Tools
-    value: Figma, ChatGPT
+    value: Figma
 
   - label: Role
-    value: UX Designer
+    value: UX Designer in a team of 3
 
 # About the product
 description1:
   show: yes
-  title: A perfect voyage
-  text1: "<p>In an age where travel enthusiasts crave seamless and personalized experiences, the conventional holiday booking process has become overly complex. Juggling multiple websites for individual bookings often leads to a fragmented and time-consuming experience.</p>"
-  text2: "<p>Our team aimed to solve this issue and present an application caters to individual preferences and travel aspirations.</br></br>
-<b>BookPlan</b> is a user-centric website aimed at streamlining the process of <b>booking multiple flights and trips simultaneously while offering tailored and customized</b> holiday packages.
-</p>"
+  title: Better visibility 
+  text1: "<p></p>"
+  text2: "<p>In Tri-City, aglomeration of three cities based next to the northern coast of Poland, there are many local businesses who want to gain new clients especially in the holiday seasons.</br></br>
+<b>Pinbot</b> is a website offering <b>local businesses help with their SEO and better visibility</b> in the sea full of fishes.</p>"
 
 gallery-about-one:
   - assets/img/blog/blog6.jpg
 
 # Design process
 description2:
-  title: First, the plan
+  title: The beginnings 
   text1: "01 Dive in<br />
 02 Ideas<br />
 03 Tests<br />
