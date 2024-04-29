@@ -54,40 +54,34 @@ gallery-research-one:
   - assets/img/blog/blog6.jpg
 
 description4:
-  title: Everything everywhere all at once
+  title: Everything, everywhere, all at once
   text1: "<p>The results of interviews made us conclude the most important problem and hypothesis.</br></br>
-Problem: Planning many trips is time consuming and troublesome.</br></br>
-Hypothesis: The process of booking a trip is too long and complicated.</br></br>
-Goal: Creating easy and personalized search engine for holiday booking.
+<b>Problem</b>: Planning many trips is time consuming and troublesome.</br></br>
+<b>Hypothesis</b>: The process of booking a trip is too long and complicated.</br></br>
+<b>Goal</b>: Creating easy and personalized search engine for holiday booking.
 
 </p>"
-  text2: "<p>The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br>
-difficulty in planning the expenses</br>
-lack of knowledge of finances</br>
-problems with saving up for long term goals</br>
-unpredictability in expenses</br>
-guilty pleasures
-</p>"
+  text2: "<p>From the interviews we were able to identify the persona and their overarching needs.</br>
+Our primary client was <b>a middle-aged woman, a frequent traveler for leisure and business, who needed a tool to help her purchase multiple tours in one.</b></p>"
   
 gallery-research-two:
   - assets/img/blog/blog6.jpg
 
 # Ideation
 description5:
-  title: Two approaches, one goal
-  text1: "<p> </p>"
-  text2: "<p>In the conducted eight interviews, we identified two main personas.</br></br>
-01. The first persona has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
-02. The second persona is a young person who has <b>recently started earning money and has little financial awareness or discipline</b>. However, they are willing to save money regularly.
+  title: On-board
+  text1: "<p>All hands on-board, our ideation process started with coming up of a short story where our persona finds BookPlan and tries to give it a try by booking her future vacations. The key part of the story was all about focus on touchpoints of our brand and better connection to the future users. </p>"
+  text2: "<p>
 </p>"
 
 gallery-ideation-one:
   - assets/img/blog/blog6.jpg
 
 description6:
-  title: Predicting the next step
+  title: Small turbulences
   text1: "<p></p>"
-  text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
+  text2: "<p>To enrich the experience our next crucial step was to establish a User Journey Path. </br></br>
+Within this path, we carefully considered potential issues that might be encountered during the trips. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
 
 gallery-ideation-two:
   - assets/img/blog/blog6.jpg
