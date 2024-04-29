@@ -149,12 +149,12 @@ gallery-section-x1:
 
 # SectionX2
 description11:
-  title: SectionX2
-  text1: "<p>text1</p>"
-  text2: "<p>text2.</p>"
+  title: Optimistically in control 
+  text1: "<p>Being in control of finances should be associated with a strong but optimistic approach. We wanted PocketBudget to create a sense of both independence and trust, help.</p>"
+  text2: "<p>Another important element was to ensure transparency, cleanliness and a modernist look for easy day-to-day financial management.</p>"
 
 gallery-section-x2:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBUI.png
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
 
