@@ -5,19 +5,19 @@ title: Pinbot
 category: Commercial
 category_slug: ui-ux-design
 image: assets/img/works/work4.jpeg
-short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
+short_description: Pinbot is a website offering local businesses help with their SEO and better visibility in the sea full of fishes.
 
 # full details
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2023
+    value: 2023 - ongoing
 
   - label: Tools
-    value: Figma
+    value: Figma, ChatGPT
 
   - label: Role
-    value: UX Designer in a team of 3
+    value: UX Designer
 
 # About the product
 description1:
