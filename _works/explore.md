@@ -1,8 +1,8 @@
 ---
 # preview details
 layout: works-single
-title: PocketBudget
-category: Bootcamp
+title: Pinbot
+category: Commercial
 category_slug: ui-ux-design
 image: assets/img/works/work4.jpeg
 short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
@@ -11,22 +11,22 @@ short_description: A financial management application for customers who have dif
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2023 (7 months)
+    value: 2023-ongoing
 
   - label: Tools
-    value: Figma
+    value: Figma, ChatGPT
 
   - label: Role
-    value: UX Designer in a team of 3
+    value: UX Designer
 
 # About the product
 description1:
   show: yes
-  title: Save your time, save your money
-  text1: "<p></p>"
-  text2: "<p>Handling finances has become challenging due to inflation. </br>
-  In this time-consuming work our team decided to help people organize their budget better. </br></br>
-  <b>PocketBudget</b>, a financial management application <b>for customers who have difficulty controlling their budget and want to improve it.</b> </p>"
+  title: A perfect voyage
+  text1: "<p>In an age where travel enthusiasts crave seamless and personalized experiences, the conventional holiday booking process has become overly complex. Juggling multiple websites for individual bookings often leads to a fragmented and time-consuming experience.</p>"
+  text2: "<p>Our team aimed to solve this issue and present an application caters to individual preferences and travel aspirations.
+BookPlan is a user-centric website aimed at streamlining the process of booking multiple flights and trips simultaneously while offering tailored and customized holiday packages.
+</p>"
 
 gallery-about-one:
   - assets/img/blog/blog6.jpg
