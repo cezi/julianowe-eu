@@ -117,8 +117,8 @@ description8:
 Our aim was to see if the path to buying more than one trip was easy, short and understandable.
 
 </p>"
-  text2: "<p><b>During testing, it became evident that users weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
-The booking path turned out to be illogical for users, they were forgetting their original choices when booking a second flight. For subsequent tests, we decided to run <b>separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the user better access to information, filters, process information.</p>"
+  text2: "<p>During testing, it became evident that users weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
+The booking path turned out to be illogical for users, they were forgetting their original choices when booking a second flight. For subsequent tests, we decided to run <b>separate tests using low fidelity prototypes on a web browser resolution, which allows the user better access to information, filters, process information.</p>"
 
 # Design
 description9:
