@@ -8,7 +8,7 @@ image: assets/img/works/work4.jpeg
 short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
 
 # full details
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/works/PBMockup1.1.png
 info:
   - label: Year
     value: 2023 (7 months)
