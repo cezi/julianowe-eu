@@ -136,7 +136,7 @@ gallery-trying-out:
 description10:
   title: SectionX1
   text1: "<p>text1</p>"
-  text2: "<p>>text2.</p>"
+  text2: "<p>text2.</p>"
 
 gallery-section-x1:
   - assets/img/blog/blog6.jpg
@@ -147,7 +147,7 @@ gallery-section-x1:
 description11:
   title: SectionX2
   text1: "<p>text1</p>"
-  text2: "<p>>text2.</p>"
+  text2: "<p>text2.</p>"
 
 gallery-section-x2:
   - assets/img/blog/blog6.jpg
@@ -158,7 +158,7 @@ gallery-section-x2:
 description12:
   title: SectionX3
   text1: "<p>text1</p>"
-  text2: "<p>>text2.</p>"
+  text2: "<p>text2.</p>"
 
 gallery-section-x3:
   - assets/img/blog/blog6.jpg
