@@ -106,7 +106,8 @@ video-testing-one:
 gallery-testing-one:
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
-
+    
+# Modelling
 description8:
   title: The journey
   text1: "<p>When we moved on to the modeling stage, we created paper prototypes thus testing three people whose task was to:</br></br>
