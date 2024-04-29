@@ -54,8 +54,12 @@ gallery-research-one:
   - assets/img/blog/blog6.jpg
 
 description4:
-  title: Missed opportunities
-  text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, what influenced the daily choices and what would help us be more content with our budget.
+  title: Everything everywhere all at once
+  text1: "<p>The results of interviews made us conclude the most important problem and hypothesis.</br></br>
+Problem: Planning many trips is time consuming and troublesome.</br></br>
+Hypothesis: The process of booking a trip is too long and complicated.</br></br>
+Goal: Creating easy and personalized search engine for holiday booking.
+
 </p>"
   text2: "<p>The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br>
 difficulty in planning the expenses</br>
