@@ -127,6 +127,11 @@ description9:
 Tab navigation caused confusion, with one user inadvertently returning to the Hotels tab after selecting Flights + Hotels.</br> Despite these challenges, users successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
+  gallery-design-one:
+  - assets/img/works/Changes.png
+  - assets/img/works/Changes_2.png
+  - assets/img/works/Changes_3.png
+
 # Design2
 description10:
   title: Design
@@ -134,9 +139,9 @@ description10:
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
 
-gallery-design-one:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+gallery-design-two:
+  - assets/img/works/Changes_4.png
+  - assets/img/works/Changes_5.png
+  - assets/img/works/Changes_6.png
   
 ---
