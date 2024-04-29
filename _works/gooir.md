@@ -155,19 +155,14 @@ description11:
 
 gallery-section-x2:
   - assets/img/works/PBUI.png
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBMockup2.1.png
+  - assets/img/works/PBMockup3.1.png
 
 # SectionX3
 description12:
-  title: SectionX3
-  text1: "<p>text1</p>"
-  text2: "<p>text2.</p>"
-
-gallery-section-x3:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+  title: What’s next?
+  text1: "<p>Further plans to improve the application include expanding the package of long-term plans to include family members or friends, further developing the avatar function using AI and enriching the tab with educational content.</p>"
+  text2: "<p></p>"
 
     
 ---
