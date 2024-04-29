@@ -29,7 +29,7 @@ description1:
   <b>PocketBudget</b>, a financial management application <b>for customers who have difficulty controlling their budget and want to improve it.</b> </p>"
 
 gallery-about-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBMockup1.2.png
 
 # Design process
 description2:
@@ -79,7 +79,8 @@ description5:
 </p>"
 
 gallery-ideation-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBPersona1.png
+  - assets/img/works/PBPersona2.png
 
 description6:
   title: Predicting the next step
@@ -87,7 +88,7 @@ description6:
   text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
 
 gallery-ideation-two:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBUserjourneymap.png
 
 # Ideas
 description7:
@@ -117,6 +118,9 @@ description8:
 <b>Creating a goal</b></br>
 </p>"
 
+gallery-trying-out:
+  - assets/img/works/PBUserflow.png
+
 # Trying out
 description9:
   title: Trying out
@@ -128,20 +132,20 @@ With the first test performed tested on 5 people. </br> Their task was to:</br><
 </p>"
 
 gallery-trying-out:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBPrzedPo.png
+  - assets/img/works/PrzedPo2.png
+  - assets/img/works/PrzedPo3.png
 
 # SectionX1
 description10:
-  title: SectionX1
-  text1: "<p>text1</p>"
-  text2: "<p>text2.</p>"
+  title: Always a room for improvement
+  text1: "<p></p>"
+  text2: "<p>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.</p>"
 
 gallery-section-x1:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/PBPrzedPo4.png
+  - assets/img/works/PBPrzedPo5.png
+  - assets/img/works/PBPrzedPo6.png
 
 # SectionX2
 description11:
