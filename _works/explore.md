@@ -11,7 +11,7 @@ short_description: A financial management application for customers who have dif
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2023-ongoing
+    value: 2023 - ongoing
 
   - label: Tools
     value: Figma, ChatGPT
@@ -24,8 +24,8 @@ description1:
   show: yes
   title: A perfect voyage
   text1: "<p>In an age where travel enthusiasts crave seamless and personalized experiences, the conventional holiday booking process has become overly complex. Juggling multiple websites for individual bookings often leads to a fragmented and time-consuming experience.</p>"
-  text2: "<p>Our team aimed to solve this issue and present an application caters to individual preferences and travel aspirations.
-BookPlan is a user-centric website aimed at streamlining the process of booking multiple flights and trips simultaneously while offering tailored and customized holiday packages.
+  text2: "<p>Our team aimed to solve this issue and present an application caters to individual preferences and travel aspirations.</br></br>
+<b>BookPlan</b> is a user-centric website aimed at streamlining the process of <b>booking multiple flights and trips simultaneously while offering tailored and customized</b> holiday packages.
 </p>"
 
 gallery-about-one:
