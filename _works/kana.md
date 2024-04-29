@@ -88,13 +88,15 @@ gallery-ideation-two:
 
 # Testing
 description7:
-  title: Ideas
-  text1: "<p>When we began to gather ideas over how might we help in having more control over finances we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application but also develop the educational and supportive side of it. </p>"
-  text2: "<p> In help came competitor analysis. Our team researched seven applications whose main function was to control and analyze expenses.</br> We identified few the most important and useful ideas which help user stay on track such as: </br></br>
-<b>Gamification</b></br>
-<b>Setting targets for specific categories</b></br>
-<b>Filtering reports by periods</b></br>
-<b>Clear and easy to understand graphs of finances and timelines</b>
+  title: Brain storming
+  text1: "<p>To kickstart the ideation process, we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
+  text2: "<p>Some of the ideas under consideration included:</br><br>
+<b>Categories broken down by need</b></br></br>
+<b>App prompts for optimal offers</b></br></br>
+<b>The ability to change flights and hotel after purchase</b></br></br>
+<b>An offer generator based on a pre-filled preference form</b></br></br>
+<b>Planning multiple trips at once in one place</b></br></br>
+<b>Combining payments for a service</b>
 </p>"
 
 video-testing-one:
@@ -106,27 +108,31 @@ gallery-testing-one:
   - assets/img/blog/blog6.jpg
 
 description8:
-  title: Three branches
-  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user. With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
+  title: The journey
+  text1: "<p>When we moved on to the modeling stage, we created paper prototypes thus testing three people whose task was to:</br></br>
+01. Book flight and hotel from Gdańsk to Rome</br></br>
+02. Book flight and hotel from Rome to London</br></br>
+03. Book flight home to Gdańsk</br></br>
+Our aim was to see if the path to buying more than one trip was easy, short and understandable.
+
 </p>"
-  text2: "<p><b>Browsing the learning tab,</b></br>
-<b>Arranging a consultation with a financial adviser</b></br>
-<b>Creating a goal</b></br>
-</p>"
+  text2: "<p><b>During testing, it became evident that users weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
+The booking path turned out to be illogical for users, they were forgetting their original choices when booking a second flight. For subsequent tests, we decided to run <b>separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the user better access to information, filters, process information.</p>"
 
 # Design
 description9:
-  title: Trying out
-  text1: "<p>To test out our idea each of us in the team created separate wireframes for the three main functionalities: browsing through education tab, making an appointment with financial consultant and creating a goal.</br></br>
-I was responsible for preparing the last one.
-</p>"
-  text2: "<p><b>The first test</b></br>
-With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br></br> 2. Browse the knowledge tab and take a quiz </br></br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
-</p>"
+  title: Changes
+  text1: "<p>The second usability test, conducted face-to-face with two users, aimed to assess a low-fidelity website prototype featuring recent corrections.</br></br>
+Users navigated smoothly through booking a trip from Gdańsk to Rome.</br>
+Challenges emerged when adding a second trip to London.</br>
+Users struggled to find the "Add Destination" button, leading to insights for improvement.</br>
+Tab navigation caused confusion, with one user inadvertently returning to the "Hotels" tab after selecting "Flights + Hotels."</br>
+Despite these challenges, users successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
+  text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
 # Design2
 description10:
-  title: A room for an improvement
+  title: Design
   text1: "<p></p>"
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
