@@ -124,7 +124,7 @@ description9:
 I was responsible for preparing the last one.
 </p>"
   text2: "<p><b>The first test</b></br>
-With the first test performed tested on 5 people. </br> Their task was to 1. make an appointment with a financial consultant</br></br> 2. browse the knowledge tab and take a quiz </br></br> 3. create a saving up goal.</br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
+With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br></br> 2. Browse the knowledge tab and take a quiz </br></br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
 </p>"
 
 # Design2
