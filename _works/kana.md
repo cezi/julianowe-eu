@@ -123,7 +123,8 @@ The booking path turned out to be illogical for users, they were forgetting thei
 # Design
 description9:
   title: Changes
-  text1: "<p>The second usability test, conducted face-to-face with two users, aimed to assess a low-fidelity website prototype featuring recent corrections.</br></br> Users navigated smoothly through booking a trip from Gdańsk to Rome.</br> Challenges emerged when adding a second trip to London.</br> Users struggled to find the "Add Destination" button, leading to insights for improvement.</br> Tab navigation caused confusion, with one user inadvertently returning to the "Hotels" tab after selecting "Flights + Hotels."</br> Despite these challenges, users successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
+  text1: "<p>The second usability test, conducted face-to-face with two users, aimed to assess a low-fidelity website prototype featuring recent corrections. </br></br> Users navigated smoothly through booking a trip from Gdańsk to Rome.</br> Challenges emerged when adding a second trip to London.</br> Users struggled to find the "Add Destination" button, leading to insights for improvement.</br> 
+Tab navigation caused confusion, with one user inadvertently returning to the "Hotels" tab after selecting "Flights + Hotels."</br> Despite these challenges, users successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
 # Design2
