@@ -134,7 +134,7 @@ With the first test performed tested on 5 people. </br> Their task was to:</br><
 gallery-trying-out:
   - assets/img/works/PBPrzedPo.png
   - assets/img/works/PrzedPo2.png
-  - assets/img/works/PrzedPo3.png
+  - assets/img/works/PBPrzedPo3.png
 
 # SectionX1
 description10:
