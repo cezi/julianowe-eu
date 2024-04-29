@@ -511,7 +511,7 @@ layout: default
 {% endif %}
 
 {% if page.description9.title != nil or page.description9.text1 != nil or page.description9.text2 != nil %}
-<!-- Section - Design One -->
+<!-- Section - Trying out -->
 <section class="section section-inner">
 	<div class="container">
 
@@ -541,10 +541,10 @@ layout: default
 
 	</div>
 </section>
-<!-- EOL Section -  Design One -->
+<!-- EOL Section -  Trying out -->
 {% endif %}
 
-<!-- Section - GalleryDesign One -->
+<!-- Section - Gallery Trying out -->
 <div class="section section-inner">
 	<div class="container">
 		<div class="m-gallery">
@@ -567,7 +567,69 @@ layout: default
 
 	</div>
 </div>
-<!-- EOF Section - Gallery Design One -->
+<!-- EOF Section - Gallery Trying out -->
+
+
+{% if page.description10.title != nil or page.description10.text1 != nil or page.description10.text2 != nil %}
+<!-- Section - SectionX1 -->
+<section class="section section-inner">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+				<div class="post-content">
+					<h4>{{ page.description10.title }}</h4>
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description10.text1 }}
+				</div>
+
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+				<div class="post-content">
+					{{ page.description10.text2 }}
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- EOL Section -  SectionX1 -->
+{% endif %}
+
+<!-- Section - Gallery SectionX1 -->
+<div class="section section-inner">
+	<div class="container">
+		<div class="m-gallery">
+			<div class="row">
+				{% for image in page.gallery-section-x1 %}
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="works-item">
+						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
+							<div class="img">
+								<a href="{{ image | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- EOF Section - Gallery SectionX1 -->
+
+
 
 
 {% if page.previous.url or page.next.url %}
