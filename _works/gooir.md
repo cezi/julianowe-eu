@@ -67,7 +67,7 @@ description4:
 </p>"
   
 gallery-research-two:
-  - assets/img/works/affinit ymap.png
+  - assets/img/works/affinitymap.png
 
 # Two approaches, one goal
 description5:
@@ -79,8 +79,8 @@ description5:
 </p>"
 
 gallery-ideation-one:
-  - assets/img/works/PBPersona1.png
-  - assets/img/works/PBPersona2.png
+  - assets/img/works/PBPersona1light.png
+  - assets/img/works/PBPersona2light.png
 
 description6:
   title: Predicting the next step
@@ -119,7 +119,7 @@ description8:
 </p>"
 
 gallery-trying-out:
-  - assets/img/works/PBUserflow.png
+  - assets/img/works/PBUserflowlight.png
 
 # Trying out
 description9:
