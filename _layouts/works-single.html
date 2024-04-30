@@ -510,6 +510,32 @@ layout: default
 <!-- EOL Section - Testing Two -->
 {% endif %}
 
+<!-- Section - Gallery Testing Two -->
+<div class="section section-inner">
+	<div class="container">
+		<div class="m-gallery">
+			<div class="row">
+				{% for image in page.gallery-testing-two %}
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+					<div class="works-item">
+						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
+							<div class="img">
+								<a href="{{ image | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- EOF Section - Gallery Gallery Testing Two -->
+
+
 {% if page.description9.title != nil or page.description9.text1 != nil or page.description9.text2 != nil %}
 <!-- Section - Trying out -->
 <section class="section section-inner">
