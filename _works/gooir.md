@@ -118,7 +118,7 @@ description8:
 <b>Creating a goal</b></br>
 </p>"
 
-gallery-trying-out:
+gallery-testing-one:
   - assets/img/works/PBUserflowlight.png
 
 # Trying out
