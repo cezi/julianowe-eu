@@ -56,15 +56,14 @@ gallery-research-one:
 
 description4:
   title: Missed opportunities
-  text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, what influenced the daily choices and what would help us be more content with our budget.
-</p>"
-  text2: "<p>The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br></br>
+  text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, what influenced the daily choices and what would help us be more content with our budget.</br></br> The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br></br>
 <b>- Difficulty in planning the expenses</br></br>
 - Lack of knowledge of finances</br></br>
 - Problems with saving up for long term goals</br></br>
 - Unpredictability in expenses</br></br>
 - Guilty pleasures</b>
 </p>"
+  text2: "<p></p>"
   
 gallery-research-two:
   - assets/img/works/Affinitymap.png
@@ -84,8 +83,8 @@ gallery-ideation-one:
 
 description6:
   title: Predicting the next step
-  text1: "<p></p>"
-  text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
+  text1: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
+  text2: "<p></p>"
 
 gallery-ideation-two:
   - assets/img/works/PBUserjourneymap.png
@@ -121,8 +120,8 @@ description8:
 
 gallery-testing-two:
   - assets/img/works/PBUserflowlight.png
-  - assets/img/works/PBUserflowlight.png
-  - assets/img/works/PBUserflowlight.png
+  - assets/img/works/PBwireframes1.png
+  - assets/img/works/PBwireframes2.png
 
 # Trying out
 description9:
