@@ -67,7 +67,7 @@ description4:
 </p>"
   
 gallery-research-two:
-  - assets/img/works/affinitymap.png
+  - assets/img/works/affinit ymap.png
 
 # Two approaches, one goal
 description5:
