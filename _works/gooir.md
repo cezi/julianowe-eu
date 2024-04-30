@@ -120,8 +120,8 @@ description8:
 
 gallery-testing-two:
   - assets/img/works/PBUserflowlight.png
-  - assets/img/works/PBwireframes1.png
-  - assets/img/works/PBwireframes2.png
+  - assets/img/works/PBWireframes1.png
+  - assets/img/works/PBWireframes2.png
 
 # Trying out
 description9:
