@@ -106,7 +106,6 @@ video-testing-one:
 
 gallery-testing-one:
   - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
 
 # Three branches
 description8:
