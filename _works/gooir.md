@@ -67,7 +67,7 @@ guilty pleasures
 </p>"
   
 gallery-research-two:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/affinitymap.png
 
 # Two approaches, one goal
 description5:
