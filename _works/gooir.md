@@ -58,12 +58,12 @@ description4:
   title: Missed opportunities
   text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, what influenced the daily choices and what would help us be more content with our budget.
 </p>"
-  text2: "<p>The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br>
-difficulty in planning the expenses</br>
-lack of knowledge of finances</br>
-problems with saving up for long term goals</br>
-unpredictability in expenses</br>
-guilty pleasures
+  text2: "<p>The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of - - Dissatisfaction were:</br>
+- Difficulty in planning the expenses</br></br>
+- Lack of knowledge of finances</br></br>
+- Problems with saving up for long term goals</br></br>
+- Unpredictability in expenses</br></br>
+- Guilty pleasures
 </p>"
   
 gallery-research-two:
