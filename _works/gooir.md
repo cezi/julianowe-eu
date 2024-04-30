@@ -109,6 +109,7 @@ gallery-testing-one:
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
 
+# Three branches
 description8:
   title: Three branches
   text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user. With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
