@@ -154,7 +154,7 @@ description11:
   text2: "<p>Another important element was to ensure transparency, cleanliness and a modernist look for easy day-to-day financial management.</p>"
 
 gallery-section-x2:
-  - assets/img/works/PBUI.png
+  - assets/img/works/PBUIlight.png
   - assets/img/works/PBMockup2.1.png
   - assets/img/works/PBMockup3.1.png
 
