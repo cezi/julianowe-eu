@@ -136,7 +136,7 @@ Tab navigation caused confusion, with one user inadvertently returning to the Ho
 description10:
   title: Design
   text1: "<p></p>"
-  text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
+  text2: "<p>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
 
 gallery-design-two:
