@@ -75,7 +75,7 @@ description5:
 </p>"
 
 gallery-ideation-one:
-  - assets/img/works/BPUJMZDJ.png
+  - assets/img/works/BPStorytellinglight.png
 
 description6:
   title: Small turbulences
@@ -84,7 +84,7 @@ description6:
 Within this path, we carefully considered potential issues that might be encountered during the trips. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
 
 gallery-ideation-two:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/BPUJMZDJ.png
 
 # Testing
 description7:
@@ -104,7 +104,7 @@ video-testing-one:
   id: Gu6z6kIukgg
 
 gallery-testing-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/BPIdeationZDJ.png
   - assets/img/blog/blog6.jpg
     
 # Modelling
