@@ -5,7 +5,7 @@ title: BookPlan
 category: Bootcamp
 category_slug: ui-ux-design
 image: assets/img/works/work4.jpeg
-short_description: Plan all your dream vacations in one place
+short_description: Helping you plan all your dream vacations in one place
 
 # full details
 full_image: assets/img/works/single1.jpg
@@ -75,7 +75,7 @@ description5:
 </p>"
 
 gallery-ideation-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/BPUJMZDJ.png
 
 description6:
   title: Small turbulences
