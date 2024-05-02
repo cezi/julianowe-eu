@@ -111,9 +111,9 @@ gallery-testing-one:
 description8:
   title: The journey
   text1: "<p>When we moved on to the modeling stage, we created paper prototypes thus testing three people whose task was to:</br></br>
-01. Book flight and hotel from Gdańsk to Rome</br></br>
+<b>01. Book flight and hotel from Gdańsk to Rome</br></br>
 02. Book flight and hotel from Rome to London</br></br>
-03. Book flight home to Gdańsk</br></br>
+03. Book flight home to Gdańsk</b></br></br>
 Our aim was to see if the path to buying more than one trip was easy, short and understandable.
 
 </p>"
