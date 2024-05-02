@@ -87,7 +87,7 @@ description6:
   text2: "<p></p>"
 
 gallery-ideation-two:
-  - assets/img/works/PBUserjourneymap.png
+  - assets/img/works/PBUJMlight.png
 
 # Ideas
 description7:
