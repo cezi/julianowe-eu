@@ -117,8 +117,8 @@ description8:
 Our aim was to see if the path to buying more than one trip was easy, short and understandable.
 
 </p>"
-  text2: "<p>During testing, it became evident that users weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
-The booking path turned out to be illogical for users, they were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the user better access to information, filters, process information.</p>"
+  text2: "<p>During testing, it became evident that participants weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
+The booking path turned out to be illogical, our participants were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the  better access to process information.</p>"
 
 gallery-modelling-one:
   - assets/img/works/BPTest1ZDJ.png
@@ -128,8 +128,8 @@ gallery-modelling-one:
 # Design
 description9:
   title: New destination?
-  text1: "<p>The second test, conducted face-to-face with two travel enthusiasts, aimed to assess a new website prototype featuring recent corrections. </br></br> Our testers navigated smoothly through booking a trip from Gdańsk to Rome. Challenges emerged when adding a second trip to London.</br> The Add Destination button wasn't visible enough, leading to insights for improvement.
-Tab navigation caused confusion, with one person inadvertently returning to the Hotels tab after selecting Flights + Hotels. Despite these challenges, testers successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
+  text1: "<p>The second test, conducted face-to-face with two travel enthusiasts, aimed to assess a new website prototype featuring recent corrections. </br></br> Our testers navigated smoothly through booking a trip from Gdańsk to Rome. Challenges emerged when adding a second trip to London.</br> <b>The Add Destination button wasn't visible enough</b>, leading to insights for improvement.
+<b>Tab navigation caused confusion</b>, with one person inadvertently returning to the Hotels tab after selecting Flights + Hotels. Despite these challenges, testers successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
   gallery-design-one:
