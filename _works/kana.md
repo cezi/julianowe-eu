@@ -65,7 +65,8 @@ description4:
 Our primary client was <b>a middle-aged woman, a frequent traveler for leisure and business, who needed a tool to help her purchase multiple tours in one.</b></p>"
   
 gallery-research-two:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/BPPersonalight.png
+  - assets/img/works/BPEmpathyMaplight.png
 
 # Ideation
 description5:
