@@ -46,7 +46,7 @@ When looking for new services or checking out a company, people usually use seve
 Aim: To create a website that reaches out to customers and offers them solutions for better visibility in Google search.</p>"
 
 gallery-research-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pinchatailight.png
 
 description4:
   title: Competition analysis
@@ -62,7 +62,7 @@ Link generator</br>
 Price converter</p>"
   
 gallery-research-two:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pincompetitionlight.png
 
 # Ideation
 description5:
@@ -72,7 +72,7 @@ description5:
   text2: "<p></p>"
 
 gallery-ideation-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pincmjlight.png
 
 description6:
   title: Ideation
@@ -80,7 +80,7 @@ description6:
   text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
 
 gallery-ideation-two:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pinideation.png
 
 # Testing
 description7:
@@ -96,8 +96,7 @@ video-testing-one:
   id: Gu6z6kIukgg
 
 gallery-testing-one:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pinuserflowlight.png
 
 description8:
   title: Wireframes
