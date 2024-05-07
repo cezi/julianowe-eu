@@ -4,11 +4,11 @@ layout: works-single
 title: PocketBudget
 category: Bootcamp
 category_slug: ui-ux-design
-image: assets/img/works/work4.jpeg
+image: assets/img/works/PBMockup2.1.png
 short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
 
 # full details
-full_image: assets/img/works/PBMockup1.1.png
+full_image: assets/img/works/PBMockup2.1.png
 info:
   - label: Year
     value: 2023 (7 months)
