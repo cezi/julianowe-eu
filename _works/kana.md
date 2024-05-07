@@ -8,7 +8,7 @@ image: assets/img/works/BPMockup1.png
 short_description: Helping you plan all your dream vacations in one place
 
 # full details
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/works/BPMockup1.png
 info:
   - label: Year
     value: 2023 
@@ -29,7 +29,7 @@ description1:
 </p>"
 
 gallery-about-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/Mniejszy_mock_up_BP_1.png
 
 # Design process
 description2:
@@ -39,7 +39,7 @@ description2:
 03 The journey<br />
 04 Coming home</p>"
 
-  text2: "<p></br></p>"
+  text2: "<p></p>"
 
 # Research
 description3:
