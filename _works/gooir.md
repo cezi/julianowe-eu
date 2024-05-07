@@ -101,7 +101,7 @@ description7:
 </p>"
 
 video-testing-one:
-  poster: assets/img/blog/blog9.jpg
+  poster: assets/img/works/pocketbudget.mov
   id: Gu6z6kIukgg
 
 gallery-testing-one:
