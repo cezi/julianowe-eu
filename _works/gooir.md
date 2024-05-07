@@ -29,7 +29,7 @@ description1:
   <b>PocketBudget</b>, a financial management application <b>for customers who have difficulty controlling their budget and want to improve it.</b> </p>"
 
 gallery-about-one:
-  - assets/img/works/PBMockup1.1light.png
+  - assets/img/works/PBMockup3.1.png
 
 # Design process
 description2:
@@ -156,8 +156,7 @@ description11:
 
 gallery-section-x2:
   - assets/img/works/PBUIlight.png
-  - assets/img/works/PBMockup2.1.png
-  - assets/img/works/PBMockup3.1.png
+  - assets/img/works/PBMockup4.1.png
 
 # SectionX3
 description12:
