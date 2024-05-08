@@ -73,7 +73,7 @@ body {
 	height: auto !important;
 	font-size: 16px;
 	color: #262626;
-	font-family: "Jost", sans-serif;
+	font-family: "Khula", sans-serif;
 	font-weight: 400;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
@@ -124,7 +124,7 @@ img {
 input,
 textarea,
 button {
-	font-family: "Jost";
+	font-family: "Khula";
 }
 
 label {
@@ -164,7 +164,7 @@ h5,
 h6,
 .m-title {
 	font-weight: 400;
-	font-family: "Jost";
+	font-family: "Roboto Mono";
 	margin: 0;
 	margin-bottom: 15px;
 	color: #000;
@@ -409,7 +409,7 @@ textarea {
 	display: block;
 	width: 100%;
 	height: 60px;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 16px;
 	color: #000;
 	resize: none;
@@ -434,7 +434,7 @@ label,
 legend {
 	display: block;
 	padding-bottom: 20px;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 20px;
 }
 
@@ -450,7 +450,7 @@ input[type="radio"] {
 
 label.error {
 	padding-top: 5px;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 14px;
 	color: red;
 	display: none;
@@ -528,7 +528,7 @@ blockquote,
 	position: relative;
 	margin: 50px 0 50px 50px;
 	padding: 65px 50px 0 50px!important;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 22px;
 	line-height: 1.3;
 	color: #000;
@@ -604,7 +604,7 @@ blockquote cite,
 .wp-block-quote.is-large cite,
 .wp-block-quote.is-style-large cite,
 .wp-block-pullquote cite {
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 16px;
 	font-style: normal;
 	display: block;
@@ -1860,7 +1860,7 @@ hr {
 	vertical-align: top;
 	font-size: 22px;
 	line-height: 1;
-	font-family: "Jost";
+	font-family: "Khula";
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: 0.05em;
@@ -1955,7 +1955,7 @@ hr {
 	position: relative;
 	display: inline-block;
 	vertical-align: top;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 20px;
 	line-height: 1;
 	font-weight: 500;
@@ -2070,7 +2070,7 @@ hr {
 
 .header .logo .logotype__title {
 	display: block;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 22px;
 	line-height: 1;
 	font-weight: 800;
@@ -2273,7 +2273,7 @@ hr {
 .m-titles .m-title {
 	margin-top: 0;
 	margin-bottom: 10px;
-	font-family: "Jost";
+	font-family: "Roboto Mono";
 	font-size: 44px;
 	line-height: 1.3;
 	color: #000;
@@ -2294,7 +2294,7 @@ hr {
 
 .m-titles .m-subtitle strong,
 .m-titles .m-subtitle b {
-	font-family: 'Caveat';
+	font-family: 'Roboto Mono';
 	color: #000;
 	font-size: 30px;
 	font-weight: 700;
@@ -2310,7 +2310,7 @@ hr {
 .h-titles .h-title {
 	margin-top: 0;
 	margin-bottom: 0;
-	font-family: "Jost";
+	font-family: "Roboto Mono";
 	font-size: 54px;
 	line-height: 1;
 	color: #000;
@@ -2363,7 +2363,7 @@ hr {
 	left: -50%;
 	width: 200%;
 	font-size: 350px;
-	font-family: "Caveat";
+	font-family: "Roboto Mono";
 	color: rgba(0, 0, 0, 0.02);
 	font-weight: bold;
 	line-height: 1px;
@@ -2525,7 +2525,7 @@ hr {
 
 .section.hero-started .label strong,
 .section.hero-started .label b {
-	font-family: 'Caveat';
+	font-family: 'Roboto Mono';
 	font-size: 30px;
 	font-weight: 700;
 	letter-spacing: 0;
@@ -2833,7 +2833,7 @@ hr {
 .history-item .subname {
 	float: left;
 	width: 70%;
-	font-family: 'Caveat';
+	font-family: 'Roboto Mono';
 	font-size: 28px;
 	line-height: 40px;
 	font-weight: 700;
@@ -3126,7 +3126,7 @@ hr {
 
 .works-items.works-list-items .works-item .desc .name {
 	margin-bottom: 0;
-	font-family: "Jost";
+	font-family: "Khula";
 	font-size: 58px;
 	line-height: 1;
 	color: #000;
@@ -3655,7 +3655,7 @@ hr {
 
 .numbers-item .title {
 	padding: 10px 0;
-	font-family: 'Caveat';
+	font-family: 'Roboto Mono';
 	font-size: 30px;
 	line-height: 1;
 	font-weight: 700;
@@ -3749,7 +3749,7 @@ hr {
 }
 
 .m-details .details-label > span {
-	font-family: 'Caveat';
+	font-family: 'Roboto Mono';
 	font-size: 30px;
 	font-weight: 700;
 }
@@ -4281,7 +4281,7 @@ input.search-submit,
 	margin-bottom: 50px;
 	padding: 0;
 	position: relative;
-	font-family: 'Jost';
+	font-family: 'Khula';
 	font-size: 18px;
 }
 
@@ -4647,7 +4647,7 @@ small {
 
 .section__comments .m-titles .m-title {
 	font-size: 34px;
-	font-family: 'Jost';
+	font-family: 'Khula';
 	font-weight: 700;
 }
 
