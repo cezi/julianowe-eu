@@ -5,7 +5,7 @@ title: Pinbot
 category: Commercial
 category_slug: ui-ux-design
 image: assets/img/works/work4.jpeg
-short_description: Pinbot is a website offering local businesses help with their SEO and better visibility in the sea full of fishes.
+short_description: Offering local businesses help with their SEO and better visibility in the sea full of fishes.
 
 # full details
 full_image: assets/img/works/single1.jpg
@@ -42,8 +42,8 @@ description3:
   title: What is SEO?
   text1: "<p>Desk research </br></br>
 When looking for new services or checking out a company, people usually use several sources, both online and offline. One of the most common and trusted ways is to use Google's search engine. The website offers and is constantly improving the Google My Business tool, which plays a significant role in SEO by providing current information about a company, showcasing services, location on a map and managing reviews, among other things. As many as 50% of customers trust online reviews as much as referrals from loved ones, and 81% of them read reviews on Google.</p>"
-  text2: "<p>After consultation and desk-research, a hypothesis was hatched that not many small business entrepreneurs know of the existence of SEO let alone its importance. </br></br>Hypothesis: Local businesses do not know what SEO is and how it affects their business</br></br>
-Aim: To create a website that reaches out to customers and offers them solutions for better visibility in Google search.</p>"
+  text2: "<p>After consultation and desk-research, a hypothesis was hatched that not many small business entrepreneurs know of the existence of SEO let alone its importance. </br></br><b>Hypothesis</b>: Local businesses do not know what SEO is and how it affects their business</br></br>
+<b>Aim</b>: To create a website that reaches out to customers and offers them solutions for better visibility in Google search.</p>"
 
 gallery-research-one:
   - assets/img/works/pinchatailight.png
