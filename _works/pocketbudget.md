@@ -23,10 +23,10 @@ info:
 description1:
   show: yes
   title: Save your time, save your money
-  text1: "<p></p>"
-  text2: "<p>Handling finances has become challenging due to inflation. </br>
+  text1: "<p>Handling finances has become challenging due to inflation. </br>
   In this time-consuming work our team decided to help people organize their budget better. </br></br>
   <b>PocketBudget</b>, a financial management application <b>for customers who have difficulty controlling their budget and want to improve it.</b> </p>"
+  text2: ""
 
 gallery-about-one:
   - assets/img/works/PBMockup3.1.png
@@ -63,7 +63,7 @@ description4:
 - Unpredictability in expenses</br></br>
 - Guilty pleasures</b>
 </p>"
-  text2: "<p></p>"
+  text2: ""
   
 gallery-research-two:
   - assets/img/works/Affinitymap.png
@@ -71,11 +71,11 @@ gallery-research-two:
 # Two approaches, one goal
 description5:
   title: Two approaches, one goal
-  text1: "<p> </p>"
-  text2: "<p>In the conducted eight interviews, we identified two main personas.</br></br>
+  text1: "<p>In the conducted eight interviews, we identified two main personas.</br></br>
 01. The first persona has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
 02. The second persona is a young person who has <b>recently started earning money and has little financial awareness or discipline</b>. However, they are willing to save money regularly.
 </p>"
+  text2: ""
 
 gallery-ideation-one:
   - assets/img/works/PBPersona1light.png
@@ -84,7 +84,7 @@ gallery-ideation-one:
 description6:
   title: Predicting the next step
   text1: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
-  text2: "<p></p>"
+  text2: ""
 
 gallery-ideation-two:
   - assets/img/works/PBUJMlight.png
@@ -99,10 +99,6 @@ description7:
 <b>Filtering reports by periods</b></br>
 <b>Clear and easy to understand graphs of finances and timelines</b>
 </p>"
-
-video-testing-one:
-  poster: assets/img/works/pocketbudget.mov
-  id: Gu6z6kIukgg
 
 gallery-testing-one:
   - assets/img/blog/blog6.jpg
@@ -122,6 +118,10 @@ gallery-testing-two:
   - assets/img/works/PBWireframes1light.png
   - assets/img/works/PBWireframes2light.png
 
+video-testing-two:
+  poster: assets/img/works/PBMockup2.1.png
+  id: -Wtv10oQxus
+
 # Trying out
 description9:
   title: Trying out
@@ -140,8 +140,8 @@ gallery-trying-out:
 # SectionX1
 description10:
   title: Always a room for improvement
-  text1: "<p></p>"
-  text2: "<p>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.</p>"
+  text1: "<p>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.</p>"
+  text2: ""
 
 gallery-section-x1:
   - assets/img/works/PBPrzedPo4.png

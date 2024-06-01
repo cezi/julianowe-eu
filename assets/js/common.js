@@ -312,7 +312,7 @@ $(function() {
 	var $gal_container = $('.m-gallery');
 	$gal_container.imagesLoaded(function() {
 		$gal_container.isotope({
-			itemSelector: '.col-lg-6',
+			itemSelector: '.col-lg-12',
 			percentPosition: true,
 		});
 	});
