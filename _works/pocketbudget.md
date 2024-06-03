@@ -54,7 +54,7 @@ description3:
 description4:
   title: Missed opportunities
   text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, </br> what influenced the daily choices and what would help us be more content with our budget.</br></br> The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br></br>
-<b>- Difficulty in planning the expenses</br>
+<b>• Difficulty in planning the expenses</br>
 • Lack of knowledge of finances</br>
 • Problems with saving up for long term goals</br>
 • Unpredictability in expenses</br>
@@ -68,9 +68,9 @@ gallery-research-two:
 # Two approaches, one goal
 description5:
   title: Two approaches, one goal
-  text1: "<p>In the conducted eight interviews, we identified two main personas.</br></br>
+  text1: "<p>In the conducted eight interviews, we identified <b>two main personas</b>.</br></br>
 01. The first persona has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
-02. The second persona is a young person who has <b>recently started earning money and has little financial awareness or discipline</b>. However, they are willing to save money regularly.
+02. The second persona is a young person who has <b>recently started earning money</br> and has little financial awareness or discipline</b>. However, they are willing to save money regularly.
 </p>"
   text2: ""
 
@@ -80,7 +80,7 @@ gallery-ideation-one:
 
 description6:
   title: Predicting the next step
-  text1: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
+  text1: "<p>It was very important to prepare an easy and non invasive way to encourage the user</br> to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty.</br> We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
   text2: ""
 
 gallery-ideation-two:
@@ -89,25 +89,23 @@ gallery-ideation-two:
 # Ideas
 description7:
   title: Ideas
-  text1: "<p>When we began to gather ideas over how might we help in having more control over finances we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application but also develop the educational and supportive side of it. </p>"
-  text2: "<p> In help came competitor analysis. Our team researched seven applications whose main function was to control and analyze expenses.</br> We identified few the most important and useful ideas which help user stay on track such as: </br></br>
-<b>Gamification</b></br>
-<b>Setting targets for specific categories</b></br>
-<b>Filtering reports by periods</b></br>
-<b>Clear and easy to understand graphs of finances and timelines</b>
+  text1: "<p>When we began to gather ideas over how might we help in having more control over finances</br> we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application</br> but also develop the educational and supportive side of it. </p>"
+  text2: "<p> In help came competitor analysis. Our team researched seven applications whose <b>main function was to control and analyze expenses</b>.</br> We identified few the most important and useful ideas which help user stay on track such as: </br></br>
+<b>• Gamification</b></br>
+<b>• Setting targets for specific categories</b></br>
+<b>• Filtering reports by periods</b></br>
+<b>• Clear and easy to understand graphs of finances and timelines</b>
 </p>"
 
-gallery-testing-one:
-  - assets/img/blog/blog6.jpg
 
 # Three branches
 description8:
   title: Three branches
-  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user. With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
+  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters</br> and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
 </p>"
-  text2: "<p><b>Browsing the learning tab,</b></br>
-<b>Arranging a consultation with a financial adviser</b></br>
-<b>Creating a goal</b></br>
+  text2: "<p><b>• Browsing the learning tab,</b></br>
+<b>• Arranging a consultation with a financial adviser</b></br>
+<b>• Creating a goal</b></br>
 </p>"
 
 gallery-testing-two:
@@ -115,9 +113,6 @@ gallery-testing-two:
   - assets/img/works/PBWireframes1light.png
   - assets/img/works/PBWireframes2light.png
 
-video-testing-two:
-  poster: assets/img/works/PBMockup2.1.png
-  id: -Wtv10oQxus
 
 # Trying out
 description9:
@@ -133,6 +128,10 @@ gallery-trying-out:
   - assets/img/works/PBPrzedPo.png 
   - assets/img/works/PBPrzedPo2.png 
   - assets/img/works/PBPrzedPo3.png
+
+  - video-testing-two:
+  poster: assets/img/works/PBMockup2.1.png
+  id: -Wtv10oQxus
 
 # SectionX1
 description10:
