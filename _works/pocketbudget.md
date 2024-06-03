@@ -114,8 +114,8 @@ description8:
 
 gallery-testing-two:
   - assets/img/works/pocketbudget/Pbuserflownew.png 
-  - assets/img/works/pocketbudget/PBWireframes1new.png 
-  - assets/img/works/pocketbudget/PBWireframes2new.png
+  - assets/img/works/pocketbudget/Wireframes1new.png 
+  - assets/img/works/pocketbudget/Wireframes2new.png
 
 
 # Trying out
