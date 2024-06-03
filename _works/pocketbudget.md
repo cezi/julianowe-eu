@@ -63,7 +63,7 @@ description4:
   text2: ""
   
 gallery-research-two:
-  - assets/img/works/pocketbudget/PBChart.png
+  - assets/img/works/pocketbudget/PBChart.png </br></br>
   - assets/img/works/pocketbudget/PBAffinitymapnew.png
 
 # Two approaches, one goal
@@ -76,7 +76,7 @@ description5:
   text2: ""
 
 gallery-ideation-one:
-  - assets/img/works/pocketbudget/PBPersona1new.png
+  - assets/img/works/pocketbudget/PBPersona1new.png </br></br>
   - assets/img/works/pocketbudget/PBPersona2new.png
 
 description6:
@@ -110,8 +110,8 @@ description8:
 </p>"
 
 gallery-testing-two:
-  - assets/img/works/pocketbudget/Pbuserflownew.png
-  - assets/img/works/pocketbudget/PBWireframes1new.png
+  - assets/img/works/pocketbudget/Pbuserflownew.png </br></br>
+  - assets/img/works/pocketbudget/PBWireframes1new.png </br></br>
   - assets/img/works/pocketbudget/PBWireframes2new.png
 
 
@@ -126,9 +126,9 @@ With the first test performed tested on 5 people. </br> Their task was to:</br><
 </p>"
 
 gallery-trying-out:
-  - assets/img/works/pocketbudget/PrzedPonew.png
-  - assets/img/works/pocketbudget/PrzedPo2new.png
-  - assets/img/works/pocketbudget/PrzedPo3new.png
+  - assets/img/works/pocketbudget/PrzedPonew.png </br></br>
+  - assets/img/works/pocketbudget/PrzedPo2new.png </br></br>
+  - assets/img/works/pocketbudget/PrzedPo3new.png</br></br>
 
 video-trying-out:
   poster: assets/img/works/pocketbudget/PBMockup1new.png
@@ -141,8 +141,8 @@ description10:
   text2: ""
 
 gallery-section-x1:
-  - assets/img/works/pocketbudget/PBPrzedPo4new.png
-  - assets/img/works/pocketbudget/PBPrzedPo5new.png
+  - assets/img/works/pocketbudget/PBPrzedPo4new.png </br></br>
+  - assets/img/works/pocketbudget/PBPrzedPo5new.png </br></br>
   - assets/img/works/pocketbudget/PBPrzedPo6new.png
 
 # SectionX2
@@ -152,7 +152,7 @@ description11:
   text2: "<p>Another important element was to ensure <b>transparency, cleanliness and a modernist look</b> for easy day-to-day financial management.</p>"
 
 gallery-section-x2:
-  - assets/img/works/pocketbudget/PBUInew.png
+  - assets/img/works/pocketbudget/PBUInew.png </br></br>
   - assets/img/works/pocketbudget/PBMockup4new.png
 
 # SectionX3
