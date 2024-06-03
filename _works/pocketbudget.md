@@ -63,7 +63,7 @@ description4:
   text2: ""
   
 gallery-research-two:
-  - assets/img/works/pocketbudget/Chart.png 
+  - assets/img/works/pocketbudget/Graph.png
   - assets/img/works/pocketbudget/PBAffinitymapnew.png
 
 # Two approaches, one goal
@@ -122,7 +122,7 @@ description9:
 I was responsible for preparing the last one.
 </p>"
   text2: "<p><b>The first test</b></br>
-With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal.</b></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</p>br> Many of these were duplicated and gave us ideas for improvements.
+With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</p></br> Many of these were duplicated and gave us ideas for improvements.
 </p>"
 
 gallery-trying-out:
@@ -148,7 +148,7 @@ gallery-section-x1:
 # SectionX2
 description11:
   title: Optimistically in control 
-  text1: "<p>Being in control of finances should be associated with a <b>strong but optimistic</b> approach.</br> We wanted PocketBudget to create a sense of both independence and trust, help.</p>"
+  text1: "<p>Being in control of finances should be associated with a <b>strong but optimistic</b> approach.</br> We wanted PocketBudget to create a sense of both independence and trust.</p>"
   text2: "<p>Another important element was to ensure <b>transparency, cleanliness and a modernist look</b> for easy day-to-day financial management.</p>"
 
 gallery-section-x2:
