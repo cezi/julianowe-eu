@@ -5,7 +5,8 @@ title: PocketBudget
 category: Bootcamp
 category_slug: ui-ux-design
 image: assets/img/works/pocketbudget/PBMockup2new.png
-short_description: A financial management application for customers</br> who have difficulty controlling their budget and want to improve it.
+short_description: Managing your daily budget and creating goals to fulfill your dreams
+
 
 # full details
 full_image: assets/img/works/pocketbudget/PBMockup2new.png
@@ -44,7 +45,7 @@ description2:
 # Time is one thing, but understanding
 description3:
   title: Time is one thing, but understanding
-  text1: "<p>From our seven interviews face to face and a review of money saving and tracking applications,</br> we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
+  text1: "<p>From our seven interviews face to face and a review of money saving and tracking applications, we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
 </p>"
   text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications.</br></br>
 <b>Hypothesis</b>: People want to improve their money management skills and understand money management better.</br></br>
@@ -81,7 +82,7 @@ gallery-ideation-one:
 
 description6:
   title: Predicting the next step
-  text1: "<p>It was very important to prepare an easy and non invasive way to encourage our personas</br> to try the new solution for balancing their finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty.</br> We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences. In order to trust an application more,</br> our team minimazed required input on personal informations.</p>"
+  text1: "<p>It was very important to prepare an easy and non invasive way to encourage trying a new way of balancing finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty.</br> We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences. In order to trust an application more,</br> our team minimazed required input on personal information since no one is likely to give away too many private details. </p>"
   text2: ""
 
 gallery-ideation-two:
@@ -90,7 +91,7 @@ gallery-ideation-two:
 # Ideas
 description7:
   title: Ideas
-  text1: "<p>When we began to gather ideas over how might we help in having more control over finances</br> we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application</br> but also develop the educational and supportive side of it. </p>"
+  text1: "<p>When we began to gather ideas over how might we help in having more control over finances, we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application, but also develop the educational and supportive side of it. </p>"
   text2: "<p> In help came competitor analysis. Our team researched seven applications whose <b>main function was to control and analyze expenses</b>.</br> We identified few the most important and useful ideas, which help staying on track in an engaging way, such as: </br></br>
 <b>• Gamification</b></br>
 <b>• Setting targets for specific categories</b></br>
@@ -102,11 +103,11 @@ description7:
 # Three branches
 description8:
   title: Three branches
-  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters</br> and most importantly, three main paths <b>as means to provide a broad horizon for the user in strengthening his knowledge and control over finances</b>:
+  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths <b>as means to provide a broad horizon for the user in strengthening his knowledge and control over finances</b>:
 </p>"
-  text2: "<p><b>• Browsing the learning tab,</b></br>
-<b>• Arranging a consultation with a financial adviser</b></br>
-<b>• Creating a goal</b></br>
+  text2: "<p><b>• Browsing the learning tab: a way to educate yourself in fun, engaging way</b></br>
+<b>• Arranging a consultation with a financial adviser: for a extra help from professionals </b></br>
+<b>• Creating a goal: as a mean to support dreams and make them come true</b></br>
 </p>"
 
 gallery-testing-two:
@@ -122,7 +123,7 @@ description9:
 I was responsible for preparing the last one.
 </p>"
   text2: "<p><b>The first test</b></br>
-With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</p></br> Many of these were duplicated and gave us ideas for improvements.
+With the first test performed tested on five people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</p></br> Many of these were duplicated and gave us ideas for improvements. Some of the changes include: creating separate icon for goal making, correcting readibility, improving the flow of a goal making proccess. 
 </p>"
 
 gallery-trying-out:
@@ -137,7 +138,7 @@ video-trying-out:
 # SectionX1
 description10:
   title: Always a room for improvement
-  text1: "<p>The improvements made were re-tested with 5 respondents.</br> After the second round of testing, we prepared a short list of suggested changes,</br> including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.</p>"
+  text1: "<p>The improvements made were re-tested with 5 respondents.</br> After the second round of testing, we prepared a short list of suggested changes,</br> including the addition of personalised advice, new step, simplifying the language of interface.</p>"
   text2: ""
 
 gallery-section-x1:
