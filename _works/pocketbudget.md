@@ -5,7 +5,7 @@ title: PocketBudget
 category: Bootcamp
 category_slug: ui-ux-design
 image: assets/img/works/PBMockup2.1.png
-short_description: A financial management application for customers who have difficulty controlling their budget and want to improve it.
+short_description: A financial management application for customers</br> who have difficulty controlling their budget and want to improve it.
 
 # full details
 full_image: assets/img/works/PBMockup2.1.png
@@ -44,24 +44,21 @@ description2:
 # Time is one thing, but understanding
 description3:
   title: Time is one thing, but understanding
-  text1: "<p>From our interviews and a review of money saving and tracking applications, we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances. </br></br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
+  text1: "<p>From our interviews and a review of money saving and tracking applications,</br> we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
 </p>"
   text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications</br></br>
 <b>Hypothesis</b>: People want to improve their money management skills and understand money management better.</br></br>
 <b>Goal</b>: Build an app that helps meet goals and improve the financial management process while educating the user.
 </p>"
 
-gallery-research-one:
-  - assets/img/blog/blog6.jpg
-
 description4:
   title: Missed opportunities
-  text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, what influenced the daily choices and what would help us be more content with our budget.</br></br> The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br></br>
-<b>- Difficulty in planning the expenses</br></br>
-- Lack of knowledge of finances</br></br>
-- Problems with saving up for long term goals</br></br>
-- Unpredictability in expenses</br></br>
-- Guilty pleasures</b>
+  text1: "<p>Interviews helped us receive a broader picture on how daily management of finances looks like.</br> Our main goal was to understand what problems were encountered, </br> what influenced the daily choices and what would help us be more content with our budget.</br></br> The response was strikingly similar from a person to a person. </br> Results of the interviews showed that main cause of dissatisfaction were:</br></br>
+<b>- Difficulty in planning the expenses</br>
+• Lack of knowledge of finances</br>
+• Problems with saving up for long term goals</br>
+• Unpredictability in expenses</br>
+• Guilty pleasures</b>
 </p>"
   text2: ""
   
