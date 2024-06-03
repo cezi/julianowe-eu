@@ -71,7 +71,7 @@ description5:
   title: Two approaches, one goal
   text1: "<p>In the conducted interviews, we identified <b>two main personas</b>.</br></br>
 01. Łukasz, a 33 years old developer, who has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
-02. Kasia, a young student who has <b>recently started earning money</br> and has little financial awareness or discipline</b>. However, is willing to save money regularly.
+02. Kasia, a young student who has <b>recently started earning money and has little financial awareness or discipline</b>. However, is willing to save money regularly.
 </p>"
   text2: ""
 
