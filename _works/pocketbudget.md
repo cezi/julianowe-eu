@@ -141,9 +141,9 @@ description10:
   text2: ""
 
 gallery-section-x1:
-  - assets/img/works/pocketbudget/PBPrzedPo4new.png </br></br>
-  - assets/img/works/pocketbudget/PBPrzedPo5new.png </br></br>
-  - assets/img/works/pocketbudget/PBPrzedPo6new.png
+  - assets/img/works/pocketbudget/PrzedPo4new.png </br></br>
+  - assets/img/works/pocketbudget/PrzedPo5new.png </br></br>
+  - assets/img/works/pocketbudget/PrzedPo6new.png
 
 # SectionX2
 description11:
