@@ -99,6 +99,8 @@ description7:
 <b>• Clear and easy to understand graphs of finances and timelines</b>
 </p>"
 
+gallery-ideas-one:
+  - assets/img/works/pocketbudget/PBIdeationnew.png
 
 # Three branches
 description8:
