@@ -82,7 +82,7 @@ gallery-ideation-one:
 
 description6:
   title: Predicting the next step
-  text1: "<p>It was very important to prepare an easy and non invasive way to encourage trying a new way of balancing finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty.</br> We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences. In order to trust an application more,</br> our team minimazed required input on personal information since no one is likely to give away too many private details. </p>"
+  text1: "<p>It was very important to prepare an easy and non invasive way to encourage trying a new way of balancing finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty.</br> We tried to <b>find the points at which something could go wrong and find optimal solutions</b> such as minimising user control and being able to individualize information in terms of user preferences. In order to trust an application more, our team minimazed required input on personal information since no one is likely to give away too many private details. </p>"
   text2: ""
 
 gallery-ideation-two:
@@ -103,7 +103,7 @@ description7:
 # Three branches
 description8:
   title: Three branches
-  text1: "<p>The time for the first sketches began. </br>Our team divided work into three key branches of solutions.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths <b>as means to provide a broad horizon for the user in strengthening their knowledge and control over finances</b>:
+  text1: "<p>The time for the first sketches began. </br>Our team divided work into three key branches of solutions.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly:<br> three main paths <b>as means to provide a broad horizon for the user in strengthening their knowledge and control over finances</b>:
 </p>"
   text2: "<p><b>• Browsing the learning tab: a way to educate yourself in fun, engaging way</b></br>
 <b>• Arranging a consultation with a financial adviser: for a extra help from professionals </b></br>
