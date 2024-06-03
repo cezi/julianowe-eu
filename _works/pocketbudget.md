@@ -4,11 +4,11 @@ layout: works-single
 title: PocketBudget
 category: Bootcamp
 category_slug: ui-ux-design
-image: assets/img/works/PBMockup2.1.png
+image: assets/img/works/pocketbudget/PBMockup2new.png
 short_description: A financial management application for customers</br> who have difficulty controlling their budget and want to improve it.
 
 # full details
-full_image: assets/img/works/PBMockup2.1.png
+full_image: assets/img/works/pocketbudget/PBMockup2new.png
 info:
   - label: Year
     value: 2023 (7 months)
@@ -29,7 +29,7 @@ description1:
   text2: ""
 
 gallery-about-one:
-  - assets/img/works/PBMockup3.1.png
+  - assets/img/works/pocketbudget/PBMockup3new.png
 
 # Design process
 description2:
@@ -63,8 +63,8 @@ description4:
   text2: ""
   
 gallery-research-two:
-  - assets/img/works/PBChart.png
-  - assets/img/works/Affinitymap.png
+  - assets/img/works/pocketbudget/PBChart.png
+  - assets/img/works/pocketbudget/PBAffinitymapnew.png
 
 # Two approaches, one goal
 description5:
@@ -76,8 +76,8 @@ description5:
   text2: ""
 
 gallery-ideation-one:
-  - assets/img/works/PBPersona1light.png
-  - assets/img/works/PBPersona2light.png
+  - assets/img/works/pocketbudget/PBPersona1new.png
+  - assets/img/works/pocketbudget/PBPersona2new.png
 
 description6:
   title: Predicting the next step
@@ -85,7 +85,7 @@ description6:
   text2: ""
 
 gallery-ideation-two:
-  - assets/img/works/PBUJMlight.png
+  - assets/img/works/pocketbudget/PBUJMnew.png
 
 # Ideas
 description7:
@@ -110,9 +110,9 @@ description8:
 </p>"
 
 gallery-testing-two:
-  - assets/img/works/PBUserflowlight.png
-  - assets/img/works/PBWireframes1light.png
-  - assets/img/works/PBWireframes2light.png
+  - assets/img/works/pocketbudget/Pbuserflownew.png
+  - assets/img/works/pocketbudget/PBWireframes1new.png
+  - assets/img/works/pocketbudget/PBWireframes2new.png
 
 
 # Trying out
@@ -126,12 +126,12 @@ With the first test performed tested on 5 people. </br> Their task was to:</br><
 </p>"
 
 gallery-trying-out:
-  - assets/img/works/PBPrzedPo.png 
-  - assets/img/works/PBPrzedPo2.png 
-  - assets/img/works/PBPrzedPo3.png
+  - assets/img/works/pocketbudget/PrzedPonew.png
+  - assets/img/works/pocketbudget/PrzedPo2new.png
+  - assets/img/works/pocketbudget/PrzedPo3new.png
 
 video-trying-out:
-  poster: assets/img/works/PBMockup2.1.png
+  poster: assets/img/works/pocketbudget/PBMockup1new.png
   id: -Wtv10oQxus
 
 # SectionX1
@@ -141,9 +141,9 @@ description10:
   text2: ""
 
 gallery-section-x1:
-  - assets/img/works/PBPrzedPo4.png
-  - assets/img/works/PBPrzedPo5.png
-  - assets/img/works/PBPrzedPo6.png
+  - assets/img/works/pocketbudget/PBPrzedPo4new.png
+  - assets/img/works/pocketbudget/PBPrzedPo5new.png
+  - assets/img/works/pocketbudget/PBPrzedPo6new.png
 
 # SectionX2
 description11:
@@ -152,8 +152,8 @@ description11:
   text2: "<p>Another important element was to ensure <b>transparency, cleanliness and a modernist look</b> for easy day-to-day financial management.</p>"
 
 gallery-section-x2:
-  - assets/img/works/PBUIlight.png
-  - assets/img/works/PBMockup4.1.png
+  - assets/img/works/pocketbudget/PBUInew.png
+  - assets/img/works/pocketbudget/PBMockup4new.png
 
 # SectionX3
 description12:
