@@ -63,7 +63,7 @@ description4:
   text2: ""
   
 gallery-research-two:
-  - assets/img/works/pocketbudget/PBChart.png </br></br>
+  - assets/img/works/pocketbudget/Chart.png </br></br>
   - assets/img/works/pocketbudget/PBAffinitymapnew.png
 
 # Two approaches, one goal
