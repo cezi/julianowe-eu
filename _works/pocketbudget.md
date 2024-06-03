@@ -129,7 +129,7 @@ gallery-trying-out:
   - assets/img/works/PBPrzedPo2.png 
   - assets/img/works/PBPrzedPo3.png
 
-  - video-testing-two:
+video-trying-out:
   poster: assets/img/works/PBMockup2.1.png
   id: -Wtv10oQxus
 
