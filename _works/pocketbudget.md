@@ -70,7 +70,7 @@ gallery-research-two:
 # Two approaches, one goal
 description5:
   title: Two approaches, one goal
-  text1: "<p>After gathering and categorizing answers by similarities and shared needs and concerns we began to notice two forming approaches. Therefore, in the conducted interviews, we identified <b>two main personas</b>.</br></br>
+  text1: "<p>After gathering and categorizing answers by similarities and shared needs and concerns we began to notice two forming approaches.</br> Therefore, in the conducted interviews, we identified <b>two main personas</b>.</br></br>
 01. Łukasz, a 33 years old developer, who has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
 02. Kasia, a young student who has <b>recently started earning money and has little financial awareness or discipline</b>. However, is willing to save money regularly.
 </p>"
