@@ -45,7 +45,7 @@ description2:
 # Time is one thing, but understanding
 description3:
   title: Time is one thing, but understanding
-  text1: "<p>From our seven interviews face to face and a review of money saving and tracking applications, we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
+  text1: "<p>From our seven interviews face to face and a review of money saving and tracking applications,</br> we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
 </p>"
   text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications.</br></br>
 <b>Hypothesis</b>: People want to improve their money management skills and understand money management better.</br></br>
@@ -70,7 +70,7 @@ gallery-research-two:
 # Two approaches, one goal
 description5:
   title: Two approaches, one goal
-  text1: "<p>In the conducted interviews, we identified <b>two main personas</b>.</br></br>
+  text1: "<p>After gathering and categorizing answers by similarities and shared needs and concerns we began to notice two forming approaches. Therefore, in the conducted interviews, we identified <b>two main personas</b>.</br></br>
 01. Łukasz, a 33 years old developer, who has a <b>stable financial situation</b> and is interested in <b>optimizing their budget management.</b></br></br>
 02. Kasia, a young student who has <b>recently started earning money and has little financial awareness or discipline</b>. However, is willing to save money regularly.
 </p>"
@@ -92,7 +92,7 @@ gallery-ideation-two:
 description7:
   title: Ideas
   text1: "<p>When we began to gather ideas over how might we help in having more control over finances, we found many new, interesting ideas that would not only create solutions for the analytics of incomes and expenses in the application, but also develop the educational and supportive side of it. </p>"
-  text2: "<p> In help came competitor analysis. Our team researched seven applications whose <b>main function was to control and analyze expenses</b>.</br> We identified few the most important and useful ideas, which help staying on track in an engaging way, such as: </br></br>
+  text2: "<p> In help came a competition analysis. Our team researched seven applications including: MoneyLover, Money Manager, Monefy, Mój skarbiec, Spendee budget, Money Tracker and Revolut. Their common <b>main function was to control and analyze expenses</b>.</br> From the analysis we identified few the most important and useful ideas, which help staying on track in an engaging way, such as: </br></br>
 <b>• Gamification</b></br>
 <b>• Setting targets for specific categories</b></br>
 <b>• Filtering reports by periods</b></br>
@@ -103,7 +103,7 @@ description7:
 # Three branches
 description8:
   title: Three branches
-  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths <b>as means to provide a broad horizon for the user in strengthening his knowledge and control over finances</b>:
+  text1: "<p>The time for the first sketches began. </br>Our team divided work into three key branches of solutions.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths <b>as means to provide a broad horizon for the user in strengthening their knowledge and control over finances</b>:
 </p>"
   text2: "<p><b>• Browsing the learning tab: a way to educate yourself in fun, engaging way</b></br>
 <b>• Arranging a consultation with a financial adviser: for a extra help from professionals </b></br>
