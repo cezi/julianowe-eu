@@ -46,7 +46,7 @@ description3:
   title: Time is one thing, but understanding
   text1: "<p>From our seven interviews face to face and a review of money saving and tracking applications,</br> we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
 </p>"
-  text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications</br></br>
+  text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications.</br></br>
 <b>Hypothesis</b>: People want to improve their money management skills and understand money management better.</br></br>
 <b>Goal</b>: Build an app that helps meet goals and improve the financial management process while educating the user.
 </p>"
