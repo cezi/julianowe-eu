@@ -101,7 +101,7 @@ description7:
 # Three branches
 description8:
   title: Three branches
-  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters</br> and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
+  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user.</br> With that we created the main user flow, including registration, configuration and entry of basic parameters</br> and most importantly, three main paths <b>as means to provide a broad horizon for the user in strengthening his knowledge and control over finances</b>:
 </p>"
   text2: "<p><b>• Browsing the learning tab,</b></br>
 <b>• Arranging a consultation with a financial adviser</b></br>
@@ -117,11 +117,11 @@ gallery-testing-two:
 # Trying out
 description9:
   title: Trying out
-  text1: "<p>To test out our idea each of us in the team created separate wireframes for the three main functionalities: browsing through education tab, making an appointment with financial consultant and creating a goal.</br></br>
+  text1: "<p>To test out our idea each of us in the team created separate wireframes for the three main functionalities:</br> browsing <b>through education tab, making an appointment with financial consultant and creating a goal.</b></br></br>
 I was responsible for preparing the last one.
 </p>"
   text2: "<p><b>The first test</b></br>
-With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br></br> 2. Browse the knowledge tab and take a quiz </br></br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
+With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal.</b><</br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</p>br> Many of these were duplicated and gave us ideas for improvements.
 </p>"
 
 gallery-trying-out:
@@ -136,7 +136,7 @@ video-trying-out:
 # SectionX1
 description10:
   title: Always a room for improvement
-  text1: "<p>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.</p>"
+  text1: "<p>The improvements made were re-tested with 5 respondents.</br> After the second round of testing, we prepared a short list of suggested changes,</br> including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.</p>"
   text2: ""
 
 gallery-section-x1:
@@ -147,8 +147,8 @@ gallery-section-x1:
 # SectionX2
 description11:
   title: Optimistically in control 
-  text1: "<p>Being in control of finances should be associated with a strong but optimistic approach. We wanted PocketBudget to create a sense of both independence and trust, help.</p>"
-  text2: "<p>Another important element was to ensure transparency, cleanliness and a modernist look for easy day-to-day financial management.</p>"
+  text1: "<p>Being in control of finances should be associated with a <b>strong but optimistic</b> approach.</br> We wanted PocketBudget to create a sense of both independence and trust, help.</p>"
+  text2: "<p>Another important element was to ensure <b>transparency, cleanliness and a modernist look</b> for easy day-to-day financial management.</p>"
 
 gallery-section-x2:
   - assets/img/works/PBUIlight.png
