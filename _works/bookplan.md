@@ -134,7 +134,7 @@ description10:
 <b>Tab navigation caused confusion</b>, with one person inadvertently returning to the Hotels tab after selecting Flights + Hotels. Despite these challenges, testers successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
-  gallery-description10-one:
+gallery-description10-one:
   - assets/img/works/bookplan/Changes.png
   - assets/img/works/bookplan/Changes2.png
   - assets/img/works/bookplan/Changes3.png
