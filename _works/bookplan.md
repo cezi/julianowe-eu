@@ -80,6 +80,16 @@ Within this path, we carefully considered <b>potential issues that might be enco
 gallery-ideation-two:
   - assets/img/works/bookplan/BPUJMpicture.png
 
+description7:
+  title: Inspiration
+  text1: ""
+  text2: "<p>Throughout the ideation phase, we placed significant emphasis on competition analysis, given the extensive and well-established solutions within the travel agency industry. Drawing inspiration from proven strategies was a key focus.
+In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely ITAKA and TUI. Our team also thoroughly reviewed and examined the remaining competitors: Booking.com , Wakacje.pl, Airbnb, and Skyscanner.
+The range of products provided encompassed a diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities.</p>"
+
+gallery-ideation-two:
+  - assets/img/works/bookplan/BPcompetitiveanalysisl.png
+
 # Testing
 description7:
   title: Brain storming
@@ -91,10 +101,6 @@ description7:
 <b>• An offer generator based on a pre-filled preference form</b></br>
 <b>• Planning multiple trips at once in one place</b></br>
 <b>• Combining payments for a service</b>
-</p>"
-  text3: "<p>Throughout the ideation phase, we placed significant emphasis on competition analysis, given the extensive and well-established solutions within the travel agency industry. <b>Drawing inspiration</b> from proven strategies was a key focus.
-In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely ITAKA and TUI. Our team also thoroughly reviewed and examined the remaining competitors: Booking.com , Wakacje.pl, Airbnb, and Skyscanner.
-The range of products provided encompassed a <b>diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities</b>.
 </p>"
 
 gallery-testing-one:
