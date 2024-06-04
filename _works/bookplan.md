@@ -8,7 +8,7 @@ image: assets/img/works/BPMockup1.png
 short_description: Helping you plan all your dream vacations in one place
 
 # full details
-full_image: assets/img/works/BPMockup1.png
+full_image: assets/img/works/bookplan/BPMockup1.png
 info:
   - label: Year
     value: 2023 
@@ -29,7 +29,7 @@ description1:
 </p>"
 
 gallery-about-one:
-  - assets/img/works/Mniejszy_mock_up_BP_1.png
+  - assets/img/works/bookplan/Mockup1.1.png
 
 # Design process
 description2:
@@ -39,8 +39,6 @@ description2:
 03 The journey<br />
 04 Coming home</p>"
 
-  text2: "<p></p>"
-
 # Research
 description3:
   title: Taking off
@@ -49,9 +47,6 @@ description3:
   text2: "<p>To get a good understanding of frequent travelers' needs our team developed a screener accompanied by a scripted questionnaire. The questions involved preferences in <b>travel modes, past travel experiences, trip organization, assessments of travel agent services, and the overall experience of purchasing a tour.</b></br></br>
 We conducted face to face interviews with five individuals.
 </p>"
-
-gallery-research-one:
-  - assets/img/blog/blog6.jpg
 
 description4:
   title: Everything, everywhere, all at once
@@ -65,27 +60,27 @@ description4:
 Our primary client was <b>a middle-aged woman, a frequent traveler for leisure and business, who needed a tool to help her purchase multiple tours in one.</b></p>"
   
 gallery-research-two:
-  - assets/img/works/BPPersonalight.png
-  - assets/img/works/BPEmpathyMaplight.png
+  - assets/img/works/bookplan/BPPersona.png
+  - assets/img/works/bookplan/BPEmpathyMaplight.png
 
 # Ideation
 description5:
   title: On-board
-  text1: "<p>All hands on-board, our ideation process started with coming up of a short story where our persona finds BookPlan and tries to give it a try by booking her future vacations. The key part of the story was all about focus on touchpoints of our brand and better connection to the future users. </p>"
+  text1: "<p>All hands on-board, our ideation process started with coming up of a short story where Zofia finds BookPlan and tries to give it a try by booking her future vacations. The key part of the story was all about focus on <b>the touchpoints of our brand</b> and better connection to the future travellers. </p>"
   text2: "<p>
 </p>"
 
 gallery-ideation-one:
-  - assets/img/works/BPStorytellinglight.png
+  - assets/img/works/bookplan/BPStorytellinglight.png
 
 description6:
   title: Small turbulences
   text1: "<p></p>"
   text2: "<p>To enrich the experience our next crucial step was to establish a User Journey Path. </br></br>
-Within this path, we carefully considered potential issues that might be encountered during the trips. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
+Within this path, we carefully considered <b>potential issues that might be encountered during the trips</b>. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
 
 gallery-ideation-two:
-  - assets/img/works/BPUJMZDJ.png
+  - assets/img/works/bookplan/BPUJMpicture.png
 
 # Testing
 description7:
