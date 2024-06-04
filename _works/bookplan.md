@@ -87,12 +87,12 @@ description7:
   title: Brain storming
   text1: "<p>To kickstart the ideation process, we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
   text2: "<p>Some of the ideas under consideration included:</br><br>
-<b>Categories broken down by need</b></br></br>
-<b>App prompts for optimal offers</b></br></br>
-<b>The ability to change flights and hotel after purchase</b></br></br>
-<b>An offer generator based on a pre-filled preference form</b></br></br>
-<b>Planning multiple trips at once in one place</b></br></br>
-<b>Combining payments for a service</b>
+<b>• Categories broken down by need</b></br>
+<b>• App prompts for optimal offers</b></br>
+<b>• The ability to change flights and hotel after purchase</b></br>
+<b>• An offer generator based on a pre-filled preference form</b></br>
+<b>• Planning multiple trips at once in one place</b></br>
+<b>• Combining payments for a service</b>
 </p>"
 
 video-testing-one:
@@ -100,26 +100,26 @@ video-testing-one:
   id: Gu6z6kIukgg
 
 gallery-testing-one:
-  - assets/img/works/BPIdeationZDJ.png
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/bookplan/BPIdeationpicture.png
     
 # Modelling
 description8:
   title: The journey
   text1: "<p>When we moved on to the modeling stage, we created paper prototypes thus testing three people whose task was to:</br></br>
-<b>01. Book flight and hotel from Gdańsk to Rome</br></br>
-02. Book flight and hotel from Rome to London</br></br>
-03. Book flight home to Gdańsk</b></br></br>
-Our aim was to see if the path to buying more than one trip was easy, short and understandable.
+<b>01. Book flight and hotel from Gdańsk to Rome</br>
+02. Book flight and hotel from Rome to London</br><
+03. Book flight home to Gdańsk</b></br>
+Our aim was to see <b>if the path to buying more than one trip was easy, short and understandable</b>.
 
 </p>"
   text2: "<p>During testing, it became evident that participants weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
 The booking path turned out to be illogical, our participants were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the  better access to process information.</p>"
 
 gallery-modelling-one:
-  - assets/img/works/BPTest1ZDJ.png
-  - assets/img/works/BPTest1.1ZDJ.png
-  - assets/img/works/BPTest1.2ZDJ.png
+  - assets/img/works/bookplan/BPPaperpicture1.png
+  - assets/img/works/bookplan/BPpaperpicture2.png
+  - assets/img/works/bookplan/BPpaperpicture3.png
+  - assets/img/works/bookplan/BPpaperpicture4.png
 
 # Design
 description9:
@@ -129,9 +129,9 @@ description9:
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
   gallery-design-one:
-  - assets/img/works/Changes.png
-  - assets/img/works/Changes_2.png
-  - assets/img/works/Changes_3.png
+  - assets/img/works/bookplan/Changes.png
+  - assets/img/works/bookplan/Changes2.png
+  - assets/img/works/bookplan/Changes3.png
 
 # Design2
 description10:
