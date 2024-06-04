@@ -99,7 +99,7 @@ video-testing-one:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
-gallery-testing-one:
+gallery-testing:
   - assets/img/works/bookplan/BPIdeationpicture.png
 
   text3: "<p>Throughout the ideation phase, we placed significant emphasis on competition analysis, given the extensive and well-established solutions within the travel agency industry. <b>Drawing inspiration</b> from proven strategies was a key focus.
