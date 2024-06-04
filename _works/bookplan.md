@@ -4,7 +4,7 @@ layout: works-single
 title: BookPlan
 category: Bootcamp
 category_slug: ui-ux-design
-image: assets/img/works/BPMockup1.png
+image: assets/img/works/bookplan/Mockup1.1.png
 short_description: Helping you plan all your dream vacations in one place
 
 # full details
