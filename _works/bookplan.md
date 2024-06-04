@@ -148,5 +148,12 @@ gallery-design-two:
   - assets/img/works/bookplan/Mockup3.png
   - assets/img/works/bookplan/Mockup5.png
   - assets/img/works/bookplan/Mockup4.png
+
+# Development 
+description11:
+  title: Plans
+  text1: "<p> In the showcased section of tests and wireframes, I omitted crucial features such as <b>content personalization and search engine suggestions</b>. These elements, informed by user feedback, will be instrumental in crafting personalized tour packages in subsequent stages.
+
+Additionally, there is room for enhancement in the <b>filter section</b>, with consideration for increasing their number. Introducing a user profile with tabs for various tour types and customized preferences for each category would further elevate the user experience.</p>"
   
 ---
