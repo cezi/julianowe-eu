@@ -118,7 +118,8 @@ description8:
 <b>01. Book flight and hotel from Gdańsk to Rome</br>
 02. Book flight and hotel from Rome to London</br>
 03. Book flight home to Gdańsk</b></br></br>
-Our aim was to see <b>if the path to buying more than one trip was easy, short and understandable</b>.</p>"
+Our aim was to see <b>if the path to buying more than one trip was easy, short and understandable</b>.
+</p>"
 
   text2: "<p>During testing, it became evident that participants weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
 The booking path turned out to be illogical, our participants were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the  better access to process information.</p>"
