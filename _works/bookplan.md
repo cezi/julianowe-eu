@@ -73,7 +73,7 @@ gallery-ideation-one:
 
 description6:
   title: Small turbulences
-  text1: "<p></p>"
+  text1: ""
   text2: "<p>To enrich the experience our next crucial step was to establish a User Journey Path. </br></br>
 Within this path, we carefully considered <b>potential issues that might be encountered during the trips</b>. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
 
