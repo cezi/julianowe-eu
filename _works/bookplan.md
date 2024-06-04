@@ -95,11 +95,7 @@ description7:
 <b>• Combining payments for a service</b>
 </p>"
 
-video-testing-one:
-  poster: assets/img/blog/blog9.jpg
-  id: Gu6z6kIukgg
-
-gallery-testing:
+gallery-testing-one:
   - assets/img/works/bookplan/BPIdeationpicture.png
 
   text3: "<p>Throughout the ideation phase, we placed significant emphasis on competition analysis, given the extensive and well-established solutions within the travel agency industry. <b>Drawing inspiration</b> from proven strategies was a key focus.
