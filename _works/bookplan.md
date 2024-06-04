@@ -19,7 +19,7 @@ info:
   - label: Role
     value: UX Designer in a team of 3
 
-# About the product
+# description1
 description1:
   show: yes
   title: A perfect voyage
@@ -28,10 +28,10 @@ description1:
 <b>BookPlan</b> is a user-centric website aimed at streamlining the process of <b>booking multiple flights and trips simultaneously while offering tailored and customized</b> holiday packages.
 </p>"
 
-gallery-about-one:
+gallery-description1-one:
   - assets/img/works/bookplan/Mockup1.1.png
 
-# Design process
+# description2
 description2:
   title: Every trip starts with a plan
   text1: "01 Take off<br />
@@ -39,7 +39,7 @@ description2:
 03 The journey<br />
 04 Coming home</p>"
 
-# Research
+# description3
 description3:
   title: Taking off
   text1: "<p>There are many reasons for why people travel, most of them revolve around leisure and getting refreshed after long weeks of work or school. Good vacations should cater to our needs, so not a single worry occupies our minds.
@@ -48,6 +48,7 @@ description3:
 We conducted face to face interviews with five individuals.
 </p>"
 
+# description4
 description4:
   title: Everything, everywhere, all at once
   text1: "<p>The results of interviews made us conclude the most important problem and hypothesis.</br></br>
@@ -58,28 +59,30 @@ description4:
   text2: "<p>From the interviews we were able to identify the persona and their overarching needs.</br>
 Our primary client was <b>a middle-aged woman, a frequent traveler for leisure and business, who needed a tool to help her purchase multiple tours in one.</b></p>"
   
-gallery-research-two:
+gallery-description4-one:
   - assets/img/works/bookplan/BPPersona.png
   - assets/img/works/bookplan/BPEmpathyMaplight.png
 
-# Ideation
+# description5
 description5:
   title: On-board
   text1: "<p>All hands on-board, our ideation process started with coming up of a short story where Zofia finds BookPlan and tries to give it a try by booking her future vacations. The key part of the story was all about focus on <b>the touchpoints of our brand</b> and better connection to the future travellers. </p>"
   text2: "<p></p>"
 
-gallery-ideation-one:
+gallery-description5-one:
   - assets/img/works/bookplan/BPStorytellinglight.png
 
+# description6
 description6:
   title: Small turbulences
   text1: ""
   text2: "<p>To enrich the experience our next crucial step was to establish a User Journey Path. </br></br>
 Within this path, we carefully considered <b>potential issues that might be encountered during the trips</b>. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
 
-gallery-ideation-two:
+gallery-description6-one:
   - assets/img/works/bookplan/BPUJMpicture.png
 
+# description7
 description7:
   title: Inspiration
   text1: ""
@@ -87,10 +90,10 @@ description7:
 In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely ITAKA and TUI. Our team also thoroughly reviewed and examined the remaining competitors: Booking.com , Wakacje.pl, Airbnb, and Skyscanner.
 The range of products provided encompassed a diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities.</p>"
 
-gallery-ideation-three:
+gallery-description7-one:
   - assets/img/works/bookplan/BPcompetitiveanalysisl.png
 
-# Testing
+# description8
 description8:
   title: Brain storming
   text1: "<p>To kickstart the ideation process, we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
@@ -103,10 +106,10 @@ description8:
 <b>• Combining payments for a service</b>
 </p>"
 
-gallery-testing-one:
+gallery-description8-one:
   - assets/img/works/bookplan/BPIdeationpicture.png
     
-# Modelling
+# description9
 description9:
   title: The journey
   text1: "<p>When we moved on to the modeling stage, we created paper prototypes thus testing three people whose task was to:</br></br>
@@ -118,43 +121,44 @@ Our aim was to see <b>if the path to buying more than one trip was easy, short a
   text2: "<p>During testing, it became evident that participants weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
 The booking path turned out to be illogical, our participants were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the  better access to process information.</p>"
 
-gallery-modelling-one:
+gallery-description9-one:
   - assets/img/works/bookplan/BPPaperpicture1.png
   - assets/img/works/bookplan/BPpaperpicture2.png
   - assets/img/works/bookplan/BPpaperpicture3.png
   - assets/img/works/bookplan/BPpaperpicture4.png
 
-# Design
+# description10
 description10:
   title: New destination?
   text1: "<p>The second test, conducted face-to-face with two travel enthusiasts, aimed to assess a new website prototype featuring recent corrections. </br></br> Our testers navigated smoothly through booking a trip from Gdańsk to Rome. Challenges emerged when adding a second trip to London.</br> <b>The Add Destination button wasn't visible enough</b>, leading to insights for improvement.
 <b>Tab navigation caused confusion</b>, with one person inadvertently returning to the Hotels tab after selecting Flights + Hotels. Despite these challenges, testers successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
-  gallery-design-one:
+  gallery-description10-one:
   - assets/img/works/bookplan/Changes.png
   - assets/img/works/bookplan/Changes2.png
   - assets/img/works/bookplan/Changes3.png
 
-# Design2
+# description11
 description11:
   title: The warmth of Sun
-  text1: ""
-  text2: "<p>In the process of designing each of us separated ways to develop their own image of the BookPlan. </br>
+  text1: "<p>In the process of designing each of us separated ways to develop their own image of the BookPlan. </br>
 The emphasis was put on a <b>clean, elegant and yet warm design</b> that could help travelers browse through the website smoothly and almost experience the first step of walking into a sunny day off on a beach.
 </p>"
+  text2: ""
 
-gallery-design-two:
+gallery-description11-one:
   - assets/img/works/bookplan/BPUI.png
   - assets/img/works/bookplan/Mockuphotel.png
   - assets/img/works/bookplan/Mockup3.png
   - assets/img/works/bookplan/Mockup5.png
   - assets/img/works/bookplan/Mockup4.png
 
-# Development 
+# description12 
 description12:
   title: Plans
   text1: "<p> In the showcased section of tests and wireframes, I omitted crucial features such as <b>content personalization and search engine suggestions</b>. These elements, informed by user feedback, will be instrumental in crafting personalized tour packages in subsequent stages.
 Additionally, there is room for enhancement in the <b>filter section</b>, with consideration for increasing their number. Introducing a user profile with tabs for various tour types and customized preferences for each category would further elevate the user experience.</p>"
+  text2: ""
   
 ---
