@@ -125,7 +125,7 @@ description9:
 I was responsible for preparing the last one.
 </p>"
   text2: "<p><b>The first test</b></br>
-With the first test performed tested on five people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</br> Many of these were duplicated and gave us ideas for improvements. Some of the changes include: creating separate icon for goal making, correcting readibility, improving the flow of a goal making proccess. 
+With the first test performed tested on five people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br> 2. Browse the knowledge tab and take a quiz</br> 3. Create a saving up goal</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions.</br> Many of these were duplicated and gave us ideas for improvements. Some of the changes include: creating separate icon for goal making, correcting readibility, improving the flow of a goal making proccess. 
 </p>"
 
 gallery-trying-out:
