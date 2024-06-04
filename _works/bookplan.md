@@ -54,7 +54,6 @@ description4:
 <b>Problem</b>: Planning many trips is time consuming and troublesome.</br></br>
 <b>Hypothesis</b>: The process of booking a trip is too long and complicated.</br></br>
 <b>Goal</b>: Creating easy and personalized search engine for holiday booking.
-
 </p>"
   text2: "<p>From the interviews we were able to identify the persona and their overarching needs.</br>
 Our primary client was <b>a middle-aged woman, a frequent traveler for leisure and business, who needed a tool to help her purchase multiple tours in one.</b></p>"
@@ -67,8 +66,7 @@ gallery-research-two:
 description5:
   title: On-board
   text1: "<p>All hands on-board, our ideation process started with coming up of a short story where Zofia finds BookPlan and tries to give it a try by booking her future vacations. The key part of the story was all about focus on <b>the touchpoints of our brand</b> and better connection to the future travellers. </p>"
-  text2: "<p>
-</p>"
+  text2: "<p></p>"
 
 gallery-ideation-one:
   - assets/img/works/bookplan/BPStorytellinglight.png
