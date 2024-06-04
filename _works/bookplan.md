@@ -4,7 +4,7 @@ layout: works-single
 title: BookPlan
 category: Bootcamp
 category_slug: ui-ux-design
-image: assets/img/works/bookplan/Mockup1.1.png
+image: assets/img/works/bookplan/BPMockup1.png
 short_description: Helping you plan all your dream vacations in one place
 
 # full details
@@ -91,7 +91,7 @@ gallery-ideation-three:
   - assets/img/works/bookplan/BPcompetitiveanalysisl.png
 
 # Testing
-description7:
+description8:
   title: Brain storming
   text1: "<p>To kickstart the ideation process, we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
   text2: "<p>Some of the ideas under consideration included:</br><br>
@@ -105,13 +105,9 @@ description7:
 
 gallery-testing-one:
   - assets/img/works/bookplan/BPIdeationpicture.png
-  
-gallery-testing-two:
-  - assets/img/works/bookplan/Wireframesweb.png
-  - assets/img/works/bookplan/Wireframesweb2.png
     
 # Modelling
-description8:
+description9:
   title: The journey
   text1: "<p>When we moved on to the modeling stage, we created paper prototypes thus testing three people whose task was to:</br></br>
 <b>01. Book flight and hotel from Gdańsk to Rome</br>
@@ -129,7 +125,7 @@ gallery-modelling-one:
   - assets/img/works/bookplan/BPpaperpicture4.png
 
 # Design
-description9:
+description10:
   title: New destination?
   text1: "<p>The second test, conducted face-to-face with two travel enthusiasts, aimed to assess a new website prototype featuring recent corrections. </br></br> Our testers navigated smoothly through booking a trip from Gdańsk to Rome. Challenges emerged when adding a second trip to London.</br> <b>The Add Destination button wasn't visible enough</b>, leading to insights for improvement.
 <b>Tab navigation caused confusion</b>, with one person inadvertently returning to the Hotels tab after selecting Flights + Hotels. Despite these challenges, testers successfully booked flights and hotels to Rome and London, with minor confusion during the return flight booking.</p>"
@@ -141,7 +137,7 @@ description9:
   - assets/img/works/bookplan/Changes3.png
 
 # Design2
-description10:
+description11:
   title: The warmth of Sun
   text1: ""
   text2: "<p>In the process of designing each of us separated ways to develop their own image of the BookPlan. </br>
@@ -156,7 +152,7 @@ gallery-design-two:
   - assets/img/works/bookplan/Mockup4.png
 
 # Development 
-description11:
+description12:
   title: Plans
   text1: "<p> In the showcased section of tests and wireframes, I omitted crucial features such as <b>content personalization and search engine suggestions</b>. These elements, informed by user feedback, will be instrumental in crafting personalized tour packages in subsequent stages.
 Additionally, there is room for enhancement in the <b>filter section</b>, with consideration for increasing their number. Introducing a user profile with tabs for various tour types and customized preferences for each category would further elevate the user experience.</p>"
