@@ -96,6 +96,7 @@ description7:
 In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely ITAKA and TUI. Our team also thoroughly reviewed and examined the remaining competitors: Booking.com , Wakacje.pl, Airbnb, and Skyscanner.
 The range of products provided encompassed a <b>diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities</b>.
 </p>"
+
 gallery-testing-one:
   - assets/img/works/bookplan/BPIdeationpicture.png
   
@@ -112,7 +113,6 @@ description8:
 03. Book flight home to Gdańsk</b></br></br>
 Our aim was to see <b>if the path to buying more than one trip was easy, short and understandable</b>.
 </p>"
-
   text2: "<p>During testing, it became evident that participants weren't the only ones facing challenges in finding a way to book more than one tour. As testers, we encountered momentary difficulties in completing the test with our paper prototypes. </br></br> This experience guided us to further insights and resolutions.</br></br>
 The booking path turned out to be illogical, our participants were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the  better access to process information.</p>"
 
@@ -153,7 +153,6 @@ gallery-design-two:
 description11:
   title: Plans
   text1: "<p> In the showcased section of tests and wireframes, I omitted crucial features such as <b>content personalization and search engine suggestions</b>. These elements, informed by user feedback, will be instrumental in crafting personalized tour packages in subsequent stages.
-
 Additionally, there is room for enhancement in the <b>filter section</b>, with consideration for increasing their number. Introducing a user profile with tabs for various tour types and customized preferences for each category would further elevate the user experience.</p>"
   
 ---
