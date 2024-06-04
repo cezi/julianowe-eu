@@ -45,7 +45,7 @@ description2:
 # Time is one thing, but understanding
 description3:
   title: Time is one thing, but understanding
-  text1: "<p>From our seven interviews face to face and a review of money saving and tracking applications,</br> we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
+  text1: "<p>We began our research with creating questionnairies and preparing for interviews. From our seven meetings face to face and a review of money saving and tracking applications,</br> we concluded that people don’t know where to get knowledge from when it comes to better understanding of their finances.</br> The applications we analyzed didn’t offer user support, nor did they provide education on this topic. </br></br>This led us to form the basis of our hypothesis.
 </p>"
   text2: "<p> <b>Problem</b>: Lack of external and personalized support from financial applications.</br></br>
 <b>Hypothesis</b>: People want to improve their money management skills and understand money management better.</br></br>
