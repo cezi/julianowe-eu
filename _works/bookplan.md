@@ -137,12 +137,16 @@ description9:
 description10:
   title: Design
   text1: "<p></p>"
-  text2: "<p>The improvements made were re-tested with 5 enthusiasts. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
+  text2: "<p>In the process of designing each of us separated ways to develop their own image of the BookPlan. </br>
+The emphasis was put on a <b>clean, elegant and yet warm design</b> that could help travelers browse through the website smoothly and almost experience the first step of walking into a sunny day off on a beach.
+
 </p>"
 
 gallery-design-two:
-  - assets/img/works/Changes_4.png
-  - assets/img/works/Changes_5.png
-  - assets/img/works/Changes_6.png
+  - assets/img/works/bookplan/BPUI.png
+  - assets/img/works/bookplan/Mockuphotel.png
+  - assets/img/works/bookplan/Mockup3.png
+  - assets/img/works/bookplan/Mockup5.png
+  - assets/img/works/bookplan/Mockup4.png
   
 ---
