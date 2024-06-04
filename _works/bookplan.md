@@ -87,7 +87,7 @@ description7:
 In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely ITAKA and TUI. Our team also thoroughly reviewed and examined the remaining competitors: Booking.com , Wakacje.pl, Airbnb, and Skyscanner.
 The range of products provided encompassed a diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities.</p>"
 
-gallery-ideation-two:
+gallery-ideation-three:
   - assets/img/works/bookplan/BPcompetitiveanalysisl.png
 
 # Testing
