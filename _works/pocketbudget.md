@@ -20,7 +20,7 @@ info:
   - label: Role
     value: UX Designer in a team of 3
 
-# About the product
+# description1
 description1:
   show: yes
   title: Save your time, save your money
@@ -29,7 +29,7 @@ description1:
   <b>PocketBudget</b>, a financial management application <b>for customers who have difficulty controlling their budget and want to improve it.</b> </p>"
   text2: ""
 
-gallery-about-one:
+gallery-description1-one:
   - assets/img/works/pocketbudget/PBMockup3new.png
 
 # Design process
