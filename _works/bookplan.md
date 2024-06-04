@@ -104,7 +104,8 @@ gallery-testing-one:
 
   text3: "<p>Throughout the ideation phase, we placed significant emphasis on competition analysis, given the extensive and well-established solutions within the travel agency industry. <b>Drawing inspiration</b> from proven strategies was a key focus.
 In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely ITAKA and TUI. Our team also thoroughly reviewed and examined the remaining competitors: Booking.com , Wakacje.pl, Airbnb, and Skyscanner.
-The range of products provided encompassed a <b>diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities</b>.</p>"
+The range of products provided encompassed a <b>diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities</b>.
+</p>"
 
 gallery-testing-two:
   - assets/img/works/bookplan/Wireframesweb.png
