@@ -43,7 +43,7 @@ description2:
 description3:
   title: Taking off
   text1: "<p>There are many reasons for why people travel, most of them revolve around leisure and getting refreshed after long weeks of work or school. Good vacations should cater to our needs, so not a single worry occupies our minds.
-</br></br></p>"
+</p>"
   text2: "<p>To get a good understanding of frequent travelers' needs our team developed a screener accompanied by a scripted questionnaire. The questions involved preferences in <b>travel modes, past travel experiences, trip organization, assessments of travel agent services, and the overall experience of purchasing a tour.</b></br></br>
 We conducted face to face interviews with five individuals.
 </p>"
