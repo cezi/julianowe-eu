@@ -10,32 +10,25 @@ settings:
 preloader:
   logo:
     image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    alt: "Julia Nowe"
 
 ### Header
 header:
   logo:
     image: "assets/img/logo2.png"
-    alt: "Zoé Miller"
+    alt: "Julia Nowe"
 
 ### Social
 social:
-  - title: "Twitter"
-    icon: "fab fa-twitter"
-    url: "http://twitter.com"
+  - title: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "http://linkedin.com"
 
-  - title: "Dribbble"
-    icon: "fab fa-dribbble"
-    url: "http://dribbble.com"
-
-  - title: "Behance"
-    icon: "fab fa-behance"
-    url: "http://behance.com"
 
 ### Footer
 footer:
-  developer: "Developed by <strong>bslthemes</strong>"
-  copyright: "<strong>Luique</strong>. All rights reserved"
+  developer: "Created in <strong>Jekyll & Github</strong>"
+  copyright: "Copyright &copy; <strong>Julia Nowe</strong>. All rights reserved"
 
 ### Portfolio Filters Settings
 portfolio:

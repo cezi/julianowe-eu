@@ -234,17 +234,17 @@ contacts:
   title: "Contact Me"
 
   list:
-    - label: "Address"
-      icon: "far fa-map"
-      text: "Gdansk, Poland"
+    - label: ""
+      icon: ""
+      text: ""
 
-    - label: "Freelance"
-      icon: "far fa-user"
-      text: "Available Right Now"
+    - label: ""
+      icon: ""
+      text: ""
 
-    - label: "Email"
-      icon: "far fa-envelope"
-      text: "nowe.julka@gmail.com"
+    - label: ""
+      icon: ""
+      text: ""
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*

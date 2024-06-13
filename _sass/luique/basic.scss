@@ -244,7 +244,7 @@ a.lnk:after,
 	top: 1px;
 	font-family: 'Font Awesome 5 Free';
 	font-weight: 900;
-	color: #29a587;
+	color: rgba(179,117,118,0.95);
 	transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 }
@@ -1862,7 +1862,7 @@ hr {
 	line-height: 1;
 	font-family: "Khula";
 	text-decoration: none;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 0.05em;
 	color: #000;
 	font-weight: 700;
@@ -2170,7 +2170,7 @@ hr {
 
 .footer .copyright-text strong, .footer .footer-heading strong,
 .footer .copyright-text b, .footer .footer-heading b {
-	color: #29a587;
+	color: rgba(179,117,118,0.95);
 }
 
 .footer .copyright-text p, .footer .footer-heading p {
@@ -2182,7 +2182,7 @@ hr {
 }
 
 .footer .copyright-text a:hover, .footer .footer-heading a:hover {
-	color: #29a587;
+	color: rgba(179,117,118,0.95);
 }
 
 .social-links a {
@@ -2346,7 +2346,7 @@ hr {
 
 .lui-subtitle strong,
 .lui-subtitle b {
-	color: #29a587;
+	color: rgba(179,117,118,0.95);
 }
 
 .lui-text {
@@ -2985,7 +2985,7 @@ hr {
 	width: 0;
 	max-width: 60%;
 	height: 2px;
-	background: #29a587;
+	background: rgba(179,117,118,0.95);
 	transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -2997,7 +2997,7 @@ hr {
 }
 
 .filter-links a.active {
-	color: #29a587;
+	color: rgba(179,117,118,0.95);
 }
 
 .works-item {
@@ -3121,7 +3121,7 @@ hr {
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: 0.05em;
-	color: #29a587;
+	color:rgba(179,117,118,0.95);
 }
 
 .works-items.works-list-items .works-item .desc .name {
@@ -3208,7 +3208,7 @@ hr {
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: 0.05em;
-	color: #29a587;
+	color:rgba(179,117,118,0.95);
 }
 
 .works-items.works-masonry-items .works-item .desc .name {
@@ -3678,7 +3678,7 @@ hr {
 
 .contacts-form label strong,
 .contacts-form label b {
-	color: #29a587;
+	color: red;
 }
 
 .contacts-form label,
