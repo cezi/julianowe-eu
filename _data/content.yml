@@ -71,19 +71,19 @@ skills:
     items:
       - label: "Figma" #0-10 progress in dots
         text: "Creation of system design, high-fidelity, responsive web and application prototypes."
-        value: "80" #0-100 progress in %
+        value: "" #0-100 progress in %
 
   column2:
     items:
       - label: "ChatGPT" #0-10 progress in dots
         text: "Assistance with the research process, clarification of new concepts, creation of prompts on the topic, generation of necessary content."
-        value: "95" #0-100 progress in %
+        value: "" #0-100 progress in %
 
   column3:
     items:
       - label: "AdobeXD" #0-10 progress in dots
         text: "Learning to create prototypes and components."
-        value: "30" #0-100 progress in %
+        value: "" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
@@ -109,7 +109,7 @@ resume:
   experience:
     title: "Experience"
     items:
-      - name: "UX Designer for Devseed"
+      - name: "UX Designer for DevSEED"
         period: "2023 - <b>Present</b>"
         text: "Creating a website for a company offering local SEO services in the Tricity and working on the development of a mobile app."
 

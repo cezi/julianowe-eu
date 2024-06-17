@@ -74,7 +74,7 @@ body {
 	font-size: 16px;
 	color: #262626;
 	font-family: "Khula", sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
@@ -2278,8 +2278,8 @@ hr {
 	line-height: 1.3;
 	color: #000;
 	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 0.05em;
+	text-transform: none;
+	letter-spacing: 0em;
 }
 
 .m-titles .m-subtitle {
