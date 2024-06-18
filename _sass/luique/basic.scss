@@ -2995,7 +2995,7 @@ hr {
 	width: 40px;
 }
 
-.filter-links a.active {
+.filter-links a.active, .dark-skin .filter-links a.active {
 	color: rgba(179,117,118,0.95);
 }
 

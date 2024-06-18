@@ -375,7 +375,6 @@ body.dark-skin {
 
 .dark-skin .section.hero-started .title {
 	color: #FFF;
-	text-shadow: 2px 2px #000, -2px 2px #000, 2px -2px #000, -2px -2px #000, 5px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
 .dark-skin .section.hero-started .label strong,
@@ -468,7 +467,7 @@ body.dark-skin {
 }
 
 .dark-skin .filter-links a.active {
-	color: #29a587;
+	color: rgba(179,117,118,0.95);
 }
 
 .dark-skin .works-item .image:before,

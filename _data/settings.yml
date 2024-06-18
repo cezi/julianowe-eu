@@ -9,14 +9,16 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/logo2.png"
+    image: "assets/img/Home-light-Icon.png"
     alt: "Julia Nowe"
 
 ### Header
 header:
   logo:
-    image: "assets/img/logo2.png"
+    image: "assets/img/Home-light-Icon.png"
     alt: "Julia Nowe"
+    width: 28
+    height: 24
 
 ### Social
 social:
@@ -38,4 +40,4 @@ portfolio:
       slug: "bootcamp"
 
     - name: "Commercial"
-      slug: "commercial"
+      slug: "commercial§"
