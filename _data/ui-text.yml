@@ -35,7 +35,7 @@ ui_text:
   categories:           "Categories"
   follow_me:            "Follow Me"
   works_subtitle:       "my <b>Cases</b>"
-  works_bg_title:       "Portfolio"
+  works_bg_title:       ""
   all:                  "All"
   read_more:            "Read More"
   live_preview:         "Live Preview"

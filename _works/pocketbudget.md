@@ -3,7 +3,7 @@
 layout: works-single
 title: PocketBudget
 category: Bootcamp
-category_slug: ui-ux-design
+category_slug: bootcamp
 image: assets/img/works/pocketbudget/PBMockup2new.png
 short_description: Managing your daily budget and creating goals to fulfill your dreams
 

@@ -35,7 +35,7 @@ portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:
     - name: "Bootcamp"
-      slug: "ui-ux-design"
+      slug: "bootcamp"
 
     - name: "Commercial"
-      slug: "photography"
+      slug: "commercial"

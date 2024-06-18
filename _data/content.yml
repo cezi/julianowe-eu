@@ -16,8 +16,8 @@ hero:
     label: "My works"
     link: "https://drive.google.com/"
   button2:
-    label: "My resume"
-    link: "#skills-section"
+    label: "My works"
+    link: "#works-section"
   bg_title: ""
   info:
     - num: ""

@@ -3,7 +3,7 @@
 layout: works-single
 title: Pinbot
 category: Commercial
-category_slug: ui-ux-design
+category_slug: commercial
 image: assets/img/works/work4.jpeg
 short_description: Offering local businesses help with their SEO and better visibility in the sea full of fishes.
 
