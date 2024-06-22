@@ -12,11 +12,9 @@ layout: default
 
 {% assign blog_url = 'blog/' %}
 
-<!-- Section Started Heading -->
 <section class="section section-inner started-heading">
 	<div class="container">
 
-		<!-- Heading -->
 		<div class="m-titles align-center">
 			<div class="m-category scrolla-element-anim-1 scroll-animate" data-animate="active">
 				<a href="blog.html">Branding</a>, <a href="blog.html">UI Design</a>
@@ -36,7 +34,6 @@ layout: default
 	</div>
 </section>
 
-<!-- Single Post Image -->
 <div class="section section-inner m-image-large">
 	<div class="container">
 		<div class="v-line-right v-line-top"><div class="v-line-block"><span></span></div></div>
@@ -50,14 +47,12 @@ layout: default
 	</div>
 </div>
 
-<!-- Section - Blog -->
 <section class="section section-inner m-archive">
 	<div class="container">
 
 		<div class="row">
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-10 offset-1">
 
-				<!-- content -->
 				<div class="description">
 					<div class="post-content scrolla-element-anim-1 scroll-animate" data-animate="active">
 						{{ page.content }}
@@ -96,7 +91,7 @@ layout: default
 				</div>
 
 				{% if site.disqus_comments == 'yes' %}
-				<!-- Comments -->
+
 				<div class="comments-post scrolla-element-anim-1 scroll-animate" data-animate="active">
 					<div class="section__comments">
 
@@ -136,7 +131,7 @@ layout: default
 </section>
 
 {% if page.previous.url or page.next.url %}
-<!-- Section Navigation -->
+
 <div class="section section-inner m-page-navigation">
 	<div class="container">
 		<div class="row">
