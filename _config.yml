@@ -1,8 +1,8 @@
 # basic settings
 title: "Julia CV Resume & Personal Portfolio"
 email: "hello@julianowe.de"
-description: ""
-author: ""
+description: "I am UX Designer and psychologist. My emphasis in design is minimalism, empathy and openess to creativity."
+author: "Julia"
 domain: julianowe.de
 baseurl: "" 
 url: https://julianowe.de # the base hostname & protocol for your site, e.g. http://example.com
@@ -19,6 +19,9 @@ disqus_shortname: "" # read more here https://help.disqus.com/customer/portal/ar
 
 # formsubmit.io
 formspree_endpoint: "https://formspree.io/f/mgvwweqz" # sign up on https://formspree.io/ and create your form endpoint
+
+# Google Tag Manager
+google_tag_manager: GTM-TR545KC6
 
 # collections
 collections:
@@ -72,4 +75,4 @@ exclude:
 sass:
   style: compressed
 
-markdown:  kramdown
+markdown: kramdown
