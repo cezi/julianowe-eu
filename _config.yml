@@ -23,6 +23,9 @@ formspree_endpoint: "https://formspree.io/f/mgvwweqz" # sign up on https://forms
 # Google Tag Manager
 google_tag_manager: GTM-TR545KC6
 
+#Recaptcha
+recaptcha_site_key: #6LfKb_8pAAAAAE2dV4gdWq6UDwylF2Qx3Ja983Qu
+
 # collections
 collections:
   works:
