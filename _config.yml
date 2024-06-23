@@ -2,10 +2,10 @@
 title: "Julia CV Resume & Personal Portfolio"
 email: "hello@julianowe.de"
 description: ""
-author: "cezi"
-domain: cezi.github.io
-baseurl: "/julianowe-eu" 
-url: https://cezi.github.io # the base hostname & protocol for your site, e.g. http://example.com
+author: ""
+domain: julianowe.de
+baseurl: "" 
+url: https://julianowe.de # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks

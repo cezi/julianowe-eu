@@ -33,3 +33,8 @@ main:
     childs:
         - title: "Works"
           url: "works/"
+
+  # Cookies
+  - title: "Cookies"
+    url: "privacy"
+    parent: 0
