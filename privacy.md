@@ -22,5 +22,5 @@ Internet Explorer: https://support.microsoft.com/en-us/topic/how-to-delete-cooki
  <br />   <br />  
 If you are using any other web browser, please visit your browser’s official support documents.
  <br />   <br />  
-<em>Effective Date: 22-Jun-2024</em><br />
+<em>Effective Date: 22-Jun-2024 <br />
 Last Updated: 22-Jun-2024</em>
