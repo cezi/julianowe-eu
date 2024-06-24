@@ -5,7 +5,7 @@ title: Pinbot
 category: Commercial
 category_slug: commercial
 image: assets/img/works/pinbot/Pin mock up 1.png
-short_description: Offering local businesses help with their SEO and better visibility in the sea full of fishes.
+short_description: How to help local businesses shine among others?
 
 # full details
 full_image: assets/img/works/pinbot/Pin mock up 1.png
