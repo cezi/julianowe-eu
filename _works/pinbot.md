@@ -128,15 +128,14 @@ description10:
 </p>"
 
   gallery-description10-one:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pinbot/Pin mock up 2.png
+  - assets/img/works/pinbot/Pin mock up 4.png
+  - assets/img/works/pinbot/Pin mock up 5.png
 
   # Design3
   description11:
   title: More possibilities
   text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
   text2: "<p></p>"
-
-  gallery-description11-one:
 
 ---
