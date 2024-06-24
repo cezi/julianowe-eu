@@ -96,7 +96,7 @@ video-testing-one:
   id: Gu6z6kIukgg
 
 gallery-description7-one:
-  - assets/img/works/pinuserflowlight.png
+  - assets/img/works/pinbot/Pinuserflowlight.png
 
 description8:
   title: Wireframes
