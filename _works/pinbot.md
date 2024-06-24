@@ -4,14 +4,14 @@ layout: works-single
 title: Pinbot
 category: Commercial
 category_slug: commercial
-image: assets/img/works/work4.jpeg
+image: assets/img/works/pinbot/Pin mock up 1.png
 short_description: Offering local businesses help with their SEO and better visibility in the sea full of fishes.
 
 # full details
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/works/pinbot/Pin mock up 1.png
 info:
   - label: Year
-    value: 2023 - ongoing
+    value: 2023 - 2024
 
   - label: Tools
     value: Figma, ChatGPT
