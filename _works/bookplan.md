@@ -4,11 +4,11 @@ layout: works-single
 title: BookPlan
 category: Bootcamp
 category_slug: bootcamp
-image: assets/img/works/bookplan/BPMockup1.png
+image: assets/img/works/bookplan/BPMockup8.png
 short_description: Helping you plan all your dream vacations in one place
 
 # full details
-full_image: assets/img/works/bookplan/BPMockup1.png
+full_image: assets/img/works/bookplan/BPMockup8.png
 info:
   - label: Year
     value: 2023 
