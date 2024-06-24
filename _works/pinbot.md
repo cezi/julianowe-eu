@@ -104,6 +104,10 @@ description8:
 </p>"
   text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
+  gallery-description8-one:
+    - assets/img/works/pinbot/wireframespinbot.png
+    - assets/img/works/pinbot/wireframespinbot2.png
+
 # Design
 description9:
   title: Tests
