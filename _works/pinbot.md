@@ -100,33 +100,36 @@ gallery-testing-one:
 
 description8:
   title: Wireframes
-  text1: "<p>The time for sketches began. </br>Our team divided work into three key branches of solutions for the user. With that we created the main user flow, including registration, configuration and entry of basic parameters and most importantly, three main paths as means to provide a broad horizon for the user in strengthening his knowledge and control over finances:
+  text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
 </p>"
-  text2: "<p><b>Browsing the learning tab,</b></br>
-<b>Arranging a consultation with a financial adviser</b></br>
-<b>Creating a goal</b></br>
-</p>"
+  text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
 # Design
 description9:
   title: Tests
-  text1: "<p>To test out our idea each of us in the team created separate wireframes for the three main functionalities: browsing through education tab, making an appointment with financial consultant and creating a goal.</br></br>
-I was responsible for preparing the last one.
-</p>"
-  text2: "<p><b>The first test</b></br>
-With the first test performed tested on 5 people. </br> Their task was to:</br></br> <b>1. Make an appointment with a financial consultant</br></br> 2. Browse the knowledge tab and take a quiz </br></br> 3. Create a saving up goal.</b></br></br> During the test many issues emerged that were not clear to the users, they gave us many ideas and solutions. Many of these were duplicated and gave us ideas for improvements.
-</p>"
+  text1: "<p>Testing was conducted on two people face to face. The main conclusions and areas for improvement were: 
+  The second testing went… The last corrections were..</p>"
+  text2: "<p></p>"
+
+  gallery-design-one:
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
 
 # Design2
 description10:
-  title: A room for an improvement
+  title: Bright future
   text1: "<p></p>"
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
 
-gallery-design-one:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  
+
+  # Design3
+  description11:
+  title: More possibilities
+  text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
+  text2: "<p></p>"
+
+  gallery-testing-one:
+
 ---
