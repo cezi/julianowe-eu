@@ -27,7 +27,7 @@ description1:
   text2: "<p>In Tri-City, aglomeration of three cities based next to the northern coast of Poland, there are many local businesses who want to gain new clients especially in the holiday seasons.</br></br>
 <b>Pinbot</b> is a website offering <b>local businesses help with their SEO and better visibility</b> in the sea full of fishes.</p>"
 
-gallery-about-one:
+gallery-description1-one:
   - assets/img/works/pinbot/Pin mock up 4.png
 
 # Design process
@@ -45,7 +45,7 @@ When looking for new services or checking out a company, people usually use seve
   text2: "<p>After consultation and desk-research, a hypothesis was hatched that not many small business entrepreneurs know of the existence of SEO let alone its importance. </br></br><b>Hypothesis</b>: Local businesses do not know what SEO is and how it affects their business</br></br>
 <b>Aim</b>: To create a website that reaches out to customers and offers them solutions for better visibility in Google search.</p>"
 
-gallery-research-one:
+gallery-description3-one:
   - assets/img/works/pinbot/PinChatailight.png
 
 description4:
@@ -61,7 +61,7 @@ Chatbox</br>
 Link generator</br>
 Price converter</p>"
   
-gallery-research-two:
+gallery-description4-one:
   - assets/img/works/pinbot/Pincompetitionlight.png
 
 # Ideation
@@ -71,7 +71,7 @@ description5:
 </p>"
   text2: "<p></p>"
 
-gallery-ideation-one:
+gallery-description5-one:
   - assets/img/works/pinbot/PinCJMlight.png
 
 description6:
@@ -79,7 +79,7 @@ description6:
   text1: "<p></p>"
   text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
 
-gallery-ideation-two:
+gallery-description6-one:
   - assets/img/works/pinbot/PinIdeation.png
 
 # Testing
@@ -95,7 +95,7 @@ video-testing-one:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
-gallery-testing-one:
+gallery-description7-one:
   - assets/img/works/pinuserflowlight.png
 
 description8:
@@ -111,7 +111,7 @@ description9:
   The second testing went… The last corrections were..</p>"
   text2: "<p></p>"
 
-  gallery-design-one:
+  gallery-description9-one:
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
@@ -123,6 +123,9 @@ description10:
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
 
+gallery-description10-one:
+  - assets/img/blog/blog6.jpg
+  - assets/img/blog/blog6.jpg
 
   # Design3
   description11:
@@ -130,6 +133,6 @@ description10:
   text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
   text2: "<p></p>"
 
-  gallery-testing-one:
+  gallery-description11-one:
 
 ---
