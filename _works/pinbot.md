@@ -28,7 +28,7 @@ description1:
 <b>Pinbot</b> is a website offering <b>local businesses help with their SEO and better visibility</b> in the sea full of fishes.</p>"
 
 gallery-about-one:
-  - assets/img/blog/blog6.jpg
+  - assets/img/works/pinbot/Pin mock up 4.png
 
 # Design process
 description2:
@@ -46,7 +46,7 @@ When looking for new services or checking out a company, people usually use seve
 <b>Aim</b>: To create a website that reaches out to customers and offers them solutions for better visibility in Google search.</p>"
 
 gallery-research-one:
-  - assets/img/works/pinchatailight.png
+  - assets/img/works/pinbot/PinChatailight.png
 
 description4:
   title: Competition analysis
@@ -62,7 +62,7 @@ Link generator</br>
 Price converter</p>"
   
 gallery-research-two:
-  - assets/img/works/pincompetitionlight.png
+  - assets/img/works/pinbot/Pincompetitionlight.png
 
 # Ideation
 description5:
@@ -72,7 +72,7 @@ description5:
   text2: "<p></p>"
 
 gallery-ideation-one:
-  - assets/img/works/pincmjlight.png
+  - assets/img/works/pinbot/PinCJMlight.png
 
 description6:
   title: Ideation
@@ -80,7 +80,7 @@ description6:
   text2: "<p>It was very important to prepare an easy and non invasive way to encourage the user to try the new solution for balancing his finances.</br></br> In a User Journey Map our team envisaged a path of app download, setup, use and loyalty. We tried to find the points at which something could go wrong and find optimal solutions such as minimising user control and being able to individualize information in terms of user preferences.</p>"
 
 gallery-ideation-two:
-  - assets/img/works/pinideation.png
+  - assets/img/works/pinbot/PinIdeation.png
 
 # Testing
 description7:
