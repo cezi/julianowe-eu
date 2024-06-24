@@ -123,7 +123,7 @@ description10:
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
 
-gallery-description10-one:
+  gallery-description10-one:
   - assets/img/blog/blog6.jpg
   - assets/img/blog/blog6.jpg
 
