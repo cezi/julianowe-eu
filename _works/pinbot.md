@@ -33,7 +33,7 @@ gallery-about-one:
 # Design process
 description2:
   title: The beginnings 
-  text1: "<p>My client offers services dealing with SEO, i.e. the optimisation of pages taking into account the search components of Google's web browser. Its services include various activities for improving and managing the Google My Company profile. </p>"
+  text1: "<p>My client offers services dealing with SEO, i.e. the optimisation of pages taking into account the search components of Google's web browser. Its services include various activities for improving and managing the Google My Company profile.</p>"
 
   text2: "<p>During our first meeting, I found out how the world of SEO works and what the market situation is in the city where the client works. He is a freelancer with several local businesses offering gastronomic, hospitality and general services. Many of his clients were unaware of the importance of positioning their business. His main aim was to show his offering helping local businesses to reach more customers.</br></p>"
 
