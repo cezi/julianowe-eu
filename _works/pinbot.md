@@ -115,11 +115,6 @@ description9:
   The second testing went… The last corrections were..</p>"
   text2: "<p></p>"
 
-  gallery-description9-one:
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-  - assets/img/blog/blog6.jpg
-
 # Design2
 description10:
   title: Bright future
