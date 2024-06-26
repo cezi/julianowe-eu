@@ -111,8 +111,7 @@ description8:
 # Design
 description9:
   title: Tests
-  text1: "<p>Testing was conducted on two people face to face. For our test we made sure to choose people who had a little knowledge of what local SEO was but were willing to learn. In the scenario, they imagined themselves to be owners of a small cafe in Gdańsk whose business wasn't prospering and wanted to improve their visibility in internet. </br></br>Our emphasis on the website was a clear, easy promotion of services. Participants confirmed that they had very small problems with finding the information they needed, they declared to understand each section. A problem occured on the website of "Free audit" where after choosing the option "Can't find my business, try here" they couldn't go back to the search engine after reading the cues. For that matter I included a button returning to the previous search. </p>"
-  
+  text1: "<p>Testing was conducted on two people face to face. For our test we made sure to choose people who had a little knowledge of what local SEO was but were willing to learn. In the scenario, they imagined themselves to be owners of a small cafe in Gdańsk whose business wasn't prospering and wanted to improve their visibility in internet. </br></br>Our emphasis on the website was a clear, easy promotion of services. Participants confirmed that they had very small problems with finding the information they needed, they declared to understand each section. A problem occured on the website of "Free audit" where after choosing the option "Can't find my business, try here" they couldn't go back to the search engine after reading the cues. For that matter I included a button returning to the previous search. </p>" 
   text2: "<p></p>"
 
 # Design2
