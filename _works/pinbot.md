@@ -99,14 +99,14 @@ gallery-description7-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
 
 description8:
-    title: Wireframes
-    text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
+  title: Wireframes
+  text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
 </p>"
-    text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
+  text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
 gallery-description8-one:
   - assets/img/works/pinbot/wireframespinbot.png
-- assets/img/works/pinbot/wireframespinbot2.png
+  - assets/img/works/pinbot/wireframespinbot2.png
 
 # Design
 description9:
@@ -127,9 +127,9 @@ gallery-description10-one:
   - assets/img/works/pinbot/Pin mock up 5.png
 
   # Design3
-  description11:
-    title: More possibilities
-    text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
-    text2: "<p></p>"
-
+description11:
+  title: More possibilities
+  text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
+  text2: "<p></p>"
+  
 ---
