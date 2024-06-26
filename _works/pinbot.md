@@ -72,7 +72,7 @@ description5:
   text2: "<p></p>"
 
 gallery-description5-one:
-  - assets/img/works/pinbot/PinCJMlight.png
+ - assets/img/works/pinbot/PinCJMlight.png
 
 description6:
   title: Ideation
@@ -95,18 +95,18 @@ video-testing-one:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
-  gallery-description7-one:
+gallery-description7-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
 
-  description8:
+description8:
     title: Wireframes
     text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
 </p>"
     text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
 gallery-description8-one:
-    - assets/img/works/pinbot/wireframespinbot.png
-    - assets/img/works/pinbot/wireframespinbot2.png
+  - assets/img/works/pinbot/wireframespinbot.png
+- assets/img/works/pinbot/wireframespinbot2.png
 
 # Design
 description9:
@@ -121,7 +121,7 @@ description10:
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
 </p>"
 
-  gallery-description10-one:
+gallery-description10-one:
   - assets/img/works/pinbot/Pin mock up 2.png
   - assets/img/works/pinbot/Pin mock up 4.png
   - assets/img/works/pinbot/Pin mock up 5.png
