@@ -28,7 +28,7 @@ description1:
 <b>Pinbot</b> is a website offering <b>local businesses help with their SEO and better visibility</b> in the sea full of fishes.</p>"
 
 gallery-description1-one:
-  - assets/img/works/pinbot/Pin mock up 4.png
+  - assets/img/works/pinbot/Pinmockup4.png
 
 # description2
 description2:
@@ -117,9 +117,9 @@ description10:
 
 gallery-description10-one:
   - assets/img/works/pinbot/UI.png
-  - assets/img/works/pinbot/Pin mock up 2.png
-  - assets/img/works/pinbot/Pin mock up 4.png
-  - assets/img/works/pinbot/Pin mock up 5.png
+  - assets/img/works/pinbot/Pinmockup2.png
+  - assets/img/works/pinbot/Pinmockup4.png
+  - assets/img/works/pinbot/Pinmockup5.png
 
   # description11
 description11:
