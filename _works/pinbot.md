@@ -116,7 +116,7 @@ description9:
 description10:
   title: Bright future
   text1: "<p></p>"
-  text2: "<p><b>My client’s preference was my guide to come up with an easy to read but bold typography and matching colors for the visual look of his service. We established a color green as it brings friendliness and encourages growth in hope it invites business owners to take a closer look at their work’s prosperity and goals.
+  text2: "<p>My client’s preference was my guide to come up with an easy to read but bold typography and matching colors for the visual look of his service. We established a color <b>green as it brings friendliness and encourages growth</b> in hope it invites business owners to take a closer look at their work’s prosperity and goals.
 </p>"
 
 gallery-description10-one:
