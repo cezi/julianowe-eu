@@ -99,23 +99,23 @@ video-testing-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
 
   description8:
-  title: Wireframes
-  text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
+    title: Wireframes
+    text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
 </p>"
-  text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
+    text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
 gallery-description8-one:
     - assets/img/works/pinbot/wireframespinbot.png
     - assets/img/works/pinbot/wireframespinbot2.png
 
 # Design
-  description9:
+description9:
   title: Tests
   text1: "<p>Testing was conducted on two people face to face. For our test we made sure to choose people who had a little knowledge of what local SEO was but were willing to learn. In the scenario, they imagined themselves to be owners of a small cafe in Gdańsk whose business wasn't prospering and wanted to improve their visibility in internet. Our emphasis on the website was a clear, easy promotion of services. Participants confirmed that they had very small problems with finding the information they needed, they declared to understand each section. A problem occured on the website of "Free audit" where after choosing the option "Can't find my business, try here" they couldn't go back to the search engine after reading the cues. For that matter I included a button returning to the previous search.</p>" 
   text2: "<p></p>"
 
 # Design2
-  description10:
+description10:
   title: Bright future
   text1: "<p></p>"
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
@@ -128,8 +128,8 @@ gallery-description8-one:
 
   # Design3
   description11:
-  title: More possibilities
-  text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
-  text2: "<p></p>"
+    title: More possibilities
+    text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
+    text2: "<p></p>"
 
 ---
