@@ -33,7 +33,7 @@ gallery-description1-one:
 # description2
 description2:
   title: The beginnings 
-  text1: "<p>My client offers services dealing with SEO, i.e. the optimisation of pages taking into account the search components of Google's web browser. Its services include various activities for improving and managing the Google My Company profile. </p>"
+  text1: "<p>My client offers services dealing with SEO, i.e. the optimisation of pages taking into account the search components of Google's web browser. Its services include various activities for improving and managing the Google My Company profile.</p>"
   text2: "<p>During our first meeting, I gained knowledge how the world of SEO works and what the market situation is in the city where the client works. My client is a freelancer collaborating with several local businesses offering gastronomic, touristic and general services. Many of his clients were unaware of the importance of positioning their business. His main aim was to show his offering helping local businesses to reach more customers.</br></p>"
 
 # description3
@@ -49,8 +49,7 @@ gallery-description3-one:
 # description4
 description4:
   title: Helping out
-  text1: "<p>Drawing the inspiration from others I relied on a national and global competitive analysis, including both large companies offering many solutions beyond SEO and smaller national businesses. The analysis included Whitespark, Brightlocal, Zgred, Visible and Localiq.</br></br>
-Each company was examined against client guidelines, which can be seen in the graphic below</p>"
+  text1: "<p>Drawing the inspiration from others I relied on a national and global competitive analysis, including both large companies offering many solutions beyond SEO and smaller national businesses. The analysis included Whitespark, Brightlocal, Zgred, Visible and Localiq. Each company was examined against client guidelines, which can be seen in the graphic below</p>"
   text2: "<p>Through the analysis we drew inspiration and ideas for our product, including:</br></br>
  • FAQ section at the end of the page</br>
  • Free audit option with good explanation what it is and what benefits it gives</br>
@@ -77,7 +76,7 @@ gallery-description5-one:
 description6:
   title: How do we make it work
   text1: "<p></p>"
-  text2: "<p>In the ideation process, we focused on the structure of the site and content through brainstorming. While looking for a solution for your local business it’s important to have delivered easy solutions. We developed the idea of a free audit in preparation for further delineating the path of the process, developed FAQs for the subpages and cut down on the idea of effectively showing the offer in an understandable and accessible way.</br></br>In addition, we tackled the marketing side by developing initial ideas for customer loyalty.</br></br>The main aim was to come up with a clear structure for the website with easy and understandable language providing the offer for clients who didn’t have much experience with SEO before.
+  text2: "<p>In the ideation process, we focused on the structure of the site and content through brainstorming. While looking for a solution for your local business <b>it’s important to have delivered easy solutions</b>. We developed the idea of a <b>free Google My Business Profile audit</b> in preparation for further delineating the path of the process, developed FAQs for the subpages and cut down on the idea of effectively showing the offer in an understandable and accessible way.</br></br>In addition, we tackled the marketing side by developing initial ideas for customer loyalty.</br></br>The main aim was to come up with <b>a clear structure for the website with easy and understandable language providing the offer for clients who didn’t have much experience with SEO before.</b>
 </p>"
 
 gallery-description6-one:
@@ -85,12 +84,9 @@ gallery-description6-one:
 
 # description7
 description7:
-  title: Ideas
-  text1: "<p>Brain storming</br></br>In the ideation process, we focused on the structure of the site and content through brainstorming. We developed the idea of a free audit in preparation for further delineating the path of the process, developed FAQs for the subpages and cut down on the idea of effectively showing the offer in an understandable and accessible way.
-In addition, we tackled the marketing side by developing initial ideas for customer loyalty.
-</p>"
-  text2: "<p>User Flow</br></br>
-To get a good idea of the layout of the page and the positioning of the most important elements, I created a User Flow, which can be found below.  It contains the general layout of the page, detailing the free audit trail.</p>"
+  title: User Flow
+  text1: "<p></p>"
+  text2: "<p>To get a good idea of the layout of the page and the positioning of the most important elements, I created a User Flow, which can be found below.  It contains the general layout of the page, detailing the free audit trail.</p>"
 
 gallery-description7-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
@@ -120,8 +116,8 @@ description10:
 </p>"
 
 gallery-description10-one:
-  - assets/img/works/pinbot/Pin mock up 2.png
   - assets/img/works/pinbot/UI.png
+  - assets/img/works/pinbot/Pin mock up 2.png
   - assets/img/works/pinbot/Pin mock up 4.png
   - assets/img/works/pinbot/Pin mock up 5.png
 
