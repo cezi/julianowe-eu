@@ -104,7 +104,7 @@ gallery-description7-one:
 </p>"
   text2: "<p>After approving of the sketches, I focused on UI. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
-  gallery-description8-one:
+gallery-description8-one:
     - assets/img/works/pinbot/wireframespinbot.png
     - assets/img/works/pinbot/wireframespinbot2.png
 
@@ -115,7 +115,7 @@ gallery-description7-one:
   text2: "<p></p>"
 
 # Design2
-description10:
+  description10:
   title: Bright future
   text1: "<p></p>"
   text2: "<p><b>The improvements made were re-tested with 5 respondents. After the second round of testing, we prepared a short list of suggested changes, including the addition of personalised advice and the creation of a new slider when creating a saving target and setting its time.
