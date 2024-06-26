@@ -5,7 +5,7 @@ title: Pinbot
 category: Commercial
 category_slug: commercial
 image: assets/img/works/pinbot/Pin mock up 1.png
-short_description: "How to help local businesses shine among others?"
+short_description: How to help local businesses shine among others?
 
 # full details
 full_image: assets/img/works/pinbot/Pin mock up 1.png
@@ -19,7 +19,7 @@ info:
   - label: Role
     value: UX Designer
 
-# About the product
+# description1
 description1:
   show: yes
   title: Better visibility 
@@ -30,14 +30,13 @@ description1:
 gallery-description1-one:
   - assets/img/works/pinbot/Pin mock up 4.png
 
-# Design process
+# description2
 description2:
   title: The beginnings 
   text1: "<p>My client offers services dealing with SEO, i.e. the optimisation of pages taking into account the search components of Google's web browser. Its services include various activities for improving and managing the Google My Company profile.</p>"
-
   text2: "<p>During our first meeting, I found out how the world of SEO works and what the market situation is in the city where the client works. He is a freelancer with several local businesses offering gastronomic, hospitality and general services. Many of his clients were unaware of the importance of positioning their business. His main aim was to show his offering helping local businesses to reach more customers.</br></p>"
 
-# Research
+# description3
 description3:
   title: What is SEO?
   text1: "<p>Desk research </br></br>
@@ -48,6 +47,7 @@ When looking for new services or checking out a company, people usually use seve
 gallery-description3-one:
   - assets/img/works/pinbot/PinChatailight.png
 
+# description4
 description4:
   title: Competition analysis
   text1: "<p>During my research, I relied on a national and global competitive analysis, including both large companies offering many solutions beyond SEO and smaller national businesses. The analysis included Whitespark, Brightlocal, Zgred, Visible and Localiq.
@@ -64,7 +64,7 @@ Price converter</p>"
 gallery-description4-one:
   - assets/img/works/pinbot/Pincompetitionlight.png
 
-# Ideation
+# description5
 description5:
   title: Customer Journey Map
   text1: "<p>After gathering SEO tips and knowledge, I moved on to building a Customer Journey Map based on client collaboration and customer experience. The most important thing at this stage was to establish touch points and encourage the client to take advantage of a free audit of their business so that they would consider further collaboration and convert one of Pinbot's offers.
@@ -74,6 +74,7 @@ description5:
 gallery-description5-one:
  - assets/img/works/pinbot/PinCJMlight.png
 
+# description6
 description6:
   title: Ideation
   text1: "<p></p>"
@@ -82,7 +83,7 @@ description6:
 gallery-description6-one:
   - assets/img/works/pinbot/PinIdeation.png
 
-# Testing
+# description7
 description7:
   title: Ideas
   text1: "<p>Brain storming</br></br>In the ideation process, we focused on the structure of the site and content through brainstorming. We developed the idea of a free audit in preparation for further delineating the path of the process, developed FAQs for the subpages and cut down on the idea of effectively showing the offer in an understandable and accessible way.
@@ -98,6 +99,7 @@ video-testing-one:
 gallery-description7-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
 
+# description8
 description8:
   title: Wireframes
   text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
@@ -108,13 +110,13 @@ gallery-description8-one:
   - assets/img/works/pinbot/wireframespinbot.png
   - assets/img/works/pinbot/wireframespinbot2.png
 
-# Design
+# description9
 description9:
   title: Tests
-  text1: "<p>Testing was conducted on two people face to face. For our test we made sure to choose people who had a little knowledge of what local SEO was but were willing to learn. In the scenario, they imagined themselves to be owners of a small cafe in Gdańsk whose business wasn't prospering and wanted to improve their visibility in internet. Our emphasis on the website was a clear, easy promotion of services. Participants confirmed that they had very small problems with finding the information they needed, they declared to understand each section. A problem occured on the website of "Free audit" where after choosing the option "Can't find my business, try here" they couldn't go back to the search engine after reading the cues. For that matter I included a button returning to the previous search.</p>" 
+  text1: "<p>Testing was conducted on two people face to face. For our test we made sure to choose people who had a little knowledge of what local SEO was but were willing to learn. In the scenario, they imagined themselves to be owners of a small cafe in Gdańsk whose business wasn't prospering and wanted to improve their visibility in internet. Our emphasis on the website was a clear, easy promotion of services. Participants confirmed that they had very small problems with finding the information they needed, they declared to understand each section. A problem occured on the website of "\Free audit" where after choosing the option "\Can't find my business, try here"\ they couldn't go back to the search engine after reading the cues. For that matter I included a button returning to the previous search.</p>" 
   text2: "<p></p>"
 
-# Design2
+# description10
 description10:
   title: Bright future
   text1: "<p></p>"
@@ -126,7 +128,7 @@ gallery-description10-one:
   - assets/img/works/pinbot/Pin mock up 4.png
   - assets/img/works/pinbot/Pin mock up 5.png
 
-  # Design3
+  # description11
 description11:
   title: More possibilities
   text1: "<p>The initial work on the website was finished as my client was content with having his service presented online. Although this process of our collaboration was closed, the new door opened and we discussed further plans that include projecting a mobile application of Pinbot with an account access for the customers who chose long term offer. The plan is to create a chart dashboard with all business informations and option for owners of multiple business to manage their raports on how their businesses prosper.</p>"
