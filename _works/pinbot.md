@@ -98,7 +98,7 @@ video-testing-one:
 gallery-description7-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
 
-description8:
+  description8:
   title: Wireframes
   text1: "<p>In the modeling stage first sketches started. For the testing I prepared wireframes that were discussed with the client. 
 </p>"
