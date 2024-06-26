@@ -95,7 +95,7 @@ video-testing-one:
   poster: assets/img/blog/blog9.jpg
   id: Gu6z6kIukgg
 
-gallery-description7-one:
+  gallery-description7-one:
   - assets/img/works/pinbot/Pinuserflowlight.png
 
   description8:
