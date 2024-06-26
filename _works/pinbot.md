@@ -1,5 +1,5 @@
 ---
-  # preview details
+# preview details
 layout: works-single
 title: Pinbot
 category: Commercial
