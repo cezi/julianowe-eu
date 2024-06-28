@@ -4,11 +4,11 @@ layout: works-single
 title: Pinbot
 category: Commercial
 category_slug: commercial
-image: assets/img/works/pinbot/Pin mock up 1.png
+image: assets/img/works/pinbot/Pinmockup-1.png
 short_description: How to help local businesses shine among others?
 
 # full details
-full_image: assets/img/works/pinbot/Pin mock up 1.png
+full_image: assets/img/works/pinbot/Pinmockup-1.png
 info:
   - label: Year
     value: 2023 - 2024
