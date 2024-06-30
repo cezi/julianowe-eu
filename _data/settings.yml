@@ -9,8 +9,8 @@ settings:
 ### Preloader
 preloader:
   logo:
-    image: "assets/img/Home-light-Icon.png"
-    alt: "Julia Nowe"
+    image: "assets/img/preloader-image.png"
+    alt: "Loading..."
 
 ### Header
 header:

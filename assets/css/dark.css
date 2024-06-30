@@ -488,6 +488,12 @@ body.dark-skin {
 	color: #fff;
 }
 
+@media screen and (max-width: 767px) {
+	.dark-skin .works-items.works-list-items .works-item .desc .name a, .dark-skin .works-items.works-list-items .works-item .desc .text, .dark-skin .works-items.works-list-items .works-item .desc a.lnk {
+		color: #1d222a;
+	}
+}
+
 .dark-skin .works-items.works-masonry-items .works-item {
 	background: #1d222a;
 }
