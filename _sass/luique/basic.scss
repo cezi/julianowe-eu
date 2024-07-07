@@ -81,7 +81,7 @@ body {
 }
 
 body {
-	background-color: #F0EBE3;
+	background-color: #f8f8f8;
 }
 
 body.no-scroll {
@@ -2233,7 +2233,7 @@ hr {
 
 .section.section-inner {
 	padding: 0;
-	background: #F0EBE3;
+	background: /*#F0EBE3*/#f8f8f8;
 }
 
 .portfolio-template .section.section-inner {
@@ -2253,7 +2253,7 @@ hr {
 .section.section-inner.started-heading {
 	padding-top: 220px;
 	padding-bottom: 120px;
-	background: linear-gradient(180deg, #FFFFFF 0%, #F0EBE3 100%);
+	background: /*linear-gradient(180deg, #FFFFFF 0%, #F0EBE3 100%)*/#f8f8f8;
 	z-index: 3;
 }
 
@@ -3016,7 +3016,7 @@ hr {
 	top: -10px;
 	width: 10px;
 	height: calc(100% + 20px);
-	background: #F0EBE3;
+	background: #f8f8f8;
 	z-index: 2;
 	pointer-events: none;
 	transition: all 0.6s cubic-bezier(0.3, 0, 0.3, 1);
@@ -3051,8 +3051,8 @@ hr {
 	left: -10px;
 	top: -10px;
 	width: calc(100% + 20px);
-	height: 30px;
-	background: #F0EBE3;
+	height: auto;
+	background: #f8f8f8;
 	z-index: 2;
 	pointer-events: none;
 	transition: all 0.6s cubic-bezier(0.3, 0, 0.3, 1);
