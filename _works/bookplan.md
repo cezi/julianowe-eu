@@ -98,12 +98,12 @@ description8:
   title: Brain storming
   text1: "<p>Next we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
   text2: "<p>Some of the ideas under consideration included:</br><br>
-<b>• Categories broken down by need</b></br>
-<b>• App prompts for optimal offers</b></br>
-<b>• The ability to change flights and hotel after purchase</b></br>
-<b>• An offer generator based on a pre-filled preference form</b></br>
-<b>• Planning multiple trips at once in one place</b></br>
-<b>• Combining payments for a service</b>
+• Categories broken down by need</br>
+• App prompts for optimal offers</br>
+• The ability to change flights and hotel after purchase</br>
+• An offer generator based on a pre-filled preference form</br>
+• Planning multiple trips at once in one place</br>
+• Combining payments for a service
 </p>"
 
 gallery-description8-one:
