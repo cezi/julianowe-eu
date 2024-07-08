@@ -96,7 +96,7 @@ gallery-description7-one:
 # description8
 description8:
   title: Brain storming
-  text1: "<p>To kickstart the ideation process, we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
+  text1: "<p>Next we enlisted the support of collaborators who joined our team, collectively brainstorming innovative solutions to the intricate logistics of travel planning. Each participant contributed their ideas by jotting them down on slips of paper, followed by a collaborative voting process to identify the most promising concepts.</p>"
   text2: "<p>Some of the ideas under consideration included:</br><br>
 <b>• Categories broken down by need</b></br>
 <b>• App prompts for optimal offers</b></br>
