@@ -89,7 +89,7 @@ body.no-scroll {
 }
 
 a {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	text-decoration: none;
 	cursor: pointer;
 	outline: none;
@@ -98,15 +98,15 @@ a {
 }
 
 a:link {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 a:active {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 a:visited {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 a:hover {
@@ -244,7 +244,7 @@ a.lnk:after,
 	top: 1px;
 	font-family: 'Font Awesome 5 Free';
 	font-weight: 900;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 }
@@ -612,7 +612,7 @@ blockquote cite,
 	position: relative;
 	text-align: left;
 	font-weight: 700;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .block-quote cite em,
@@ -722,7 +722,7 @@ blockquote cite br {
 
 .wp-block-calendar a {
 	text-decoration: none;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .wp-block-column p:first-child,
@@ -864,8 +864,8 @@ hr {
 	text-align: center;
 	text-decoration: none;
 	overflow-wrap: break-word;
-	background-color: rgba(179,117,118,0.95);
-	border: 1px solid rgba(179,117,118,0.95);
+	background-color: rgba(160,90,96,1);
+	border: 1px solid rgba(160,90,96,1);
 	border-radius: 28px;
 	color: #fff;
 	cursor: pointer;
@@ -886,8 +886,8 @@ hr {
 
 .is-style-outline .wp-block-button__link {
 	background-color: transparent;
-	color: rgba(179,117,118,0.95);
-	border: 1px solid rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
+	border: 1px solid rgba(160,90,96,1);
 }
 
 .post-content .wp-block-archives {
@@ -1173,7 +1173,7 @@ hr {
 	display: inline-block;
 	width: 15px;
 	height: 15px;
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 	border-radius: 15px;
 	-webkit-animation: spinner 0.75s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
 	animation: spinner 0.75s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
@@ -1197,7 +1197,7 @@ hr {
 	bottom: 0;
 	width: 100%;
 	height: 2px;
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 	border-radius: 0;
 	-webkit-animation: spinnerline 1s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
 	animation: spinnerline 1s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
@@ -1400,7 +1400,7 @@ hr {
 	width: 13px;
 	height: 13px;
 	top: 2px;
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 }
 
 .swiper-button-prev.swiper-button-disabled,
@@ -1870,7 +1870,7 @@ hr {
 
 .menu-full ul li a:hover .char,
 .menu-full ul li a:hover .word {
-	color:rgba(179,117,118,0.95);
+	color:rgba(160,90,96,1);
 }
 
 .menu-full ul li ul {
@@ -1967,15 +1967,15 @@ hr {
 
 .menu-full ul li ul li a:hover .char,
 .menu-full ul li ul li a:hover .word {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .menu-full ul li ul li.active>a {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .menu-full ul li.active>a {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .menu-full ul li.opened > ul {
@@ -2032,7 +2032,7 @@ hr {
 }
 
 .menu-social-links a:hover i {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 @-webkit-keyframes close-menu-popup {
@@ -2170,7 +2170,7 @@ hr {
 
 .footer .copyright-text strong, .footer .footer-heading strong,
 .footer .copyright-text b, .footer .footer-heading b {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .footer .copyright-text p, .footer .footer-heading p {
@@ -2182,7 +2182,7 @@ hr {
 }
 
 .footer .copyright-text a:hover, .footer .footer-heading a:hover {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .social-links a {
@@ -2199,7 +2199,7 @@ hr {
 }
 
 .social-links a:hover {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 
@@ -2286,7 +2286,7 @@ hr {
 	position: relative;
 	font-size: 14px;
 	line-height: 1;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	font-weight: 700;
 	z-index: 2;
 	text-transform: uppercase;
@@ -2331,7 +2331,7 @@ hr {
 
 .h-titles .h-subtitle.red,
 .m-titles .m-subtitle.red {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .lui-subtitle {
@@ -2346,7 +2346,7 @@ hr {
 
 .lui-subtitle strong,
 .lui-subtitle b {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .lui-text {
@@ -2460,7 +2460,7 @@ hr {
 	width: 680px;
 	height: 680px;
 	z-index: 2;
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 	border-radius: 100%;
 	-webkit-border-radius: 100%;
 }
@@ -2511,7 +2511,7 @@ hr {
 	font-family: "Roboto Mono";
 	font-size: 90px;
 	line-height: 1.2;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	font-weight: 300;
 	margin: 15px 0 0 0;
 	text-transform: none;
@@ -2623,7 +2623,7 @@ hr {
 .section.hero-started .subtitle b,
 .section.hero-started .title b,
 .section.hero-started .info-list ul li b {
-	color: #b37576;
+	color: #a05a60;
 }
 
 /**
@@ -2676,7 +2676,7 @@ hr {
 .skills-item .dots .dot span {
   border: 2px solid #000;
   border-radius: 50%;
-  background-color: rgba(179,117,118,0.95);
+  background-color: rgba(160,90,96,1);
   box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
   position: absolute;
   right: 0;
@@ -2714,7 +2714,7 @@ hr {
 }
 
 .skills-item .value .num span {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .history-title {
@@ -2914,7 +2914,7 @@ hr {
 	font-size: 41px;
 	min-height: 50px;
 	line-height: 1;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .services-item .lui-text {
@@ -2984,7 +2984,7 @@ hr {
 	width: 0;
 	max-width: 60%;
 	height: 2px;
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 	transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -2996,7 +2996,7 @@ hr {
 }
 
 .filter-links a.active, .dark-skin .filter-links a.active {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .works-item {
@@ -3120,7 +3120,7 @@ hr {
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: 0.05em;
-	color:rgba(179,117,118,0.95);
+	color:rgba(160,90,96,1);
 }
 
 .works-items.works-list-items .works-item .desc .name {
@@ -3207,7 +3207,7 @@ hr {
 	font-size: 13px;
 	font-weight: 700;
 	letter-spacing: 0.05em;
-	color:rgba(179,117,118,0.95);
+	color:rgba(160,90,96,1);
 }
 
 .works-items.works-masonry-items .works-item .desc .name {
@@ -3219,7 +3219,7 @@ hr {
 }
 
 .works-item:hover .desc .name a {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .works-items.works-masonry-items .works-item .desc .text {
@@ -3320,7 +3320,7 @@ hr {
   z-index: 2;
 	display: block;
 	border: 2px solid #000;
-  background-color: rgba(179,117,118,0.95);
+  background-color: rgba(160,90,96,1);
   box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.2);
 	border-radius: 26px;
 	-webkit-border-radius: 26px;
@@ -3331,7 +3331,7 @@ hr {
 	font-size: 41px;
 	min-height: 50px;
 	line-height: 1;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .pricing-item .price {
@@ -3343,7 +3343,7 @@ hr {
 }
 
 .pricing-item .price b {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .pricing-item .price em {
@@ -3379,7 +3379,7 @@ hr {
 	position: absolute;
 	left: 0;
 	top: 6px;
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .pricing-item .list ul li em {
@@ -3529,7 +3529,7 @@ hr {
 }
 
 .archive-item .desc h5 a:hover {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	text-decoration: none;
 }
 
@@ -3876,7 +3876,7 @@ hr {
 }
 
 .m-page-navigation a:hover .h-title {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 .m-page-navigation .nav-arrow {
@@ -4184,7 +4184,7 @@ a.page-numbers.current,
 a.post-page-numbers.current,
 .page-numbers.current,
 .post-page-numbers.current {
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 	color: #fff;
 }
 
@@ -4295,7 +4295,7 @@ input.search-submit,
 	bottom: -20px;
 	width: 30px;
 	height: 4px;
-	background: rgba(179,117,118,0.95);
+	background: rgba(160,90,96,1);
 	-webkit-transition: opacity 0.3s linear, color 0.3s linear, -webkit-transform 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	transition: opacity 0.3s linear, color 0.3s linear, -webkit-transform 0.3s cubic-bezier(0.3, 0, 0.3, 1);
 	-o-transition: transform 0.3s cubic-bezier(0.3, 0, 0.3, 1), opacity 0.3s linear, color 0.3s linear;
@@ -4333,7 +4333,7 @@ input.search-submit,
 
 .content-sidebar ul li a:hover,
 .post-content .wp-block-archives li a:hover {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	text-decoration: underline;
 }
 
@@ -4483,7 +4483,7 @@ input.search-submit,
 	color: #000;
 	text-transform: none;
 	text-decoration: none;
-	border: 1px solid rgba(179,117,118,0.95);
+	border: 1px solid rgba(160,90,96,1);
 }
 
 .content-sidebar ul.menu {
@@ -4765,8 +4765,8 @@ h5.comment-box__details {
 }
 
 .share-post .share-btn:hover {
-	color: rgba(179,117,118,0.95);
-	border-color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
+	border-color: rgba(160,90,96,1);
 }
 
 .share-post .share-btn span {
@@ -4859,7 +4859,7 @@ form.post-password-form label {
 }
 
 .post-password-form input[type="submit"] {
-	background-color: rgba(179,117,118,0.95);
+	background-color: rgba(160,90,96,1);
 	border: 0;
 	border-radius: 5rem;
 	color: #fff;
@@ -4977,7 +4977,7 @@ form.post-password-form label {
 }
 
 .is-style-outline>.wp-block-button__link:not(.has-text-color), .wp-block-button__link.is-style-outline:not(.has-text-color) {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 }
 
 a.wp-block-button__link {
@@ -5018,7 +5018,7 @@ a.wp-block-button__link {
 }
 
 .error-page__num {
-	color: rgba(179,117,118,0.95);
+	color: rgba(160,90,96,1);
 	font-size: 220px;
 	display: block;
 	height: auto;
