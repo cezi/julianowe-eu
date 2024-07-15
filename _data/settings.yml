@@ -16,7 +16,7 @@ preloader:
 header:
   logo:
     image: "assets/img/Home-light-Icon.png"
-    alt: "Julia Nowe"
+    alt: "Julia Nowe Photo"
     width: 28
     height: 24
 

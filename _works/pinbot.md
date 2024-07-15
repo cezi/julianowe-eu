@@ -9,6 +9,7 @@ short_description: How to help local businesses shine among others?
 
 # full details
 full_image: assets/img/works/pinbot/Pinmockup-1.png
+full_image_alt:
 info:
   - label: Year
     value: 2023 - 2024
@@ -28,7 +29,8 @@ description1:
 <b>Pinbot</b> is a website offering <b>local businesses help with their SEO and better visibility</b> in the sea full of fishes.</p>"
 
 gallery-description1-one:
-  - assets/img/works/pinbot/Pinmockup4.png
+  - img: assets/img/works/pinbot/Pinmockup4.png
+    alt: 
 
 # description2
 description2:
@@ -60,7 +62,8 @@ description4:
  • Price converter<br><br> The inisight helped with finding solutions that could easily help and educate business owners.</p>"
   
 gallery-description4-one:
-  - assets/img/works/pinbot/Pincompetitionlight.png
+  - img: assets/img/works/pinbot/Pincompetitionlight.png
+    alt: 
 
 # description5
 description5:
@@ -70,7 +73,8 @@ description5:
   text2: "<p></p>"
 
 gallery-description5-one:
- - assets/img/works/pinbot/PinCJMlight.png
+ - img: assets/img/works/pinbot/PinCJMlight.png
+   alt: 
 
 # description6
 description6:
@@ -80,7 +84,8 @@ description6:
 </p>"
 
 gallery-description6-one:
-  - assets/img/works/pinbot/PinIdeation.png
+  - img: assets/img/works/pinbot/PinIdeation.png
+    alt: 
 
 # description7
 description7:
@@ -89,7 +94,8 @@ description7:
   text2: "<p>To get a good idea of the layout of the page and the positioning of the most important elements, I created a User Flow, which can be found below.  It contains the general layout of the page, detailing the free audit trail.</p>"
 
 gallery-description7-one:
-  - assets/img/works/pinbot/Pinuserflowlight.png
+  - img: assets/img/works/pinbot/Pinuserflowlight.png
+    alt: 
 
 # description8
 description8:
@@ -99,8 +105,10 @@ description8:
   text2: "<p>After approving of the sketches, I focused on the visual design. My client’s preference was my guide to come up with a friendly, easy to read typography and matching colours. </p>"
 
 gallery-description8-one:
-  - assets/img/works/pinbot/wireframespinbot.png
-  - assets/img/works/pinbot/wireframespinbot2.png
+  - img: assets/img/works/pinbot/wireframespinbot.png
+    alt: 
+  - img: assets/img/works/pinbot/wireframespinbot2.png
+    alt: 
 
 # description9
 description9:
@@ -116,10 +124,14 @@ description10:
 </p>"
 
 gallery-description10-one:
-  - assets/img/works/pinbot/UI.png
-  - assets/img/works/pinbot/Pinmockup2.png
-  - assets/img/works/pinbot/Pinmockup4.png
-  - assets/img/works/pinbot/Pinmockup5.png
+  - img: assets/img/works/pinbot/UI.png
+    alt: 
+  - img: assets/img/works/pinbot/Pinmockup2.png
+    alt: 
+  - img: assets/img/works/pinbot/Pinmockup4.png
+    alt: 
+  - img: assets/img/works/pinbot/Pinmockup5.png
+    alt: 
 
   # description11
 description11:

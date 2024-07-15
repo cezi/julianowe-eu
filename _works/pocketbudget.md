@@ -10,6 +10,7 @@ short_description: Managing your daily budget and creating goals to fulfill your
 
 # full details
 full_image: assets/img/works/pocketbudget/PBMockup2new.png
+full_image_alt:
 info:
   - label: Year
     value: 2023 (7 months)
@@ -30,7 +31,8 @@ description1:
   text2: ""
 
 gallery-description1-one:
-  - assets/img/works/pocketbudget/PBMockup3new.png
+  - img: assets/img/works/pocketbudget/PBMockup3new.png
+    alt: 
 
 # description2
 description2:
@@ -65,8 +67,10 @@ description4:
   text2: ""
   
 gallery-description4-one:
-  - assets/img/works/pocketbudget/Graph.png
-  - assets/img/works/pocketbudget/PBAffinitymapnew.png
+  - img: assets/img/works/pocketbudget/Graph.png
+    alt: 
+  - img: assets/img/works/pocketbudget/PBAffinitymapnew.png
+    alt: 
 
 # description5
 description5:
@@ -78,8 +82,10 @@ description5:
   text2: ""
 
 gallery-description5-one:
-  - assets/img/works/pocketbudget/PBPersona1new.png 
-  - assets/img/works/pocketbudget/PBPersona2new.png
+  - img: assets/img/works/pocketbudget/PBPersona1new.png 
+    alt: 
+  - img: assets/img/works/pocketbudget/PBPersona2new.png
+    alt: 
 
 description6:
   title: Predicting the next step
@@ -87,7 +93,8 @@ description6:
   text2: ""
 
 gallery-description6-one:
-  - assets/img/works/pocketbudget/PBUJMnew.png
+  - img: assets/img/works/pocketbudget/PBUJMnew.png
+    alt: 
 
 # description7
 description7:
@@ -101,7 +108,8 @@ description7:
 </p>"
 
 gallery-description7-one:
-  - assets/img/works/pocketbudget/PBIdeationnew.png
+  - img: assets/img/works/pocketbudget/PBIdeationnew.png
+    alt: 
 
 # description8
 description8:
@@ -114,9 +122,12 @@ description8:
 </p>"
 
 gallery-description8-one:
-  - assets/img/works/pocketbudget/Pbuserflownew.png 
-  - assets/img/works/pocketbudget/Wireframes1new.png 
-  - assets/img/works/pocketbudget/Wireframes2new.png
+  - img: assets/img/works/pocketbudget/Pbuserflownew.png 
+    alt: 
+  - img: assets/img/works/pocketbudget/Wireframes1new.png 
+    alt: 
+  - img: assets/img/works/pocketbudget/Wireframes2new.png
+    alt: 
 
 # description9
 description9:
@@ -129,13 +140,17 @@ With the first test performed tested on five people. </br> Their task was to:</b
 </p>"
 
 gallery-description9-one:
-  - assets/img/works/pocketbudget/PrzedPonew.png 
-  - assets/img/works/pocketbudget/PrzedPo2new.png 
-  - assets/img/works/pocketbudget/PrzedPo3new.png
+  - img: assets/img/works/pocketbudget/PrzedPonew.png 
+    alt:
+  - img: assets/img/works/pocketbudget/PrzedPo2new.png 
+    alt: 
+  - img: assets/img/works/pocketbudget/PrzedPo3new.png
+    alt:
 
 video-description8-one:
   poster: assets/img/works/pocketbudget/PBMockup1new.png
   id: -Wtv10oQxus
+  alt: The first test
 
 # description10
 description10:
@@ -144,9 +159,12 @@ description10:
   text2: ""
 
 gallery-description10-one:
-  - assets/img/works/pocketbudget/PrzedPo4new.png 
-  - assets/img/works/pocketbudget/PrzedPo5new.png 
-  - assets/img/works/pocketbudget/PrzedPo6new.png
+  - img: assets/img/works/pocketbudget/PrzedPo4new.png 
+    alt: 
+  - img: assets/img/works/pocketbudget/PrzedPo5new.png 
+    alt:
+  - img: assets/img/works/pocketbudget/PrzedPo6new.png
+    alt:
 
 # description11
 description11:
@@ -155,8 +173,10 @@ description11:
   text2: "<p>Another important element was to ensure <b>transparency, cleanliness and a modernist look</b> for easy day-to-day financial management.</p>"
 
 gallery-description11-one:
-  - assets/img/works/pocketbudget/PBUInew.png 
-  - assets/img/works/pocketbudget/PBMockup4new.png
+  - img: assets/img/works/pocketbudget/PBUInew.png 
+    alt: 
+  - img: assets/img/works/pocketbudget/PBMockup4new.png
+    alt: 
 
 # description12
 description12:

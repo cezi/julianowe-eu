@@ -55,7 +55,9 @@ layout: default
 
 	<div class="m-image-large">
 		<div class="image">
-			<div class="img js-parallax" style="background-image: url({{ page.full_image | relative_url }});"></div>
+			<div role="img" aria-label="{{ page.full_image_alt }}" class="img js-parallax" style="background-image: url({{ page.full_image | relative_url }});">
+			<img src="{{ page.full_image | relative_url }}" alt="{{ page.full_image_alt }}" style="visibility: hidden;" />
+			</div>
 		</div>
 	</div>
 
@@ -106,8 +108,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -199,8 +201,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -258,8 +260,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -317,8 +319,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -376,8 +378,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -435,8 +437,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -494,8 +496,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -513,7 +515,9 @@ layout: default
 <!-- Section - Video description8 One -->
 <div class="section section-inner m-video-large">
 	<div class="video">
-		<div class="img js-parallax" style="background-image: url({{ page.video-description8-one.poster | relative_url }});"></div>
+		<div role="img" aria-label="{{ page.video-description8-one.alt }}" class="img js-parallax" style="background-image: url({{ page.video-description8-one.poster | relative_url }});">
+		<img src="{{ page.video-description8-one.poster | relative_url  }}" alt="{{ page.video-description8-one.alt }}" style="visibility: hidden;" />
+		</div>
 		<iframe class="js-video-iframe" data-src="https://www.youtube.com/embed/{{ page.video-description8-one.id }}"></iframe>
 		<div class="play"></div>
 	</div>
@@ -565,8 +569,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -625,8 +629,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -685,8 +689,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>
@@ -745,8 +749,8 @@ layout: default
 					<div class="works-item">
 						<div class="image scrolla-element-anim-1 scroll-animate" data-animate="active">
 							<div class="img">
-								<a href="{{ image | relative_url }}" class="has-popup-image">
-									<img decoding="async" src="{{ image | relative_url }}" alt="image" loading="lazy">
+								<a href="{{ image.img | relative_url }}" class="has-popup-image">
+									<img decoding="async" src="{{ image.img | relative_url }}" alt="{{ image.alt }}" loading="lazy">
 								</a>
 							</div>
 						</div>

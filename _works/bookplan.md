@@ -9,6 +9,7 @@ short_description: Helping you plan all your dream vacations in one place
 
 # full details
 full_image: assets/img/works/bookplan/BPMockup1.png
+full_image_alt: 
 info:
   - label: Year
     value: 2023 
@@ -29,7 +30,8 @@ description1:
 </p>"
 
 gallery-description1-one:
-  - assets/img/works/bookplan/Mockup1.1.png
+  - img: assets/img/works/bookplan/Mockup1.1.png
+    alt: opis do Mockup1.1.png
 
 # description2
 description2:
@@ -60,8 +62,10 @@ description4:
 Our primary client was <b>a middle-aged woman, a frequent traveler for leisure and business, who needed a tool to help her purchase multiple tours in one.</b></p>"
   
 gallery-description4-one:
-  - assets/img/works/bookplan/BPPersona.png
-  - assets/img/works/bookplan/BPEmpathyMaplight.png
+  - img: assets/img/works/bookplan/BPPersona.png
+    alt: opis do BPPersona.png
+  - img: assets/img/works/bookplan/BPEmpathyMaplight.png
+    alt: opis do BPEmpathyMaplight.png
 
 # description5
 description5:
@@ -70,7 +74,8 @@ description5:
   text2: "<p></p>"
 
 gallery-description5-one:
-  - assets/img/works/bookplan/BPStorytellinglight.png
+  - img: assets/img/works/bookplan/BPStorytellinglight.png
+    alt: 
 
 # description6
 description6:
@@ -80,7 +85,8 @@ description6:
 Within this path, we carefully considered <b>potential issues that might be encountered during the trips</b>. We devised swift and effective solutions to ensure that following the initial interaction with BookPlan, users remain encouraged and inclined to return for their future needs.</p>"
 
 gallery-description6-one:
-  - assets/img/works/bookplan/BPUJMpicture.png
+  - img: assets/img/works/bookplan/BPUJMpicture.png
+    alt: 
 
 # description7
 description7:
@@ -91,7 +97,8 @@ In my role, I concentrated on analyzing <b>two out of six agencies</b>, namely I
 The range of products provided encompassed a diverse selection, including tours, hotels, combined flight offers with accommodations, and various amenities.</p>"
 
 gallery-description7-one:
-  - assets/img/works/bookplan/BPcompetitiveanalysisl.png
+  - img: assets/img/works/bookplan/BPcompetitiveanalysisl.png
+    alt: 
 
 # description8
 description8:
@@ -107,7 +114,8 @@ description8:
 </p>"
 
 gallery-description8-one:
-  - assets/img/works/bookplan/BPIdeationpicture.png
+  - img: assets/img/works/bookplan/BPIdeationpicture.png
+    alt: 
     
 # description9
 description9:
@@ -122,10 +130,14 @@ Our aim was to see <b>if the path to buying more than one trip was easy, short a
 The booking path turned out to be illogical, our participants were forgetting their original choices when booking a second flight. For subsequent tests, <b>we decided to run separate tests using low fidelity prototypes on a web browser resolution</b>, which allows the  better access to process information.</p>"
 
 gallery-description9-one:
-  - assets/img/works/bookplan/BPPaperpicture1.png
-  - assets/img/works/bookplan/BPpaperpicture2.png
-  - assets/img/works/bookplan/BPpaperpicture3.png
-  - assets/img/works/bookplan/BPpaperpicture4.png
+  - img: assets/img/works/bookplan/BPPaperpicture1.png
+    alt: 
+  - img: assets/img/works/bookplan/BPpaperpicture2.png
+    alt: 
+  - img: assets/img/works/bookplan/BPpaperpicture3.png
+    alt: 
+  - img: assets/img/works/bookplan/BPpaperpicture4.png
+    alt: 
 
 # description10
 description10:
@@ -135,9 +147,12 @@ description10:
   text2: "<p>In the third round of usability testing, two additional participants were included, leading to valuable insights for refinement and enhancement.</p>"
 
 gallery-description10-one:
-  - assets/img/works/bookplan/Changes.png
-  - assets/img/works/bookplan/Changes2.png
-  - assets/img/works/bookplan/Changes3.png
+  - img: assets/img/works/bookplan/Changes.png
+    alt: 
+  - img: assets/img/works/bookplan/Changes2.png
+    alt: 
+  - img: assets/img/works/bookplan/Changes3.png
+    alt: 
 
 # description11
 description11:
@@ -148,11 +163,16 @@ The emphasis was put on a <b>clean, elegant and yet warm design</b> that could h
   text2: ""
 
 gallery-description11-one:
-  - assets/img/works/bookplan/BPUI.png
-  - assets/img/works/bookplan/Mockuphotel.png
-  - assets/img/works/bookplan/Mockup3.png
-  - assets/img/works/bookplan/Mockup5.png
-  - assets/img/works/bookplan/Mockup4.png
+  - img: assets/img/works/bookplan/BPUI.png
+    alt: 
+  - img: assets/img/works/bookplan/Mockuphotel.png
+    alt: 
+  - img: assets/img/works/bookplan/Mockup3.png
+    alt: 
+  - img: assets/img/works/bookplan/Mockup5.png
+    alt: 
+  - img: assets/img/works/bookplan/Mockup4.png
+    alt: 
 
 # description12 
 description12:
