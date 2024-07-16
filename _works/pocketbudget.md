@@ -123,7 +123,8 @@ description8:
 
 gallery-description8-one:
   - img: assets/img/works/pocketbudget/Pbuserflownew.png 
-    alt: PocketBudget's Userflow including three branches of using the application: browsing learning tab, arranging a consultation with a financial adviser and creating a goal
+    alt: PocketBudget's Userflow including three branches of using the application: browsing learning tab, arranging a consultation   
+    with a financial adviser and creating a goal
   - img: assets/img/works/pocketbudget/Wireframes1new.png 
     alt: PocketBudget's first wireframes showing registration proccess and questionnaire about financial habits
   - img: assets/img/works/pocketbudget/Wireframes2new.png
