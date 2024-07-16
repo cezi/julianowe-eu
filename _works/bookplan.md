@@ -9,7 +9,7 @@ short_description: Helping you plan all your dream vacations in one place
 
 # full details
 full_image: assets/img/works/bookplan/BPMockup1.png
-full_image_alt: 
+full_image_alt: Mock up of BookPlan website showing the hero page
 info:
   - label: Year
     value: 2023 
