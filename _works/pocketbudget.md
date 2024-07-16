@@ -10,7 +10,7 @@ short_description: Managing your daily budget and creating goals to fulfill your
 
 # full details
 full_image: assets/img/works/pocketbudget/PBMockup2new.png
-full_image_alt:
+full_image_alt: Mock up of PocketBudget's main page and logo on iphone
 info:
   - label: Year
     value: 2023 (7 months)
@@ -32,7 +32,7 @@ description1:
 
 gallery-description1-one:
   - img: assets/img/works/pocketbudget/PBMockup3new.png
-    alt: 
+    alt: Mock up of PocketBudget's creating a goal function on iphone
 
 # description2
 description2:
@@ -68,9 +68,9 @@ description4:
   
 gallery-description4-one:
   - img: assets/img/works/pocketbudget/Graph.png
-    alt: 
+    alt: PocketBudget's graph showing the results of interviews and user's main problems with saving up money
   - img: assets/img/works/pocketbudget/PBAffinitymapnew.png
-    alt: 
+    alt: PocketBudget's Affinity Map organising every answer from testing to a separate category
 
 # description5
 description5:
@@ -83,9 +83,9 @@ description5:
 
 gallery-description5-one:
   - img: assets/img/works/pocketbudget/PBPersona1new.png 
-    alt: 
+    alt: PocketBudget's first Persona
   - img: assets/img/works/pocketbudget/PBPersona2new.png
-    alt: 
+    alt: PocketBudget's second Persona
 
 description6:
   title: Predicting the next step
@@ -94,7 +94,7 @@ description6:
 
 gallery-description6-one:
   - img: assets/img/works/pocketbudget/PBUJMnew.png
-    alt: 
+    alt: PocketBudget's User Journey Map
 
 # description7
 description7:
@@ -109,7 +109,7 @@ description7:
 
 gallery-description7-one:
   - img: assets/img/works/pocketbudget/PBIdeationnew.png
-    alt: 
+    alt: PocketBudget's Ideation proccess of 'How might we' 
 
 # description8
 description8:
@@ -123,11 +123,11 @@ description8:
 
 gallery-description8-one:
   - img: assets/img/works/pocketbudget/Pbuserflownew.png 
-    alt: 
+    alt: PocketBudget's Userflow including three branches of using the application: browsing learning tab, arranging a consultation with a financial adviser and creating a goal
   - img: assets/img/works/pocketbudget/Wireframes1new.png 
-    alt: 
+    alt: PocketBudget's first wireframes showing registration proccess and questionnaire about financial habits
   - img: assets/img/works/pocketbudget/Wireframes2new.png
-    alt: 
+    alt: PocketBudget's first wireframes showing proccess of creating a financial goal 
 
 # description9
 description9:
@@ -141,16 +141,16 @@ With the first test performed tested on five people. </br> Their task was to:</b
 
 gallery-description9-one:
   - img: assets/img/works/pocketbudget/PrzedPonew.png 
-    alt:
+    alt: PocketBudget's screens comparison with changes after user testing 1 
   - img: assets/img/works/pocketbudget/PrzedPo2new.png 
-    alt: 
+    alt: PocketBudget's screens comparison with changes after user testing 2
   - img: assets/img/works/pocketbudget/PrzedPo3new.png
-    alt:
+    alt: PocketBudget's screens comparison with changes after user testing 3
 
 video-description8-one:
   poster: assets/img/works/pocketbudget/PBMockup1new.png
   id: -Wtv10oQxus
-  alt: The first test
+  alt: Video of proccess of creating a goal in the PocketBudget application
 
 # description10
 description10:
@@ -160,11 +160,11 @@ description10:
 
 gallery-description10-one:
   - img: assets/img/works/pocketbudget/PrzedPo4new.png 
-    alt: 
+    alt: PocketBudget's screens comparison with changes after second user testing 1
   - img: assets/img/works/pocketbudget/PrzedPo5new.png 
-    alt:
+    alt: PocketBudget's screens comparison with changes after second user testing 2
   - img: assets/img/works/pocketbudget/PrzedPo6new.png
-    alt:
+    alt: PocketBudget's screens comparison with changes after second user testing 3
 
 # description11
 description11:
@@ -174,9 +174,9 @@ description11:
 
 gallery-description11-one:
   - img: assets/img/works/pocketbudget/PBUInew.png 
-    alt: 
+    alt: Details of PocketBudget's UI including typography, colours, icons
   - img: assets/img/works/pocketbudget/PBMockup4new.png
-    alt: 
+    alt: Mock up of Bookplan showing proccess of creating a financial goal
 
 # description12
 description12:
