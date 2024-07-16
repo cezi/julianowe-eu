@@ -31,7 +31,7 @@ description1:
 
 gallery-description1-one:
   - img: assets/img/works/bookplan/Mockup1.1.png
-    alt: opis do Mockup1.1.png
+    alt: Mock up of BookPlan website showing the hero page extended
 
 # description2
 description2:
@@ -63,9 +63,9 @@ Our primary client was <b>a middle-aged woman, a frequent traveler for leisure a
   
 gallery-description4-one:
   - img: assets/img/works/bookplan/BPPersona.png
-    alt: opis do BPPersona.png
+    alt: Bookplan's Persona
   - img: assets/img/works/bookplan/BPEmpathyMaplight.png
-    alt: opis do BPEmpathyMaplight.png
+    alt: Bookplan's empathy map including the needs, thoughts and emotions of the Persona
 
 # description5
 description5:
@@ -75,7 +75,7 @@ description5:
 
 gallery-description5-one:
   - img: assets/img/works/bookplan/BPStorytellinglight.png
-    alt: 
+    alt: Short story about Bookplan's client finding out about the website and booking her first trip 
 
 # description6
 description6:
@@ -86,7 +86,7 @@ Within this path, we carefully considered <b>potential issues that might be enco
 
 gallery-description6-one:
   - img: assets/img/works/bookplan/BPUJMpicture.png
-    alt: 
+    alt: Picture of BookPlan's User Journey Map on paper
 
 # description7
 description7:
@@ -98,7 +98,7 @@ The range of products provided encompassed a diverse selection, including tours,
 
 gallery-description7-one:
   - img: assets/img/works/bookplan/BPcompetitiveanalysisl.png
-    alt: 
+    alt: Bookplan's competitive analysis 
 
 # description8
 description8:
@@ -115,7 +115,7 @@ description8:
 
 gallery-description8-one:
   - img: assets/img/works/bookplan/BPIdeationpicture.png
-    alt: 
+    alt: Picture of ideation proccess on paper with votes on the best ideas 
     
 # description9
 description9:
@@ -131,13 +131,13 @@ The booking path turned out to be illogical, our participants were forgetting th
 
 gallery-description9-one:
   - img: assets/img/works/bookplan/BPPaperpicture1.png
-    alt: 
+    alt: Picture of the first paper prototypes 1
   - img: assets/img/works/bookplan/BPpaperpicture2.png
-    alt: 
+    alt: Picture of the first paper prototypes 2
   - img: assets/img/works/bookplan/BPpaperpicture3.png
-    alt: 
+    alt: Picture of the first paper prototypes 3
   - img: assets/img/works/bookplan/BPpaperpicture4.png
-    alt: 
+    alt: Picture of the first paper prototypes 4
 
 # description10
 description10:
@@ -148,11 +148,11 @@ description10:
 
 gallery-description10-one:
   - img: assets/img/works/bookplan/Changes.png
-    alt: 
+    alt: Screens comparison with changes after user testing 1 
   - img: assets/img/works/bookplan/Changes2.png
-    alt: 
+    alt: Screens comparison with changes after user testing 2
   - img: assets/img/works/bookplan/Changes3.png
-    alt: 
+    alt: Screens comparison with changes after user testing 3
 
 # description11
 description11:
@@ -164,15 +164,15 @@ The emphasis was put on a <b>clean, elegant and yet warm design</b> that could h
 
 gallery-description11-one:
   - img: assets/img/works/bookplan/BPUI.png
-    alt: 
+    alt: Details of BookPlan's UI including typography, colours, icons
   - img: assets/img/works/bookplan/Mockuphotel.png
-    alt: 
+    alt: Mock up of Bookplan showing hotel details
   - img: assets/img/works/bookplan/Mockup3.png
-    alt: 
+    alt: Mock up of Bookplan showing list of accomodations and flights
   - img: assets/img/works/bookplan/Mockup5.png
-    alt: 
+    alt: Mock up of Bookplan showing proccess of check out while booking a trip
   - img: assets/img/works/bookplan/Mockup4.png
-    alt: 
+    alt: Mock up of Bookplan showing confirmation of booking the trip and details
 
 # description12 
 description12:
