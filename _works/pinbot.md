@@ -9,7 +9,7 @@ short_description: How to help local businesses shine among others?
 
 # full details
 full_image: assets/img/works/pinbot/Pinmockup-1.png
-full_image_alt:
+full_image_alt: Mock up of Pinbot's website showing the hero page on laptop and phone
 info:
   - label: Year
     value: 2023 - 2024
@@ -30,7 +30,7 @@ description1:
 
 gallery-description1-one:
   - img: assets/img/works/pinbot/Pinmockup4.png
-    alt: 
+    alt: Mock up of Pinbot's offer details showing on iphone 
 
 # description2
 description2:
@@ -63,7 +63,7 @@ description4:
   
 gallery-description4-one:
   - img: assets/img/works/pinbot/Pincompetitionlight.png
-    alt: 
+    alt: Pinbot's competitive analysis 
 
 # description5
 description5:
@@ -74,7 +74,7 @@ description5:
 
 gallery-description5-one:
  - img: assets/img/works/pinbot/PinCJMlight.png
-   alt: 
+   alt: Pinbot's Customer Journey Map 
 
 # description6
 description6:
@@ -85,7 +85,7 @@ description6:
 
 gallery-description6-one:
   - img: assets/img/works/pinbot/PinIdeation.png
-    alt: 
+    alt: Pinbot's proccess of brainstorming during ideation including ideas and solutions to specific problems
 
 # description7
 description7:
@@ -95,7 +95,7 @@ description7:
 
 gallery-description7-one:
   - img: assets/img/works/pinbot/Pinuserflowlight.png
-    alt: 
+    alt: Pinbot's user flow
 
 # description8
 description8:
@@ -106,9 +106,9 @@ description8:
 
 gallery-description8-one:
   - img: assets/img/works/pinbot/wireframespinbot.png
-    alt: 
+    alt: Pinbot's wireframes presenting the first ideas of the homepage
   - img: assets/img/works/pinbot/wireframespinbot2.png
-    alt: 
+    alt: Pinbot's wireframes presenting the first ideas of offer's details
 
 # description9
 description9:
@@ -125,13 +125,13 @@ description10:
 
 gallery-description10-one:
   - img: assets/img/works/pinbot/UI.png
-    alt: 
+    alt: Details of Pinbot's UI including typography, colours, icons
   - img: assets/img/works/pinbot/Pinmockup2.png
-    alt: 
+    alt: Mock up of Pinbot's website showing free audit site on the laptop and phone
   - img: assets/img/works/pinbot/Pinmockup4.png
-    alt: 
+    alt: Mock up of Pinbot's offer details showing on iphone 
   - img: assets/img/works/pinbot/Pinmockup5.png
-    alt: 
+    alt: Mock up of Pinbot's homepage extended view on iphones
 
   # description11
 description11:
