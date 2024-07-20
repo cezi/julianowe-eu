@@ -24,14 +24,14 @@
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 
           <h3 class="history-title scrolla-element-anim-1 scroll-animate" data-animate="active">
-            <span style="font-size:24px" >{{ content.education.title }}</span>
+            <span style="font-size:24px">{{ content.education.title }}</span>
           </h3>
           <div class="history-items">
             {% for item in content.education.items %}
             <div class="history-item lui-collapse-item{% if forloop.first == true %} opened{% endif %} scrolla-element-anim-1 scroll-animate" data-animate="active">
-              <h6 class="name lui-collapse-btn{% if forloop.first == true %} active{% endif %}">
-                <span>{{ item.name }}</span>
-              </h6>
+              <h4 class="name lui-collapse-btn{% if forloop.first == true %} active{% endif %}">
+                <span style="font-size:21px">{{ item.name }}</span>
+              </h4>
               <div class="history-content">
                 <div class="subname">
                   <span>{{ item.subname }}</span>
@@ -52,15 +52,15 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 
-          <h5 class="history-title scrolla-element-anim-1 scroll-animate" data-animate="active">
-            <span>{{ content.experience.title }}</span>
-          </h5>
+          <h3 class="history-title scrolla-element-anim-1 scroll-animate" data-animate="active">
+            <span style="font-size:24px">{{ content.experience.title }}</span>
+          </h3>
           <div class="history-items">
             {% for item in content.experience.items %}
             <div class="history-item lui-collapse-item{% if forloop.first == true %} opened{% endif %} scrolla-element-anim-1 scroll-animate" data-animate="active">
-              <h6 class="name lui-collapse-btn{% if forloop.first == true %} active{% endif %}">
-                <span>{{ item.name }}</span>
-              </h6>
+              <h4 class="name lui-collapse-btn{% if forloop.first == true %} active{% endif %}">
+                <span style="font-size:21px">{{ item.name }}</span>
+              </h4>
               <div class="history-content">
                 <div class="subname">
                   <span>{{ item.subname }}</span>
