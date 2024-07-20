@@ -15,10 +15,10 @@ Types of Cookies we use    <br />
 Manage cookie preferences Cookie Settings You can change your cookie preferences any time by clicking the above button. This will let you revisit the cookie consent banner and change your preferences or withdraw your consent right away.     <br />  
 In addition to this, different browsers provide different methods to block and delete cookies used by websites. You can change the settings of your browser to block/delete the cookies. Listed below are the links to the support documents on how to manage and delete cookies from the major web browsers.
   <br />   <br />  
-Chrome: https://support.google.com/accounts/answer/32050    <br />  
-Safari: https://support.apple.com/en-in/guide/safari/sfri11471/mac    <br />  
-Firefox: https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US    <br />  
-Internet Explorer: https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc   
+Chrome: <a target="_blank" href="https://support.google.com/accounts/answer/32050">https://support.google.com/accounts/answer/32050</a>    <br />  
+Safari: <a target="_blank" href="https://support.apple.com/en-in/guide/safari/sfri11471/mac">https://support.apple.com/en-in/guide/safari/sfri11471/mac</a>    <br />  
+Firefox: <a target="_blank" href="https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US">https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US</a>    <br />  
+Internet Explorer: <a target="_blank" href="https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc">https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc</a>   
  <br />   <br />  
 If you are using any other web browser, please visit your browser’s official support documents.
  <br />   <br />  
